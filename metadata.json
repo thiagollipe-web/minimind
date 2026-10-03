@@ -1,0 +1,6 @@
+{
+  "name": "MiniMind Studio",
+  "description": "Chatbot inteligente e simulador de ajuste de parâmetros LoRA (Fine-Tuning) para rodar LLMs locais com baixa latência em hardware corporativo padrão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
