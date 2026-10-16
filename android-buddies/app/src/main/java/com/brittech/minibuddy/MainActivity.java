@@ -16,6 +16,7 @@ import java.util.Locale;
 import java.util.concurrent.*;
 
 public final class MainActivity extends Activity {
+    private int accent; private LinearLayout root;
     private Session session;private LinearLayout content;private TextView stats,output,message;
     private EditText text,query;private RobotView preview;private Button learning;private Spinner action;
     private final Handler ui=new Handler(Looper.getMainLooper());
@@ -27,9 +28,10 @@ public final class MainActivity extends Activity {
     @Override public void onCreate(Bundle state){
         super.onCreate(state);session=Session.get(this);
         setVolumeControlStream(android.media.AudioManager.STREAM_MUSIC);
-        getWindow().setStatusBarColor(0xff121525);getWindow().setNavigationBarColor(0xff121525);
+        accent=SubjectConfig.load(this).color();
+        getWindow().setStatusBarColor(0xff101827);getWindow().setNavigationBarColor(0xff101827);
         ScrollView scroll=new ScrollView(this);scroll.setFillViewport(true);
-        content=new LinearLayout(this);content.setOrientation(LinearLayout.VERTICAL);content.setPadding(dp(20),dp(20),dp(20),dp(28));content.setBackgroundColor(0xff121525);
+        content=new LinearLayout(this);content.setOrientation(LinearLayout.VERTICAL);content.setPadding(dp(20),dp(20),dp(20),dp(28));content.setBackgroundColor(0xff101827);root=content;
         scroll.addView(content);setContentView(scroll);
         if(Build.VERSION.SDK_INT>=30){
             scroll.setOnApplyWindowInsetsListener((view,insets)->{
@@ -37,9 +39,10 @@ public final class MainActivity extends Activity {
                 scroll.setPadding(bars.left,bars.top,bars.right,bars.bottom);return insets;
             });scroll.requestApplyInsets();
         }
-        title(SubjectConfig.load(this).nickname()+" • "+SubjectConfig.load(this).name(),27);
-        button("Estudar, ensinar e ver aprendizagem",()->startActivity(new Intent(this,EducationActivity.class)));label("Brittech.inc • bichinho virtual com missões offline",14);
-        button("Cuidados, missões e o que aprendi",()->startActivity(new Intent(this,MissionsActivity.class)));
+        label("MINIBUDDIES  /  SEU CANTINHO",12);
+        section("Olá! Vamos aprender juntos?",false);
+        title(SubjectConfig.load(this).nickname(),32);
+        label("Seu companheiro de "+SubjectConfig.load(this).name()+" está esperando por você.",16);
         preview=new RobotView(this,session,new RobotView.Gestures(){
             public void pet(){session.pet();Chirps.play(session);}
             public void drag(float dx,float dy){}
@@ -47,20 +50,22 @@ public final class MainActivity extends Activity {
             public void positionSaved(){}
         });
         LinearLayout.LayoutParams previewParams=new LinearLayout.LayoutParams(dp(140),dp(156));previewParams.gravity=Gravity.CENTER_HORIZONTAL;content.addView(preview,previewParams);
-        stats=label("Carregando indicadores…",14);message=label(session.message,14);
-        button("1 · Permitir aparecer sobre outros apps",()->{
+        label("Toque em mim para estudar • segure para fazer carinho",13);
+        button("Vamos estudar  →",()->startActivity(new Intent(this,EducationActivity.class)));
+        button("Meu bichinho e minhas missões",()->startActivity(new Intent(this,MissionsActivity.class)));
+        label("No seu ritmo. Sem internet. Com companhia.",12);
+        section("✦  Leve seu Buddy com você",false);
+        label("Ative o mascote para abrir exercícios sobre outros aplicativos.",14);
+        button("Permitir mascote na tela",()->{
             try{startActivity(new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION,Uri.parse("package:"+getPackageName())));}catch(Exception e){toast("Abra as configurações de permissões do MiniBuddy: "+e.getMessage());}
         });
-        button("2 · Mostrar mascote flutuante",()->startOverlay(false));
+        button("Mostrar meu Buddy",()->startOverlay(false));
         button("Miniaulas e exercícios BNCC no balão",()->{if(!Settings.canDrawOverlays(this)){toast("Primeiro permita aparecer sobre outros apps.");return;}startForegroundService(new Intent(this,OverlayService.class).setAction("STUDY"));moveTaskToBack(true);});
-        label("Posição na tela",16);
+        section("↔  Aparência e posição",true);
+        label("Escolha onde seu companheiro vai ficar.",14);
         button("Colocar no lado esquerdo",()->position("LEFT"));
         button("Colocar no lado direito",()->position("RIGHT"));
         button("Colocar no centro",()->position("CENTER"));
-        button("Observar tela — pedir autorização",this::capture);
-        button("Pausar captura / demonstração",()->{stopService(new Intent(this,CaptureService.class));session.mode("pausado");session.message="Observação pausada; carinho e memória continuam disponíveis.";});
-        button("Demonstração visual",()->startOverlay(true));
-        learning=button("Aprendizagem",()->session.setLearning(!session.learning));
         Switch mute=new Switch(this);mute.setText("Silenciar sons");mute.setTextColor(Color.WHITE);mute.setChecked(session.prefs.getBoolean("muted",false));mute.setOnCheckedChangeListener((v,checked)->session.prefs.edit().putBoolean("muted",checked).apply());content.addView(mute);
         label("Volume dos sons do robô",14);
         SeekBar volume=new SeekBar(this);volume.setMax(100);volume.setProgress(Math.round(session.prefs.getFloat("volume",.8f)*100));
@@ -85,11 +90,16 @@ public final class MainActivity extends Activity {
             public void onNothingSelected(android.widget.AdapterView<?> p){}
             public void onItemSelected(android.widget.AdapterView<?> p,View v,int position,long id){session.prefs.edit().putInt("size",new int[]{80,100,130}[position]).apply();}
         });content.addView(sizes);label("O tamanho é aplicado ao fechar e mostrar novamente o mascote.",12);
-        title("Balões de estudo",20);
+        section("✎  Convites para aprender",true);
         Switch questions=new Switch(this);questions.setText("Abrir balões de estudo enquanto o mascote está ativo (silêncio 22h–7h)");questions.setTextColor(Color.WHITE);questions.setChecked(session.prefs.getBoolean("study_questions",false));questions.setOnCheckedChangeListener((v,on)->session.prefs.edit().putBoolean("study_questions",on).putLong("last_study_question",System.currentTimeMillis()).apply());content.addView(questions);
         Spinner intervals=new Spinner(this);intervals.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,new String[]{"A cada 1 hora","A cada 3 horas","A cada 6 horas"}));int hours=session.prefs.getInt("study_hours",3);intervals.setSelection(hours==1?0:hours==6?2:1);intervals.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener(){public void onNothingSelected(AdapterView<?> p){}public void onItemSelected(AdapterView<?> p,View v,int n,long id){session.prefs.edit().putInt("study_hours",new int[]{1,3,6}[n]).apply();}});content.addView(intervals);
         label("Toque no mascote ou em ⋯ para abrir uma pergunta com alternativas no balão. Segure para carinho. Balões automáticos dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
-        title("Reações e carinho",20);
+        section("✧  Aprendizado e reações",true);
+        button("Observar tela — pedir autorização",this::capture);
+        button("Pausar captura / demonstração",()->{stopService(new Intent(this,CaptureService.class));session.mode("pausado");session.message="Observação pausada; carinho e memória continuam disponíveis.";});
+        button("Demonstração visual",()->startOverlay(true));
+        learning=button("Aprendizagem",()->session.setLearning(!session.learning));
+
         button("A reação foi útil (+1)",()->toast(session.rate(1)?"Preferência atualizada":"Ative observação e aprendizagem; aguarde uma ação ainda não avaliada."));
         button("A reação foi inadequada (−1)",()->toast(session.rate(-1)?"Preferência atualizada":"Sem ação disponível ou aprendizagem congelada."));
         action=new Spinner(this);action.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,MemoryDb.ACTIONS));content.addView(action);
@@ -98,7 +108,7 @@ public final class MainActivity extends Activity {
             MemoryDb.Decision d=session.memory.suggest(TextTools.features(session.context,session.result!=null&&session.result.activity>.008f?"movimento":"estavel",session.mode),"Observando",false);
             d.action=MemoryDb.ACTIONS[action.getSelectedItemPosition()];session.decision=d;session.rate(1);toast("Preferência registrada.");
         });
-        title("Memória textual",20);
+        section("▤  Nosso caderno de memórias",true);
         label("Digite ou cole um texto. Salvar também o usa como contexto das reações.",14);
         text=new EditText(this);text.setHint("Nome, projeto, conversa ou anotação…");text.setMinLines(3);text.setGravity(Gravity.TOP);text.setMaxLines(8);text.setInputType(android.text.InputType.TYPE_CLASS_TEXT|android.text.InputType.TYPE_TEXT_FLAG_MULTI_LINE);content.addView(text);
         button("Salvar texto e usar como contexto",()->{String value=text.getText().toString().trim();runIO(()->{long id=session.memory.saveNote(value,"Texto registrado no Android");session.setContext(value);return "Texto #"+id+" salvo e contexto ativado.";});});
@@ -113,7 +123,9 @@ public final class MainActivity extends Activity {
             Intent intent=new Intent(Intent.ACTION_OPEN_DOCUMENT).setType("application/json").addCategory(Intent.CATEGORY_OPENABLE);startActivityForResult(intent,IMPORT);
         });
         button("Exportar memória textual JSON",()->startActivityForResult(new Intent(Intent.ACTION_CREATE_DOCUMENT).setType("application/json").addCategory(Intent.CATEGORY_OPENABLE).putExtra(Intent.EXTRA_TITLE,"MiniBuddy_Memoria_Textual.json"),EXPORT));
-        title("Uso e controle",20);
+        section("♡  Como seu Buddy está?",true);
+        stats=label("Carregando indicadores…",14);message=label(session.message,14);
+        section("Configurações e ajuda",true);
         label("No mascote: toque para abrir perguntas com alternativas; segure para carinho e arraste pelo corpo para mover. O botão Painel fica dentro do balão. A captura pausa enquanto o painel ou balão está aberto.",14);
         label("STDP aprende regularidades visuais. Textos são pesquisados por palavras. Reações aprendem com avaliações. Não há LLM, OCR ou leitura automática de conversas.",14);
         button("Recolher painel",()->moveTaskToBack(true));
@@ -166,9 +178,26 @@ public final class MainActivity extends Activity {
             runOnUiThread(()->{if(isDestroyed())return;if(isSearch)output.setText(response);else{session.message=response;toast(response);}});
         });
     }
-    private void title(String text,int size){TextView view=label(text,size);view.setTypeface(null,android.graphics.Typeface.BOLD);view.setPadding(0,dp(18),0,dp(8));}
-    private TextView label(String text,int size){TextView view=new TextView(this);view.setText(text);view.setTextSize(size);view.setTextColor(0xffe9e6fa);view.setPadding(0,dp(5),0,dp(5));content.addView(view);return view;}
-    private Button button(String text,Runnable action){Button view=new Button(this);view.setText(text);view.setAllCaps(false);view.setOnClickListener(v->action.run());content.addView(view,new LinearLayout.LayoutParams(-1,-2));return view;}
+    private android.graphics.drawable.GradientDrawable surface(int color,int radius){
+        android.graphics.drawable.GradientDrawable d=new android.graphics.drawable.GradientDrawable();d.setColor(color);d.setCornerRadius(dp(radius));return d;
+    }
+    private void section(String name,boolean collapsible){
+        LinearLayout card=new LinearLayout(this);card.setOrientation(LinearLayout.VERTICAL);card.setPadding(dp(18),dp(12),dp(18),dp(18));
+        card.setBackground(surface(0xff1b283c,24));
+        LinearLayout.LayoutParams cp=new LinearLayout.LayoutParams(-1,-2);cp.setMargins(0,dp(14),0,0);root.addView(card,cp);
+        TextView heading=new TextView(this);heading.setText(name+(collapsible?"   ＋":""));heading.setTextSize(18);heading.setTextColor(0xfff4f6fc);heading.setTypeface(null,android.graphics.Typeface.BOLD);heading.setPadding(0,dp(10),0,dp(10));card.addView(heading);
+        LinearLayout body=new LinearLayout(this);body.setOrientation(LinearLayout.VERTICAL);card.addView(body);content=body;
+        if(collapsible){body.setVisibility(View.GONE);heading.setFocusable(true);heading.setContentDescription(name+", expandir seção");heading.setOnClickListener(v->{boolean open=body.getVisibility()==View.VISIBLE;body.setVisibility(open?View.GONE:View.VISIBLE);heading.setText(name+(open?"   ＋":"   −"));heading.setContentDescription(name+(open?", expandir seção":", recolher seção"));});}
+    }
+    private void title(String text,int size){TextView view=label(text,size);view.setTypeface(null,android.graphics.Typeface.BOLD);view.setTextColor(accent);view.setPadding(0,dp(8),0,dp(8));}
+    private TextView label(String text,int size){TextView view=new TextView(this);view.setText(text);view.setTextSize(size);view.setTextColor(0xffcdd8e9);view.setLineSpacing(dp(3),1);view.setPadding(0,dp(6),0,dp(8));content.addView(view);return view;}
+    private Button button(String text,Runnable action){Button view=new Button(this);view.setText(text);view.setTextSize(15);view.setTypeface(null,android.graphics.Typeface.BOLD);view.setAllCaps(false);view.setTextColor(0xfff5f8ff);view.setMinHeight(dp(52));view.setGravity(Gravity.CENTER_VERTICAL|Gravity.START);view.setPadding(dp(16),dp(12),dp(16),dp(12));
+        android.graphics.drawable.GradientDrawable normal=surface(0xff2a3c55,16);normal.setStroke(dp(1),0xff425673);
+        view.setBackground(new android.graphics.drawable.RippleDrawable(android.content.res.ColorStateList.valueOf(accent),normal,null));
+        view.setOnClickListener(v->action.run());LinearLayout.LayoutParams lp=new LinearLayout.LayoutParams(-1,-2);lp.setMargins(0,dp(6),0,dp(4));content.addView(view,lp);
+        if(text.equals("Vamos estudar  →")||text.equals("Mostrar meu Buddy")){view.setBackgroundTintList(android.content.res.ColorStateList.valueOf(accent));view.setTextColor(0xff101827);}
+        return view;
+    }
     private void toast(String text){Toast.makeText(this,text,Toast.LENGTH_LONG).show();}
     private final Runnable refresh=new Runnable(){public void run(){
         Brain.Result r=session.result;
