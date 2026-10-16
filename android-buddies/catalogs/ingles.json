@@ -82,6 +82,201 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de vocabulário."
+    },
+    {
+      "id": "bncc_ingles_6_q1",
+      "skill": "Apresentar uma pessoa",
+      "question": "Complete a apresentação: My brother ___ a student.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "My brother corresponde a he; use is.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "My name is Ana. I am a student. She is my friend.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Apresentar uma pessoa.",
+      "reviewQuestion": "Complete: We ___ students.",
+      "reviewOptions": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "We combina com are no presente.",
+      "teachQuestion": "Explique apresentar uma pessoa com um exemplo e justifique sua explicação.",
+      "grade": 6,
+      "bncc": "EF06LI19",
+      "lesson_id": "bncc_ingles_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 253
+    },
+    {
+      "id": "bncc_ingles_7_q1",
+      "skill": "Contar acontecimentos passados",
+      "question": "Complete: I ___ dinner when my friend called.",
+      "options": [
+        "was cooking",
+        "am cooking",
+        "cook",
+        "will cook"
+      ],
+      "answer": 0,
+      "explanation": "Was cooking situa a ação em andamento no passado, quando a ligação ocorreu.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "I was reading when the phone rang: a leitura estava em andamento quando o telefone tocou.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Contar acontecimentos passados.",
+      "reviewQuestion": "Complete: They ___ football when it started to rain.",
+      "reviewOptions": [
+        "were playing",
+        "are playing",
+        "will play",
+        "plays"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "They combina com were; a ação estava em andamento no passado.",
+      "teachQuestion": "Explique contar acontecimentos passados com um exemplo e justifique sua explicação.",
+      "grade": 7,
+      "bncc": "EF07LI18",
+      "lesson_id": "bncc_ingles_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 257
+    },
+    {
+      "id": "bncc_ingles_8_q1",
+      "skill": "Planos e previsões",
+      "question": "Você já planejou estudar amanhã. Qual frase comunica esse plano?",
+      "options": [
+        "I am going to study tomorrow.",
+        "I studied yesterday.",
+        "I study yesterday.",
+        "I was studying last week."
+      ],
+      "answer": 0,
+      "explanation": "Going to study e tomorrow indicam um plano futuro.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "I am going to study tonight expressa um plano para esta noite.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Planos e previsões.",
+      "reviewQuestion": "Qual frase comunica uma previsão sobre o futuro?",
+      "reviewOptions": [
+        "It will rain tomorrow.",
+        "It rained yesterday.",
+        "It is raining now.",
+        "It rains every winter."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Will rain e tomorrow situam a previsão no futuro.",
+      "teachQuestion": "Explique planos e previsões com um exemplo e justifique sua explicação.",
+      "grade": 8,
+      "bncc": "EF08LI14",
+      "lesson_id": "bncc_ingles_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 261
+    },
+    {
+      "id": "bncc_ingles_9_q1",
+      "skill": "Recomendação e obrigação",
+      "question": "Qual frase apresenta uma recomendação de estudo?",
+      "options": [
+        "You should review your notes.",
+        "You reviewed your notes.",
+        "Your notes are blue.",
+        "You are reviewing your notes."
+      ],
+      "answer": 0,
+      "explanation": "Should expressa recomendação neste contexto.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "You should review your notes recomenda revisar; you must follow the safety rules indica uma obrigação.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Recomendação e obrigação.",
+      "reviewQuestion": "Em um aviso obrigatório de segurança, qual frase é adequada?",
+      "reviewOptions": [
+        "You must wear safety goggles.",
+        "You might like goggles.",
+        "You wore goggles yesterday.",
+        "Your goggles are green."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Must comunica a obrigação de usar os óculos de proteção.",
+      "teachQuestion": "Explique recomendação e obrigação com um exemplo e justifique sua explicação.",
+      "grade": 9,
+      "bncc": "EF09LI16",
+      "lesson_id": "bncc_ingles_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 265
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_ingles_6",
+      "title": "Apresentar uma pessoa",
+      "objective": "Explorar apresentar uma pessoa em uma situação do cotidiano.",
+      "body": "No presente, o verbo to be muda conforme o sujeito: I am; you/we/they are; he/she/it is. Essas formas ajudam a apresentar pessoas. Observe quem é o sujeito antes de completar uma frase.",
+      "example": "My name is Ana. I am a student. She is my friend.",
+      "grade": 6,
+      "bncc": "EF06LI19",
+      "lesson_id": "bncc_ingles_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 253
+    },
+    {
+      "id": "bncc_ingles_7",
+      "title": "Contar acontecimentos passados",
+      "objective": "Explorar contar acontecimentos passados em uma situação do cotidiano.",
+      "body": "O passado simples apresenta acontecimentos concluídos; o passado contínuo destaca uma ação em andamento no passado. Was/were + verbo com -ing formam o passado contínuo. Um texto pode combinar as duas formas para mostrar o que acontecia quando outro fato ocorreu.",
+      "example": "I was reading when the phone rang: a leitura estava em andamento quando o telefone tocou.",
+      "grade": 7,
+      "bncc": "EF07LI18",
+      "lesson_id": "bncc_ingles_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 257
+    },
+    {
+      "id": "bncc_ingles_8",
+      "title": "Planos e previsões",
+      "objective": "Explorar planos e previsões em uma situação do cotidiano.",
+      "body": "Para expressar um plano já decidido em inglês, podemos usar am/is/are going to + verbo. Will também pode expressar previsões e decisões, conforme o contexto. O importante é relacionar a forma verbal à intenção da mensagem.",
+      "example": "I am going to study tonight expressa um plano para esta noite.",
+      "grade": 8,
+      "bncc": "EF08LI14",
+      "lesson_id": "bncc_ingles_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 261
+    },
+    {
+      "id": "bncc_ingles_9",
+      "title": "Recomendação e obrigação",
+      "objective": "Explorar recomendação e obrigação em uma situação do cotidiano.",
+      "body": "Should costuma apresentar recomendação; must e have to podem indicar obrigação. May e might podem expressar possibilidade. A escolha altera a força e o sentido do que dizemos, por isso considere o contexto.",
+      "example": "You should review your notes recomenda revisar; you must follow the safety rules indica uma obrigação.",
+      "grade": 9,
+      "bncc": "EF09LI16",
+      "lesson_id": "bncc_ingles_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 265
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

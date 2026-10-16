@@ -1,0 +1,164 @@
+{
+  "document": "BNCC — versão homologada com Ensino Médio, 2018",
+  "verified_on": "2026-10-16",
+  "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+  "references": {
+    "EF06MA10": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 303
+    },
+    "EF07MA18": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 309
+    },
+    "EF08MA04": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 315
+    },
+    "EF09MA07": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 319
+    },
+    "EF06LI19": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 253
+    },
+    "EF07LI18": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 257
+    },
+    "EF08LI14": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 261
+    },
+    "EF09LI16": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 265
+    },
+    "EF67LP04": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 165
+    },
+    "EF67LP05": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 165
+    },
+    "EF89LP04": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 179
+    },
+    "EF89LP06": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 179
+    },
+    "EF06CI01": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 347
+    },
+    "EF07CI02": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 349
+    },
+    "EF08CI04": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 351
+    },
+    "EF09CI01": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 353
+    },
+    "EF06HI02": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 423
+    },
+    "EF07HI09": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 425
+    },
+    "EF08HI01": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 427
+    },
+    "EF09HI20": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 433
+    },
+    "EF06GE08": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 387
+    },
+    "EF07GE04": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 389
+    },
+    "EF08GE03": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 391
+    },
+    "EF09GE02": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 395
+    },
+    "EM13LGG402": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 496
+    },
+    "EM13LGG103": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 493
+    },
+    "EM13CHS102": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 574
+    },
+    "EM13CHS103": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 574
+    },
+    "EM13CHS502": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 579
+    },
+    "EM13CHS101": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 574
+    },
+    "EM13CHS504": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 579
+    },
+    "EM13CNT101": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 557
+    },
+    "EM13CNT102": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 557
+    },
+    "EM13CNT106": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 557
+    },
+    "EM13CNT104": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 557
+    },
+    "EM13CNT307": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 561
+    },
+    "EM13CNT202": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 559
+    },
+    "EM13CNT203": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 559
+    },
+    "EM13CNT206": {
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "pdf_page": 559
+    }
+  },
+  "source_sha256": "ad623d7b33986a4e87e1441a4e675064cd30db3650b86a75caefa476e802272b"
+}

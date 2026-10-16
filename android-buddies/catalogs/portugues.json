@@ -82,6 +82,201 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de concordância."
+    },
+    {
+      "id": "bncc_portugues_6_q1",
+      "skill": "Fato e opinião",
+      "question": "Qual trecho expressa opinião?",
+      "options": [
+        "A feira foi o melhor evento do ano.",
+        "A feira começou às 9h.",
+        "Foram expostos 12 trabalhos.",
+        "O evento ocorreu na escola."
+      ],
+      "answer": 0,
+      "explanation": "Melhor expressa um julgamento, que depende de critérios e ponto de vista.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "“A biblioteca abriu às 8h” é verificável; “a biblioteca é maravilhosa” expressa avaliação.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Fato e opinião.",
+      "reviewQuestion": "Qual afirmação pode ser checada como fato?",
+      "reviewOptions": [
+        "A turma apresentou cinco cartazes.",
+        "A apresentação foi incrível.",
+        "O cartaz azul era o mais bonito.",
+        "A turma é a melhor da escola."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A quantidade de cartazes pode ser conferida em registros ou observação.",
+      "teachQuestion": "Explique fato e opinião com um exemplo e justifique sua explicação.",
+      "grade": 6,
+      "bncc": "EF67LP04",
+      "lesson_id": "bncc_portugues_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 165
+    },
+    {
+      "id": "bncc_portugues_7_q1",
+      "skill": "Tese e argumento",
+      "question": "Leia: “Devemos ampliar a coleta seletiva, pois separar materiais facilita a reciclagem.” Qual é a tese?",
+      "options": [
+        "Devemos ampliar a coleta seletiva.",
+        "Separar materiais facilita a reciclagem.",
+        "Não existe posição no trecho.",
+        "Toda razão é uma tese."
+      ],
+      "answer": 0,
+      "explanation": "A tese é a proposta defendida; a parte introduzida por pois apresenta uma razão.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "“A biblioteca deve abrir no intervalo, pois estudantes que usam transporte escolar não podem ficar após a aula”: a proposta é a tese; a dificuldade de horário é uma razão.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Tese e argumento.",
+      "reviewQuestion": "Leia: “A horta deve continuar, porque permite observar o crescimento das plantas.” Qual trecho é o argumento?",
+      "reviewOptions": [
+        "Permite observar o crescimento das plantas.",
+        "A horta deve continuar.",
+        "A horta é uma palavra.",
+        "O texto não tem argumento."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A observação das plantas é a razão apresentada para defender a continuidade da horta.",
+      "teachQuestion": "Explique tese e argumento com um exemplo e justifique sua explicação.",
+      "grade": 7,
+      "bncc": "EF67LP05",
+      "lesson_id": "bncc_portugues_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 165
+    },
+    {
+      "id": "bncc_portugues_8_q1",
+      "skill": "Argumento e contra-argumento",
+      "question": "À objeção “não há espaço para a horta”, qual resposta enfrenta o argumento?",
+      "options": [
+        "Podemos usar vasos em uma área já disponível, sem bloquear a passagem.",
+        "Quem discorda é ignorante.",
+        "A horta é legal, pronto.",
+        "A pessoa sempre reclama."
+      ],
+      "answer": 0,
+      "explanation": "A resposta discute a limitação de espaço e propõe uma solução verificável.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Se alguém rejeita a horta por falta de espaço, uma resposta pertinente seria propor cultivo em vasos e explicar onde colocá-los.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Argumento e contra-argumento.",
+      "reviewQuestion": "À objeção “o jornal impresso custa caro”, qual resposta é um contra-argumento pertinente?",
+      "reviewOptions": [
+        "Uma edição digital pode reduzir o gasto com impressão.",
+        "Quem disse isso é chato.",
+        "Todo jornal é perfeito.",
+        "Não quero ouvir opiniões."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A proposta digital responde ao problema de custo levantado.",
+      "teachQuestion": "Explique argumento e contra-argumento com um exemplo e justifique sua explicação.",
+      "grade": 8,
+      "bncc": "EF89LP04",
+      "lesson_id": "bncc_portugues_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 179
+    },
+    {
+      "id": "bncc_portugues_9_q1",
+      "skill": "Persuasão e fontes",
+      "question": "Qual recurso persuasivo aparece em “Todo mundo inteligente escolhe este curso”?",
+      "options": [
+        "Apelo à aprovação social e à identidade do leitor.",
+        "Apresentação de amostra e método.",
+        "Demonstração matemática completa.",
+        "Comparação com dados verificáveis."
+      ],
+      "answer": 0,
+      "explanation": "O texto tenta associar a compra à imagem de ser inteligente, sem fornecer evidência.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "“Milagre do estudo: método infalível!” promete certeza sem mostrar como o resultado foi verificado.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Persuasão e fontes.",
+      "reviewQuestion": "Para avaliar “Especialistas garantem resultado”, qual informação faz falta?",
+      "reviewOptions": [
+        "Quem são os especialistas e em que evidências se apoiam.",
+        "A cor do anúncio apenas.",
+        "A quantidade de exclamações.",
+        "O tamanho da fonte apenas."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A identificação das fontes e das evidências permite verificar a alegação.",
+      "teachQuestion": "Explique persuasão e fontes com um exemplo e justifique sua explicação.",
+      "grade": 9,
+      "bncc": "EF89LP06",
+      "lesson_id": "bncc_portugues_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 179
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_portugues_6",
+      "title": "Fato e opinião",
+      "objective": "Explorar fato e opinião em uma situação do cotidiano.",
+      "body": "Fatos são afirmações que podem ser verificadas por registros ou observações. Opiniões expressam uma avaliação ou ponto de vista. Uma opinião pode ser fundamentada, mas não se transforma em fato apenas por ser afirmada com certeza.",
+      "example": "“A biblioteca abriu às 8h” é verificável; “a biblioteca é maravilhosa” expressa avaliação.",
+      "grade": 6,
+      "bncc": "EF67LP04",
+      "lesson_id": "bncc_portugues_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 165
+    },
+    {
+      "id": "bncc_portugues_7",
+      "title": "Tese e argumento",
+      "objective": "Explorar tese e argumento em uma situação do cotidiano.",
+      "body": "Uma tese apresenta a posição defendida em um texto. Argumentos são razões que procuram sustentar essa posição. Para avaliar o texto, identifique o que o autor defende e se suas razões são pertinentes e verificáveis.",
+      "example": "“A biblioteca deve abrir no intervalo, pois estudantes que usam transporte escolar não podem ficar após a aula”: a proposta é a tese; a dificuldade de horário é uma razão.",
+      "grade": 7,
+      "bncc": "EF67LP05",
+      "lesson_id": "bncc_portugues_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 165
+    },
+    {
+      "id": "bncc_portugues_8",
+      "title": "Argumento e contra-argumento",
+      "objective": "Explorar argumento e contra-argumento em uma situação do cotidiano.",
+      "body": "Um texto argumentativo pode defender uma posição e enfrentar objeções. Contra-argumentar exige compreender a objeção e responder a ela com razões. Discordar sem justificar ou atacar uma pessoa não substitui a análise do argumento.",
+      "example": "Se alguém rejeita a horta por falta de espaço, uma resposta pertinente seria propor cultivo em vasos e explicar onde colocá-los.",
+      "grade": 8,
+      "bncc": "EF89LP04",
+      "lesson_id": "bncc_portugues_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 179
+    },
+    {
+      "id": "bncc_portugues_9",
+      "title": "Persuasão e fontes",
+      "objective": "Explorar persuasão e fontes em uma situação do cotidiano.",
+      "body": "Títulos, escolhas de palavras e fontes influenciam a interpretação de um texto. Expressões como “todo mundo sabe” podem tentar criar consenso sem apresentar evidências. Avalie a autoria e os dados, além do efeito emocional das palavras.",
+      "example": "“Milagre do estudo: método infalível!” promete certeza sem mostrar como o resultado foi verificado.",
+      "grade": 9,
+      "bncc": "EF89LP06",
+      "lesson_id": "bncc_portugues_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 179
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

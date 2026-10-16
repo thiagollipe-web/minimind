@@ -82,6 +82,153 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de pesquisa."
+    },
+    {
+      "id": "bncc_sociologia_11_q1",
+      "skill": "Etnocentrismo e contexto",
+      "question": "Qual afirmação expressa julgamento etnocêntrico?",
+      "options": [
+        "Nossa forma de viver é a única correta; as outras são inferiores.",
+        "Quais significados essa prática tem naquele contexto?",
+        "Vamos comparar perspectivas sem hierarquizar povos.",
+        "Precisamos ouvir as pessoas envolvidas."
+      ],
+      "answer": 0,
+      "explanation": "A frase toma um modo de vida como padrão universal e inferioriza os demais.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Estranhar uma comida não autoriza concluir que todo o grupo que a consome é inferior.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Etnocentrismo e contexto.",
+      "reviewQuestion": "Qual procedimento ajuda a superar uma análise etnocêntrica?",
+      "reviewOptions": [
+        "Investigar contextos e ouvir diferentes agentes sociais.",
+        "Supor inferioridade antes da análise.",
+        "Ignorar os significados atribuídos pelos participantes.",
+        "Aplicar apenas os próprios costumes como medida."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Contextualizar e comparar perspectivas evita tomar um único padrão como universal.",
+      "teachQuestion": "Explique etnocentrismo e contexto com um exemplo e justifique sua explicação.",
+      "grade": 11,
+      "bncc": "EM13CHS102",
+      "lesson_id": "bncc_sociologia_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_sociologia_12_q1",
+      "skill": "Argumentar com dados sociais",
+      "question": "Para investigar o transporte de toda a escola, qual plano é mais adequado?",
+      "options": [
+        "Ouvir estudantes de diferentes turmas e turnos, justificando a seleção e seus limites.",
+        "Ouvir só meus três amigos e concluir por todos.",
+        "Escolher apenas quem vai a pé.",
+        "Publicar uma conclusão antes de coletar dados."
+      ],
+      "answer": 0,
+      "explanation": "Uma seleção diversificada e critérios explícitos ajudam a sustentar a análise, sem eliminar toda incerteza.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Ouvir apenas quem frequenta um clube pode não representar quem não participa dele.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Argumentar com dados sociais.",
+      "reviewQuestion": "Uma enquete ouviu só uma turma. Qual conclusão é responsável?",
+      "reviewOptions": [
+        "Os resultados descrevem os respondentes e têm limites para generalizar à escola.",
+        "Os resultados provam a opinião de toda a cidade.",
+        "A amostra elimina qualquer incerteza.",
+        "Não é necessário informar quem respondeu."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A conclusão deve respeitar quem foi efetivamente ouvido e os limites do levantamento.",
+      "teachQuestion": "Explique argumentar com dados sociais com um exemplo e justifique sua explicação.",
+      "grade": 12,
+      "bncc": "EM13CHS103",
+      "lesson_id": "bncc_sociologia_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_sociologia_13_q1",
+      "skill": "Direitos e enfrentamento da discriminação",
+      "question": "Diante de uma prática discriminatória na escola, qual ação favorece os direitos humanos?",
+      "options": [
+        "Proteger quem foi atingido, ouvir os envolvidos e acionar medidas educativas e institucionais.",
+        "Tratar a humilhação como brincadeira inevitável.",
+        "Responsabilizar a vítima pelo preconceito.",
+        "Espalhar novas ofensas nas redes."
+      ],
+      "answer": 0,
+      "explanation": "Proteção e enfrentamento institucional evitam naturalizar a violência e a discriminação.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Uma regra aparentemente igual pode produzir barreiras diferentes para pessoas em condições diferentes.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Direitos e enfrentamento da discriminação.",
+      "reviewQuestion": "Para avaliar uma regra escolar, é importante perguntar:",
+      "reviewOptions": [
+        "Seus efeitos criam barreiras injustificadas para determinados grupos?",
+        "A regra agrada apenas ao meu grupo?",
+        "Podemos ignorar quem foi prejudicado?",
+        "A exclusão pode ser tomada como algo natural?"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Examinar efeitos concretos ajuda a identificar desigualdades e propor medidas inclusivas.",
+      "teachQuestion": "Explique direitos e enfrentamento da discriminação com um exemplo e justifique sua explicação.",
+      "grade": 13,
+      "bncc": "EM13CHS502",
+      "lesson_id": "bncc_sociologia_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 579
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_sociologia_11",
+      "title": "Etnocentrismo e contexto",
+      "objective": "Explorar etnocentrismo e contexto em uma situação do cotidiano.",
+      "body": "Etnocentrismo ocorre quando se julgam outros modos de vida tomando os próprios padrões como medida universal ou superior. A análise sociológica investiga contextos, relações de poder e diferentes perspectivas. Compreender uma prática não impede debatê-la criticamente com base nos direitos humanos.",
+      "example": "Estranhar uma comida não autoriza concluir que todo o grupo que a consome é inferior.",
+      "grade": 11,
+      "bncc": "EM13CHS102",
+      "lesson_id": "bncc_sociologia_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_sociologia_12",
+      "title": "Argumentar com dados sociais",
+      "objective": "Explorar argumentar com dados sociais em uma situação do cotidiano.",
+      "body": "Uma hipótese social precisa ser confrontada com evidências. A seleção da amostra influencia os resultados de uma pesquisa. Opiniões de um pequeno grupo escolhido por conveniência não representam automaticamente toda a escola. Explicite limites antes de generalizar.",
+      "example": "Ouvir apenas quem frequenta um clube pode não representar quem não participa dele.",
+      "grade": 12,
+      "bncc": "EM13CHS103",
+      "lesson_id": "bncc_sociologia_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_sociologia_13",
+      "title": "Direitos e enfrentamento da discriminação",
+      "objective": "Explorar direitos e enfrentamento da discriminação em uma situação do cotidiano.",
+      "body": "Desigualdades e discriminações não devem ser naturalizadas. Analise normas, práticas e efeitos sobre diferentes grupos. Enfrentar uma situação discriminatória envolve proteção, escuta e ações que promovam direitos, e não a repetição da violência.",
+      "example": "Uma regra aparentemente igual pode produzir barreiras diferentes para pessoas em condições diferentes.",
+      "grade": 13,
+      "bncc": "EM13CHS502",
+      "lesson_id": "bncc_sociologia_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 579
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

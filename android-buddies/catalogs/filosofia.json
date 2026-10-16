@@ -82,6 +82,153 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de lógica."
+    },
+    {
+      "id": "bncc_filosofia_11_q1",
+      "skill": "Comparar perspectivas",
+      "question": "Ao comparar duas concepções de liberdade, qual procedimento é mais adequado?",
+      "options": [
+        "Identificar o problema, os conceitos e os argumentos de cada texto.",
+        "Escolher apenas o autor mais famoso.",
+        "Ignorar os contextos de produção.",
+        "Trocar a análise por um ataque pessoal."
+      ],
+      "answer": 0,
+      "explanation": "A comparação se apoia nos conceitos, nas razões e nos contextos, não em prestígio isolado.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Duas concepções de liberdade podem discordar sobre a relação entre escolha individual e condições sociais.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Comparar perspectivas.",
+      "reviewQuestion": "Duas fontes discordam. O que a análise crítica pede?",
+      "reviewOptions": [
+        "Examinar as razões e os pressupostos das duas posições.",
+        "Aceitar automaticamente a primeira.",
+        "Supor que discordância impede qualquer análise.",
+        "Julgar somente pelo tamanho do texto."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Discordâncias podem ser investigadas pela análise dos argumentos e pressupostos.",
+      "teachQuestion": "Explique comparar perspectivas com um exemplo e justifique sua explicação.",
+      "grade": 11,
+      "bncc": "EM13CHS101",
+      "lesson_id": "bncc_filosofia_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_filosofia_12_q1",
+      "skill": "Evidência e conclusão",
+      "question": "“Dois colegas gostaram do método, logo ele funciona melhor para todos.” Qual é o problema?",
+      "options": [
+        "A conclusão generaliza além das evidências apresentadas.",
+        "Toda experiência individual é inútil.",
+        "Nenhuma conclusão pode ter razões.",
+        "Gostar de um método prova eficácia universal."
+      ],
+      "answer": 0,
+      "explanation": "Dois relatos não sustentam uma conclusão universal nem comparam resultados de aprendizagem.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Um aluno prefere estudar à noite; disso não se segue que todas as pessoas aprendam melhor nesse horário.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Evidência e conclusão.",
+      "reviewQuestion": "Qual dado fortalece uma comparação entre métodos de estudo?",
+      "reviewOptions": [
+        "Critérios claros e resultados de grupos comparáveis, com limites explicitados.",
+        "A popularidade de quem anuncia, apenas.",
+        "Uma promessa sem teste.",
+        "Um insulto a quem discorda."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Critérios e evidências comparáveis ajudam a avaliar a conclusão e seus limites.",
+      "teachQuestion": "Explique evidência e conclusão com um exemplo e justifique sua explicação.",
+      "grade": 12,
+      "bncc": "EM13CHS103",
+      "lesson_id": "bncc_filosofia_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_filosofia_13_q1",
+      "skill": "Ética e tecnologia",
+      "question": "Uma escola quer coletar dados pessoais para um aplicativo. Qual pergunta é eticamente relevante?",
+      "options": [
+        "Quais dados são necessários, quem terá acesso e como serão protegidos?",
+        "O aplicativo tem mais cores?",
+        "Podemos coletar tudo sem explicar?",
+        "A velocidade dispensa discutir direitos?"
+      ],
+      "answer": 0,
+      "explanation": "A análise considera necessidade, acesso, proteção e os direitos das pessoas afetadas.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Coletar mais dados pode facilitar um serviço, mas exige discutir necessidade, consentimento e proteção.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Ética e tecnologia.",
+      "reviewQuestion": "Uma ferramenta digital beneficia alguns e exclui outros. A análise ética deve:",
+      "reviewOptions": [
+        "examinar a desigualdade de acesso e alternativas de participação.",
+        "ignorar quem ficou de fora.",
+        "considerar apenas o lucro.",
+        "supor que toda inovação é justa por definição."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A distribuição de benefícios e barreiras faz parte do problema ético-político.",
+      "teachQuestion": "Explique ética e tecnologia com um exemplo e justifique sua explicação.",
+      "grade": 13,
+      "bncc": "EM13CHS504",
+      "lesson_id": "bncc_filosofia_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 579
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_filosofia_11",
+      "title": "Comparar perspectivas",
+      "objective": "Explorar comparar perspectivas em uma situação do cotidiano.",
+      "body": "Ler filosoficamente envolve compreender o que um texto afirma, que razões apresenta e a que problema responde. Comparar fontes requer identificar autoria e contexto. Textos de perspectivas diferentes podem iluminar aspectos diferentes de uma mesma questão.",
+      "example": "Duas concepções de liberdade podem discordar sobre a relação entre escolha individual e condições sociais.",
+      "grade": 11,
+      "bncc": "EM13CHS101",
+      "lesson_id": "bncc_filosofia_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_filosofia_12",
+      "title": "Evidência e conclusão",
+      "objective": "Explorar evidência e conclusão em uma situação do cotidiano.",
+      "body": "Um argumento apresenta razões para sustentar uma conclusão. Avalie se as razões são relevantes e se a conclusão vai além das evidências. Um exemplo isolado pode ser útil, mas não basta para provar uma afirmação universal sobre todas as pessoas.",
+      "example": "Um aluno prefere estudar à noite; disso não se segue que todas as pessoas aprendam melhor nesse horário.",
+      "grade": 12,
+      "bncc": "EM13CHS103",
+      "lesson_id": "bncc_filosofia_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 574
+    },
+    {
+      "id": "bncc_filosofia_13",
+      "title": "Ética e tecnologia",
+      "objective": "Explorar ética e tecnologia em uma situação do cotidiano.",
+      "body": "Uma decisão tecnológica pode afetar privacidade, autonomia, acesso e relações de poder. A reflexão ética identifica os agentes envolvidos, os direitos e os possíveis efeitos. Uma vantagem técnica não resolve sozinha todos os conflitos de valores.",
+      "example": "Coletar mais dados pode facilitar um serviço, mas exige discutir necessidade, consentimento e proteção.",
+      "grade": 13,
+      "bncc": "EM13CHS504",
+      "lesson_id": "bncc_filosofia_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 579
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

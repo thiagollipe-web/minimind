@@ -82,6 +82,153 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de reações."
+    },
+    {
+      "id": "bncc_quimica_11_q1",
+      "skill": "Conservação da matéria",
+      "question": "Em um recipiente fechado, 12 g de reagentes se transformam completamente. Sem perdas, qual é a massa total dos produtos?",
+      "options": [
+        "12 g",
+        "0 g",
+        "24 g",
+        "6 g"
+      ],
+      "answer": 0,
+      "explanation": "No sistema fechado, a massa total se conserva.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Em 2 H₂ + O₂ → 2 H₂O, há quatro átomos de H e dois de O em cada lado.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Conservação da matéria.",
+      "reviewQuestion": "Em 2 H₂ + O₂ → 2 H₂O, quantos átomos de oxigênio há em cada lado?",
+      "reviewOptions": [
+        "2",
+        "1",
+        "4",
+        "8"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "O₂ tem dois átomos; duas moléculas de H₂O também somam dois átomos de O.",
+      "teachQuestion": "Explique conservação da matéria com um exemplo e justifique sua explicação.",
+      "grade": 11,
+      "bncc": "EM13CNT101",
+      "lesson_id": "bncc_quimica_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_quimica_12_q1",
+      "skill": "Uso e descarte responsáveis",
+      "question": "Qual atitude reduz riscos no uso de produtos de limpeza?",
+      "options": [
+        "Seguir o rótulo e não misturar produtos sem orientação adequada.",
+        "Misturar qualquer produto para aumentar o efeito.",
+        "Guardar em garrafa de bebida sem identificação.",
+        "Ignorar ventilação e contato com a pele."
+      ],
+      "answer": 0,
+      "explanation": "Informações de uso e incompatibilidades ajudam a evitar exposição e reações perigosas.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Antes de usar um produto, consulte o rótulo e mantenha-o na embalagem identificada.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Uso e descarte responsáveis.",
+      "reviewQuestion": "Para descartar um produto potencialmente perigoso, o procedimento adequado é:",
+      "reviewOptions": [
+        "consultar o rótulo e os serviços locais de coleta/orientação.",
+        "despejar automaticamente no ralo.",
+        "abandonar em terreno aberto.",
+        "retirar a identificação e misturar ao acaso."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "O descarte deve considerar os riscos e as orientações específicas do produto e do município.",
+      "teachQuestion": "Explique uso e descarte responsáveis com um exemplo e justifique sua explicação.",
+      "grade": 12,
+      "bncc": "EM13CNT104",
+      "lesson_id": "bncc_quimica_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_quimica_13_q1",
+      "skill": "Escolher materiais",
+      "question": "Para um cabo de panela, qual propriedade é desejável?",
+      "options": [
+        "Baixa condutividade térmica e resistência às condições de uso.",
+        "Alta transferência de calor para a mão.",
+        "Dissolução imediata em água.",
+        "Ausência de resistência ao uso."
+      ],
+      "answer": 0,
+      "explanation": "O cabo deve reduzir a transferência à mão sem perder a resistência necessária.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Em uma panela, interessa conduzir calor no corpo; no cabo, interessa reduzir a transferência para a mão.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Escolher materiais.",
+      "reviewQuestion": "Ao comparar embalagens, qual análise é mais completa?",
+      "reviewOptions": [
+        "Proteção do produto, reutilização, reciclagem e impactos locais.",
+        "Somente a aparência.",
+        "Apenas a cor do material.",
+        "Supor que um material é sempre o melhor em qualquer contexto."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A adequação depende do uso e de critérios de segurança e sustentabilidade.",
+      "teachQuestion": "Explique escolher materiais com um exemplo e justifique sua explicação.",
+      "grade": 13,
+      "bncc": "EM13CNT307",
+      "lesson_id": "bncc_quimica_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 561
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_quimica_11",
+      "title": "Conservação da matéria",
+      "objective": "Explorar conservação da matéria em uma situação do cotidiano.",
+      "body": "Em uma reação química de um sistema fechado, os átomos se reorganizam e a massa total se conserva nas condições usuais de estudo. Balancear uma equação representa a conservação da quantidade de átomos de cada elemento. Não altere os índices das fórmulas para balancear.",
+      "example": "Em 2 H₂ + O₂ → 2 H₂O, há quatro átomos de H e dois de O em cada lado.",
+      "grade": 11,
+      "bncc": "EM13CNT101",
+      "lesson_id": "bncc_quimica_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_quimica_12",
+      "title": "Uso e descarte responsáveis",
+      "objective": "Explorar uso e descarte responsáveis em uma situação do cotidiano.",
+      "body": "Produtos podem apresentar riscos conforme sua composição, concentração, reatividade e exposição. Leia rótulos e siga as orientações locais de uso e descarte. Misturar produtos de limpeza sem orientação pode provocar reações perigosas. A miniaula não propõe fazer misturas.",
+      "example": "Antes de usar um produto, consulte o rótulo e mantenha-o na embalagem identificada.",
+      "grade": 12,
+      "bncc": "EM13CNT104",
+      "lesson_id": "bncc_quimica_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_quimica_13",
+      "title": "Escolher materiais",
+      "objective": "Explorar escolher materiais em uma situação do cotidiano.",
+      "body": "A escolha de um material depende de propriedades, uso, segurança e impactos ambientais. Condutividade, resistência e durabilidade podem ser relevantes em situações diferentes. Um material adequado para uma peça pode não ser adequado para outra.",
+      "example": "Em uma panela, interessa conduzir calor no corpo; no cabo, interessa reduzir a transferência para a mão.",
+      "grade": 13,
+      "bncc": "EM13CNT307",
+      "lesson_id": "bncc_quimica_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 561
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

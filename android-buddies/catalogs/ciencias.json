@@ -82,6 +82,201 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de terra."
+    },
+    {
+      "id": "bncc_ciencias_6_q1",
+      "skill": "Misturas e fases",
+      "question": "Uma amostra de água e óleo em repouso apresenta duas camadas. Como classificá-la?",
+      "options": [
+        "Mistura heterogênea.",
+        "Substância pura.",
+        "Mistura homogênea.",
+        "Elemento químico."
+      ],
+      "answer": 0,
+      "explanation": "As duas camadas mostram fases diferentes.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Sal totalmente dissolvido em água forma uma fase; água e óleo em repouso, em condições usuais, formam duas.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Misturas e fases.",
+      "reviewQuestion": "Uma pequena quantidade de sal foi totalmente dissolvida em água, sem sólido no fundo. A mistura é:",
+      "reviewOptions": [
+        "homogênea.",
+        "heterogênea de duas fases.",
+        "um elemento químico.",
+        "uma substância simples."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Nas condições descritas há uma fase observável, apesar de haver dois componentes.",
+      "teachQuestion": "Explique misturas e fases com um exemplo e justifique sua explicação.",
+      "grade": 6,
+      "bncc": "EF06CI01",
+      "lesson_id": "bncc_ciencias_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 347
+    },
+    {
+      "id": "bncc_ciencias_7_q1",
+      "skill": "Calor e temperatura",
+      "question": "Por que uma peça de metal pode parecer mais fria que madeira na mesma sala?",
+      "options": [
+        "O metal pode retirar energia da mão mais rapidamente.",
+        "O metal necessariamente está abaixo de zero.",
+        "A madeira não tem temperatura.",
+        "O toque mede a temperatura com exatidão."
+      ],
+      "answer": 0,
+      "explanation": "A condução de energia influencia a sensação térmica; a comparação exige medir a temperatura.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Metal e madeira no mesmo ambiente podem estar à mesma temperatura, mas parecer diferentes ao toque por conduzirem calor de modos diferentes.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Calor e temperatura.",
+      "reviewQuestion": "Entre dois corpos em contato, sem outras intervenções, o calor tende a fluir:",
+      "reviewOptions": [
+        "do de maior temperatura para o de menor temperatura.",
+        "sempre do menor para o maior.",
+        "do mais pesado para o mais leve.",
+        "sem relação com as temperaturas."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A transferência por diferença de temperatura tende ao equilíbrio térmico.",
+      "teachQuestion": "Explique calor e temperatura com um exemplo e justifique sua explicação.",
+      "grade": 7,
+      "bncc": "EF07CI02",
+      "lesson_id": "bncc_ciencias_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 349
+    },
+    {
+      "id": "bncc_ciencias_8_q1",
+      "skill": "Consumo de energia elétrica",
+      "question": "Um aparelho de 1.000 W funciona por 2 h. Qual é o consumo?",
+      "options": [
+        "2 kWh",
+        "2.000 kWh",
+        "0,5 kWh",
+        "1.000 kWh"
+      ],
+      "answer": 0,
+      "explanation": "1.000 W = 1 kW; 1 × 2 = 2 kWh.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Uma lâmpada de 20 W ligada por 5 h usa 0,020 × 5 = 0,10 kWh.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Consumo de energia elétrica.",
+      "reviewQuestion": "Uma lâmpada de 10 W permanece ligada por 10 h. Qual é o consumo?",
+      "reviewOptions": [
+        "0,1 kWh",
+        "100 kWh",
+        "10 kWh",
+        "1 kWh"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "10 W = 0,010 kW; 0,010 × 10 = 0,1 kWh.",
+      "teachQuestion": "Explique consumo de energia elétrica com um exemplo e justifique sua explicação.",
+      "grade": 8,
+      "bncc": "EF08CI04",
+      "lesson_id": "bncc_ciencias_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 351
+    },
+    {
+      "id": "bncc_ciencias_9_q1",
+      "skill": "Mudanças de estado e partículas",
+      "question": "O gelo derreteu e virou água líquida. Qual explicação é adequada?",
+      "options": [
+        "Mudou a organização e a movimentação das moléculas de água.",
+        "As moléculas desapareceram.",
+        "Água deixou de ter moléculas.",
+        "Formou-se necessariamente uma nova substância."
+      ],
+      "answer": 0,
+      "explanation": "A fusão é uma mudança física: a substância continua sendo água.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Ao derreter, o gelo se torna água líquida; não se transforma em hidrogênio e oxigênio separados.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Mudanças de estado e partículas.",
+      "reviewQuestion": "Na condensação do vapor de água, o que ocorre?",
+      "reviewOptions": [
+        "As moléculas de água passam a se organizar no estado líquido.",
+        "Cada molécula vira um átomo de ferro.",
+        "As moléculas deixam de existir.",
+        "Forma-se necessariamente outro elemento."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A mudança de estado conserva a identidade química da água.",
+      "teachQuestion": "Explique mudanças de estado e partículas com um exemplo e justifique sua explicação.",
+      "grade": 9,
+      "bncc": "EF09CI01",
+      "lesson_id": "bncc_ciencias_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 353
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_ciencias_6",
+      "title": "Misturas e fases",
+      "objective": "Explorar misturas e fases em uma situação do cotidiano.",
+      "body": "Uma mistura reúne materiais. Quando apresenta aspecto uniforme em uma única fase, é homogênea; quando observamos mais de uma fase, é heterogênea. A quantidade dissolvida e as condições da observação importam.",
+      "example": "Sal totalmente dissolvido em água forma uma fase; água e óleo em repouso, em condições usuais, formam duas.",
+      "grade": 6,
+      "bncc": "EF06CI01",
+      "lesson_id": "bncc_ciencias_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 347
+    },
+    {
+      "id": "bncc_ciencias_7",
+      "title": "Calor e temperatura",
+      "objective": "Explorar calor e temperatura em uma situação do cotidiano.",
+      "body": "Temperatura ajuda a caracterizar o estado térmico de um corpo. Calor é energia transferida por diferença de temperatura. A sensação térmica depende também de como a energia é transferida, por isso o toque não substitui uma medição.",
+      "example": "Metal e madeira no mesmo ambiente podem estar à mesma temperatura, mas parecer diferentes ao toque por conduzirem calor de modos diferentes.",
+      "grade": 7,
+      "bncc": "EF07CI02",
+      "lesson_id": "bncc_ciencias_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 349
+    },
+    {
+      "id": "bncc_ciencias_8",
+      "title": "Consumo de energia elétrica",
+      "objective": "Explorar consumo de energia elétrica em uma situação do cotidiano.",
+      "body": "A energia elétrica consumida depende da potência e do tempo de uso. Em kWh, use a potência em kW e o tempo em horas. Compare equipamentos considerando o mesmo serviço e o uso real, não apenas a potência isolada.",
+      "example": "Uma lâmpada de 20 W ligada por 5 h usa 0,020 × 5 = 0,10 kWh.",
+      "grade": 8,
+      "bncc": "EF08CI04",
+      "lesson_id": "bncc_ciencias_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 351
+    },
+    {
+      "id": "bncc_ciencias_9",
+      "title": "Mudanças de estado e partículas",
+      "objective": "Explorar mudanças de estado e partículas em uma situação do cotidiano.",
+      "body": "No modelo de partículas, uma mudança de estado altera a organização e a movimentação das partículas, sem necessariamente mudar a substância. Na fusão do gelo, as moléculas continuam sendo de água. Evite confundir mudança física com formação de outra substância.",
+      "example": "Ao derreter, o gelo se torna água líquida; não se transforma em hidrogênio e oxigênio separados.",
+      "grade": 9,
+      "bncc": "EF09CI01",
+      "lesson_id": "bncc_ciencias_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 353
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

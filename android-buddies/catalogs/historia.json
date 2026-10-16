@@ -82,6 +82,201 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de periodização."
+    },
+    {
+      "id": "bncc_historia_6_q1",
+      "skill": "Investigar fontes históricas",
+      "question": "Ao analisar uma carta antiga, qual procedimento é mais adequado?",
+      "options": [
+        "Investigar autoria, data, destinatário e contexto e comparar outras fontes.",
+        "Tratá-la como relato neutro de toda a sociedade.",
+        "Ignorar quem escreveu.",
+        "Aceitar cada afirmação sem análise."
+      ],
+      "answer": 0,
+      "explanation": "A análise contextual e a comparação sustentam a investigação histórica.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Uma carta mostra o ponto de vista de quem a escreveu; compará-la com outros registros ajuda a investigar o período.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Investigar fontes históricas.",
+      "reviewQuestion": "Uma fotografia de uma festa permite concluir, sozinha, como toda a população vivia?",
+      "reviewOptions": [
+        "Não; é preciso analisar o recorte e comparar outras fontes.",
+        "Sim; toda foto mostra toda a sociedade.",
+        "Sim; imagens não têm enquadramento.",
+        "Não é possível estudar imagens."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A imagem é uma fonte com recorte, contexto e limites, não uma amostra automática de toda a população.",
+      "teachQuestion": "Explique investigar fontes históricas com um exemplo e justifique sua explicação.",
+      "grade": 6,
+      "bncc": "EF06HI02",
+      "lesson_id": "bncc_historia_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 423
+    },
+    {
+      "id": "bncc_historia_7_q1",
+      "skill": "Conquista e resistências indígenas",
+      "question": "Qual interpretação reconhece a atuação histórica dos povos indígenas durante a conquista?",
+      "options": [
+        "Houve diferentes estratégias de resistência, negociação e aliança.",
+        "Todos aceitaram passivamente a conquista.",
+        "Todos tinham a mesma cultura.",
+        "A conquista não produziu impactos."
+      ],
+      "answer": 0,
+      "explanation": "A diversidade de respostas mostra a atuação dos povos diante da violência e das disputas.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Manter práticas culturais e construir alianças pode integrar formas de resistência, além dos confrontos armados.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Conquista e resistências indígenas.",
+      "reviewQuestion": "Ao comparar dois relatos da conquista, qual cuidado é necessário?",
+      "reviewOptions": [
+        "Considerar autoria, interesses e perspectivas, incluindo as indígenas.",
+        "Usar apenas a versão do conquistador.",
+        "Supor que todas as fontes dizem o mesmo.",
+        "Ignorar as consequências para os povos."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Diferentes perspectivas ajudam a analisar os impactos e as resistências.",
+      "teachQuestion": "Explique conquista e resistências indígenas com um exemplo e justifique sua explicação.",
+      "grade": 7,
+      "bncc": "EF07HI09",
+      "lesson_id": "bncc_historia_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 425
+    },
+    {
+      "id": "bncc_historia_8_q1",
+      "skill": "Iluminismo e limites históricos",
+      "question": "Qual atitude permite analisar criticamente ideias iluministas?",
+      "options": [
+        "Comparar os direitos defendidos com os grupos que continuaram excluídos.",
+        "Supor que todos passaram a ter direitos iguais imediatamente.",
+        "Ignorar o contexto histórico.",
+        "Reduzir todos os pensadores a uma única opinião."
+      ],
+      "answer": 0,
+      "explanation": "A comparação entre princípios e práticas revela limites e conflitos históricos.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "A defesa de liberdade não significou que mulheres, pessoas escravizadas e outros grupos recebessem imediatamente os mesmos direitos.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Iluminismo e limites históricos.",
+      "reviewQuestion": "Uma crítica ao poder absoluto aproxima-se de qual debate iluminista?",
+      "reviewOptions": [
+        "Limitação do poder político e discussão de direitos.",
+        "Defesa de poder sem limites.",
+        "Proibição de qualquer investigação racional.",
+        "Fim de toda diversidade de pensamento."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "As críticas ao absolutismo alimentaram discussões sobre limites ao poder e direitos.",
+      "teachQuestion": "Explique iluminismo e limites históricos com um exemplo e justifique sua explicação.",
+      "grade": 8,
+      "bncc": "EF08HI01",
+      "lesson_id": "bncc_historia_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 427
+    },
+    {
+      "id": "bncc_historia_9_q1",
+      "skill": "Resistência à ditadura no Brasil",
+      "question": "Qual investigação ajuda a compreender a diversidade das resistências?",
+      "options": [
+        "Comparar fontes de movimentos estudantis, trabalhadores, artistas e outros grupos.",
+        "Supor que só houve uma forma de resistência.",
+        "Ignorar relatos das pessoas atingidas.",
+        "Tratar censura como ausência de conflito."
+      ],
+      "answer": 0,
+      "explanation": "A comparação permite reconhecer diferentes sujeitos, estratégias e propostas.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Uma canção, um jornal e um depoimento podem registrar experiências distintas da resistência.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Resistência à ditadura no Brasil.",
+      "reviewQuestion": "Qual situação pode constituir resistência à ditadura?",
+      "reviewOptions": [
+        "Organização de mobilizações por liberdades democráticas diante da repressão.",
+        "Censura prévia imposta pelo Estado.",
+        "Cassação de direitos políticos.",
+        "Proibição de toda organização independente."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A mobilização por liberdades pode contestar o regime; as demais opções descrevem formas de repressão.",
+      "teachQuestion": "Explique resistência à ditadura no brasil com um exemplo e justifique sua explicação.",
+      "grade": 9,
+      "bncc": "EF09HI20",
+      "lesson_id": "bncc_historia_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 433
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_historia_6",
+      "title": "Investigar fontes históricas",
+      "objective": "Explorar investigar fontes históricas em uma situação do cotidiano.",
+      "body": "O conhecimento histórico é construído com perguntas e análise de fontes. Cartas, objetos, relatos e imagens podem oferecer pistas, mas cada registro tem autoria, contexto e limites. Uma fonte não fala por todos os grupos de uma época.",
+      "example": "Uma carta mostra o ponto de vista de quem a escreveu; compará-la com outros registros ajuda a investigar o período.",
+      "grade": 6,
+      "bncc": "EF06HI02",
+      "lesson_id": "bncc_historia_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 423
+    },
+    {
+      "id": "bncc_historia_7",
+      "title": "Conquista e resistências indígenas",
+      "objective": "Explorar conquista e resistências indígenas em uma situação do cotidiano.",
+      "body": "A conquista europeia da América afetou de formas diferentes povos diversos. Houve guerras, epidemias, exploração do trabalho e disputas territoriais. Os povos indígenas também construíram resistências, negociações e alianças. Não devem ser apresentados como um grupo único ou sem iniciativa histórica.",
+      "example": "Manter práticas culturais e construir alianças pode integrar formas de resistência, além dos confrontos armados.",
+      "grade": 7,
+      "bncc": "EF07HI09",
+      "lesson_id": "bncc_historia_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 425
+    },
+    {
+      "id": "bncc_historia_8",
+      "title": "Iluminismo e limites históricos",
+      "objective": "Explorar iluminismo e limites históricos em uma situação do cotidiano.",
+      "body": "Pensadores iluministas valorizaram a razão e criticaram diferentes formas de poder absoluto. Ideias de liberdade e direitos influenciaram disputas políticas. Porém, a defesa de direitos coexistiu com exclusões; é importante comparar os ideais com as condições históricas de sua aplicação.",
+      "example": "A defesa de liberdade não significou que mulheres, pessoas escravizadas e outros grupos recebessem imediatamente os mesmos direitos.",
+      "grade": 8,
+      "bncc": "EF08HI01",
+      "lesson_id": "bncc_historia_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 427
+    },
+    {
+      "id": "bncc_historia_9",
+      "title": "Resistência à ditadura no Brasil",
+      "objective": "Explorar resistência à ditadura no brasil em uma situação do cotidiano.",
+      "body": "Durante a ditadura civil-militar brasileira, diferentes pessoas e grupos contestaram a repressão e defenderam mudanças. Houve mobilizações estudantis, operárias, artísticas e de outros setores. As estratégias e propostas variaram. Compare fontes para compreender essa diversidade, sem apagar a violência de Estado.",
+      "example": "Uma canção, um jornal e um depoimento podem registrar experiências distintas da resistência.",
+      "grade": 9,
+      "bncc": "EF09HI20",
+      "lesson_id": "bncc_historia_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 433
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

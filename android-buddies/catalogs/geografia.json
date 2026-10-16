@@ -82,6 +82,201 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de clima."
+    },
+    {
+      "id": "bncc_geografia_6_q1",
+      "skill": "Ler a escala do mapa",
+      "question": "Em um mapa 1:100.000, duas escolas estão separadas por 3 cm. Qual é a distância representada?",
+      "options": [
+        "3 km",
+        "300 km",
+        "30 m",
+        "300 m"
+      ],
+      "answer": 0,
+      "explanation": "3 × 100.000 cm = 300.000 cm = 3 km.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "100.000 cm correspondem a 1 km. Portanto, 2 cm nesse mapa representam 2 km.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Ler a escala do mapa.",
+      "reviewQuestion": "Em um mapa 1:50.000, um caminho mede 4 cm. Qual é a distância representada?",
+      "reviewOptions": [
+        "2 km",
+        "20 km",
+        "200 km",
+        "50 m"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "4 × 50.000 cm = 200.000 cm = 2 km.",
+      "teachQuestion": "Explique ler a escala do mapa com um exemplo e justifique sua explicação.",
+      "grade": 6,
+      "bncc": "EF06GE08",
+      "lesson_id": "bncc_geografia_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 387
+    },
+    {
+      "id": "bncc_geografia_7_q1",
+      "skill": "População e diversidade no território",
+      "question": "Para investigar desigualdade territorial no acesso à escola, qual conjunto de dados é mais útil?",
+      "options": [
+        "População por área e oferta/acesso a escolas, com data e fonte.",
+        "Somente a cor preferida dos moradores.",
+        "Um estereótipo sobre uma região.",
+        "Uma opinião sem localização."
+      ],
+      "answer": 0,
+      "explanation": "Relacionar distribuição da população e acesso a serviços permite analisar diferenças territoriais.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Um mapa de população e uma tabela de acesso a serviços respondem a perguntas diferentes e podem ser analisados em conjunto.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: População e diversidade no território.",
+      "reviewQuestion": "Ao comparar dados de grupos populacionais, qual cuidado é necessário?",
+      "reviewOptions": [
+        "Respeitar a diversidade e examinar os critérios e a fonte dos dados.",
+        "Tratar cada grupo como totalmente uniforme.",
+        "Atribuir desigualdade a inferioridade cultural.",
+        "Ignorar quando os dados foram coletados."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Categorias e contextos precisam ser analisados sem naturalizar desigualdades.",
+      "teachQuestion": "Explique população e diversidade no território com um exemplo e justifique sua explicação.",
+      "grade": 7,
+      "bncc": "EF07GE04",
+      "lesson_id": "bncc_geografia_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 389
+    },
+    {
+      "id": "bncc_geografia_8_q1",
+      "skill": "Dinâmica demográfica",
+      "question": "Em uma cidade fictícia houve 120 nascimentos e 70 mortes em um ano. Qual foi o crescimento vegetativo?",
+      "options": [
+        "50 pessoas",
+        "190 pessoas",
+        "70 pessoas",
+        "120 pessoas"
+      ],
+      "answer": 0,
+      "explanation": "120 − 70 = 50; entradas e saídas não entram nesse cálculo.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Se nasceram 80 pessoas e morreram 30, o crescimento vegetativo foi de 50 pessoas, antes de considerar migrações.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Dinâmica demográfica.",
+      "reviewQuestion": "Em outra cidade fictícia entraram 40 moradores e saíram 25. Qual foi o saldo migratório?",
+      "reviewOptions": [
+        "15 pessoas",
+        "65 pessoas",
+        "25 pessoas",
+        "40 pessoas"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "40 − 25 = 15 pessoas, saldo positivo de migração.",
+      "teachQuestion": "Explique dinâmica demográfica com um exemplo e justifique sua explicação.",
+      "grade": 8,
+      "bncc": "EF08GE03",
+      "lesson_id": "bncc_geografia_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 391
+    },
+    {
+      "id": "bncc_geografia_9_q1",
+      "skill": "Corporações e cotidiano",
+      "question": "Qual investigação ajuda a analisar a atuação de uma corporação internacional?",
+      "options": [
+        "Examinar a cadeia produtiva, condições de trabalho, consumo e impactos ambientais.",
+        "Olhar apenas a cor do logotipo.",
+        "Supor que todos os efeitos são iguais em qualquer país.",
+        "Ignorar trabalhadores e consumidores."
+      ],
+      "answer": 0,
+      "explanation": "A análise deve relacionar escalas e diferentes efeitos da atuação da empresa.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Um celular pode reunir projeto, peças, montagem e venda realizados em países diferentes.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Corporações e cotidiano.",
+      "reviewQuestion": "Uma campanha global usa referências locais para vender. Que relação pode ser investigada?",
+      "reviewOptions": [
+        "A relação entre estratégias corporativas, cultura e consumo.",
+        "A inexistência de influência cultural.",
+        "Apenas o movimento de rotação.",
+        "A impossibilidade de circulação de produtos."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Publicidade pode articular estratégias globais a hábitos e referências locais.",
+      "teachQuestion": "Explique corporações e cotidiano com um exemplo e justifique sua explicação.",
+      "grade": 9,
+      "bncc": "EF09GE02",
+      "lesson_id": "bncc_geografia_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 395
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_geografia_6",
+      "title": "Ler a escala do mapa",
+      "objective": "Explorar ler a escala do mapa em uma situação do cotidiano.",
+      "body": "A escala relaciona uma medida no mapa com a correspondente no terreno. Na escala 1:100.000, cada centímetro representa 100.000 centímetros reais. Converta as unidades antes de interpretar a distância.",
+      "example": "100.000 cm correspondem a 1 km. Portanto, 2 cm nesse mapa representam 2 km.",
+      "grade": 6,
+      "bncc": "EF06GE08",
+      "lesson_id": "bncc_geografia_6",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 387
+    },
+    {
+      "id": "bncc_geografia_7",
+      "title": "População e diversidade no território",
+      "objective": "Explorar população e diversidade no território em uma situação do cotidiano.",
+      "body": "A população brasileira se distribui de modo desigual pelo território e apresenta grande diversidade. Mapas e dados sobre idade, renda e pertencimento étnico-cultural ajudam a analisar essa distribuição. Evite explicar diferenças por estereótipos: considere processos históricos, condições de vida e a fonte dos dados.",
+      "example": "Um mapa de população e uma tabela de acesso a serviços respondem a perguntas diferentes e podem ser analisados em conjunto.",
+      "grade": 7,
+      "bncc": "EF07GE04",
+      "lesson_id": "bncc_geografia_7",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 389
+    },
+    {
+      "id": "bncc_geografia_8",
+      "title": "Dinâmica demográfica",
+      "objective": "Explorar dinâmica demográfica em uma situação do cotidiano.",
+      "body": "A população muda por nascimentos, mortes e movimentos migratórios. Crescimento vegetativo é a diferença entre nascimentos e mortes em um período. O saldo migratório é a diferença entre entradas e saídas; são medidas distintas.",
+      "example": "Se nasceram 80 pessoas e morreram 30, o crescimento vegetativo foi de 50 pessoas, antes de considerar migrações.",
+      "grade": 8,
+      "bncc": "EF08GE03",
+      "lesson_id": "bncc_geografia_8",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 391
+    },
+    {
+      "id": "bncc_geografia_9",
+      "title": "Corporações e cotidiano",
+      "objective": "Explorar corporações e cotidiano em uma situação do cotidiano.",
+      "body": "Corporações internacionais organizam atividades em diferentes países e influenciam consumo, trabalho e circulação de produtos e mensagens. Analisar sua atuação exige observar vantagens, conflitos e impactos em escalas diferentes. A origem de uma marca não explica sozinha toda a cadeia de produção.",
+      "example": "Um celular pode reunir projeto, peças, montagem e venda realizados em países diferentes.",
+      "grade": 9,
+      "bncc": "EF09GE02",
+      "lesson_id": "bncc_geografia_9",
+      "alignment": "parcial",
+      "alignment_note": "Atividade de apoio a parte da habilidade, não uma avaliação completa.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 395
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

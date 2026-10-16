@@ -82,6 +82,153 @@
       ],
       "reviewAnswer": 0,
       "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de eletricidade."
+    },
+    {
+      "id": "bncc_fisica_11_q1",
+      "skill": "Transformações de energia",
+      "question": "Uma lâmpada recebe 100 J e emite 20 J como luz. Admitindo só luz e aquecimento, quanto vai para aquecimento?",
+      "options": [
+        "80 J",
+        "120 J",
+        "20 J",
+        "100 J"
+      ],
+      "answer": 0,
+      "explanation": "Conservação: 100 = 20 + 80 J.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Para iluminar, interessa a parcela convertida em luz; comparar essa parcela ajuda a discutir eficiência.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Transformações de energia.",
+      "reviewQuestion": "Um sistema recebe 50 J e fornece 30 J de energia útil, sem variação de energia armazenada. Quanto é transferido de outras formas?",
+      "reviewOptions": [
+        "20 J",
+        "80 J",
+        "30 J",
+        "50 J"
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "50 − 30 = 20 J transferidos de outras formas.",
+      "teachQuestion": "Explique transformações de energia com um exemplo e justifique sua explicação.",
+      "grade": 11,
+      "bncc": "EM13CNT101",
+      "lesson_id": "bncc_fisica_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_fisica_12_q1",
+      "skill": "Isolamento térmico",
+      "question": "Qual teste permite comparar melhor dois recipientes isolantes?",
+      "options": [
+        "Mesma água inicial e ambiente; medir a temperatura nos mesmos intervalos.",
+        "Um com água quente e outro com gelo.",
+        "Medir um após um minuto e outro após uma hora.",
+        "Trocar todos os fatores ao mesmo tempo."
+      ],
+      "answer": 0,
+      "explanation": "Controlar as condições permite relacionar as diferenças ao isolamento, com mais confiança.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Para comparar recipientes, use a mesma quantidade de água, temperatura inicial e tempo de observação.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Isolamento térmico.",
+      "reviewQuestion": "Qual resultado sugere melhor conservação térmica de água quente nas mesmas condições?",
+      "reviewOptions": [
+        "Menor queda de temperatura durante o mesmo intervalo.",
+        "Maior queda de temperatura.",
+        "Mudança da cor externa apenas.",
+        "Maior massa sem medir temperatura."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "Menor queda indica transferência mais lenta nas condições do teste.",
+      "teachQuestion": "Explique isolamento térmico com um exemplo e justifique sua explicação.",
+      "grade": 12,
+      "bncc": "EM13CNT102",
+      "lesson_id": "bncc_fisica_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_fisica_13_q1",
+      "skill": "Eficiência e consumo",
+      "question": "Duas lâmpadas iluminam igualmente e funcionam pelo mesmo tempo. Qual escolha reduz o consumo?",
+      "options": [
+        "A que usa menor potência nessas condições.",
+        "A de maior potência, sempre.",
+        "A de maior embalagem.",
+        "A escolhida só pela cor da caixa."
+      ],
+      "answer": 0,
+      "explanation": "Para o mesmo tempo e iluminação, menor potência implica menor energia elétrica consumida.",
+      "hint": "Leia o contexto e identifique o conceito estudado na miniaula.",
+      "example": "Duas lâmpadas com a mesma iluminação podem consumir quantidades diferentes de energia.",
+      "guide": "Que informação permite justificar sua escolha?",
+      "prerequisite": "Revise o conceito central: Eficiência e consumo.",
+      "reviewQuestion": "Qual critério amplia uma avaliação ambiental da tecnologia?",
+      "reviewOptions": [
+        "Considerar consumo, durabilidade, produção e descarte.",
+        "Olhar apenas o preço inicial.",
+        "Ignorar os resíduos.",
+        "Supor impacto zero de qualquer aparelho novo."
+      ],
+      "reviewAnswer": 0,
+      "reviewExplanation": "A avaliação deve considerar o ciclo de vida e os efeitos socioambientais.",
+      "teachQuestion": "Explique eficiência e consumo com um exemplo e justifique sua explicação.",
+      "grade": 13,
+      "bncc": "EM13CNT106",
+      "lesson_id": "bncc_fisica_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
     }
-  ]
+  ],
+  "lessons": [
+    {
+      "id": "bncc_fisica_11",
+      "title": "Transformações de energia",
+      "objective": "Explorar transformações de energia em uma situação do cotidiano.",
+      "body": "Em sistemas físicos, a energia pode mudar de forma e ser transferida. Em uma lâmpada, parte da energia elétrica vira luz e parte é transferida como energia térmica. A energia total se conserva; útil e não útil dependem do objetivo analisado.",
+      "example": "Para iluminar, interessa a parcela convertida em luz; comparar essa parcela ajuda a discutir eficiência.",
+      "grade": 11,
+      "bncc": "EM13CNT101",
+      "lesson_id": "bncc_fisica_11",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_fisica_12",
+      "title": "Isolamento térmico",
+      "objective": "Explorar isolamento térmico em uma situação do cotidiano.",
+      "body": "Um isolante reduz a rapidez das transferências de energia por diferença de temperatura. Não cria frio ou calor e não impede toda troca. Para comparar protótipos, mantenha constantes as condições iniciais e meça a temperatura ao longo do tempo.",
+      "example": "Para comparar recipientes, use a mesma quantidade de água, temperatura inicial e tempo de observação.",
+      "grade": 12,
+      "bncc": "EM13CNT102",
+      "lesson_id": "bncc_fisica_12",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    },
+    {
+      "id": "bncc_fisica_13",
+      "title": "Eficiência e consumo",
+      "objective": "Explorar eficiência e consumo em uma situação do cotidiano.",
+      "body": "Avaliar uma tecnologia elétrica exige considerar o serviço oferecido, o consumo e seus impactos. Uma potência menor não garante, sozinha, melhor desempenho. Para o mesmo serviço, compare energia usada, tempo, durabilidade e condições de descarte.",
+      "example": "Duas lâmpadas com a mesma iluminação podem consumir quantidades diferentes de energia.",
+      "grade": 13,
+      "bncc": "EM13CNT106",
+      "lesson_id": "bncc_fisica_13",
+      "alignment": "parcial",
+      "alignment_note": "Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.",
+      "source": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "source_pdf_page": 557
+    }
+  ],
+  "curriculum_note": "Recorte inicial: cada miniaula trabalha parte da habilidade; não cobre toda a BNCC."
 }

@@ -35,6 +35,7 @@ public final class OverlayService extends Service {
             Notification notice=Notifications.build(this,"Companheiro flutuante • toque para carinho",new Intent(this,OverlayService.class).setAction("STOP"));
             if(Build.VERSION.SDK_INT>=34)startForeground(10,notice,ServiceInfo.FOREGROUND_SERVICE_TYPE_SPECIAL_USE);else startForeground(10,notice);
             if(robot==null){FamilyCoordinator.activate(this);showRobot();}
+            if("STUDY".equals(intent.getAction()))bubble.show();
             if(intent.getAction()!=null&&intent.getAction().startsWith("MOVE_")){
                 String side=intent.getAction().substring(5);
                 Rect area=usableArea();float x=side.equals("RIGHT")?area.right-params.width:side.equals("CENTER")?(area.left+area.right-params.width)/2f:area.left;

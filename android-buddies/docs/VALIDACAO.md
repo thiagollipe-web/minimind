@@ -31,3 +31,12 @@ A assinatura é de desenvolvimento. Não há publicação na Play Store nem afir
 - Os 12 APKs foram recompilados e tiveram assinatura, application ID, versionCode 2 e versionName 0.2.0 verificados. Os recursos de ícone compilados têm hashes distintos nos 12 APKs.
 - O certificado de cada novo APK foi comparado ao APK 0.1.0 entregue anteriormente: os 12 correspondem. A atualização é instalável por cima daquela edição, sem migração de banco de dados. Isso não cobre instalações oriundas de builds com outras chaves.
 - Não executado nesta atualização: teste em celular real, ciclo de atualização no Android ou desempenho da animação no dispositivo.
+
+## Atualização 0.3.0 — balões BNCC
+
+- Referência consultada: PDF BNCC/MEC completo, com 600 páginas e a etapa do Médio. O índice de 39 códigos e suas páginas está em `curriculum/references.json`, com data e hash do documento consultado. As questões e explicações são originais, não questões oficiais do MEC.
+- Validação estrutural: 42 miniaulas, 42 exercícios e 42 revisões; códigos, anos/etapas, referências, vínculos entre miniaula e questão e permanência dos 36 IDs antigos conferidos.
+- Teste da migração SQLite v1→v2 com esquema legado real: tentativas, textos aprovados e XP preservados; novos registros aceitos. Testadas as consultas reais de elegibilidade da revisão, incluindo intervalo desde a aula, isolamento por perfil e proteção contra repetição da recompensa. Leitura de aula sem dica não conta como exposição à estratégia. Esses testes usam SQLite de desktop, não o framework Android.
+- Núcleo STDP, política adaptativa, necessidades, gestos, personagens e acessórios passaram novamente.
+- Os 12 APKs 0.3.0 foram compilados, assinados e verificados, com códigos de versão incrementados e ícones distintos.
+- Não executados: instalação/atualização real, migração dentro do SQLiteOpenHelper em Android, rolagem/teclado/insets do balão em aparelho e avaliação pedagógica das sequências com alunos. O alinhamento é parcial, com revisão docente recomendada para o plano de aula local; a miniaula não comprova a habilidade inteira.

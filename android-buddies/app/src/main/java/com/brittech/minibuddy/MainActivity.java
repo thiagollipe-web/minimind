@@ -43,7 +43,7 @@ public final class MainActivity extends Activity {
         preview=new RobotView(this,session,new RobotView.Gestures(){
             public void pet(){session.pet();Chirps.play(session);}
             public void drag(float dx,float dy){}
-            public void menu(){toast("No mascote flutuante: segure para abrir este painel.");}
+            public void menu(){toast("No mascote flutuante: segure para abrir o balão com miniaulas e exercícios.");}
             public void positionSaved(){}
         });
         LinearLayout.LayoutParams previewParams=new LinearLayout.LayoutParams(dp(140),dp(156));previewParams.gravity=Gravity.CENTER_HORIZONTAL;content.addView(preview,previewParams);
@@ -52,6 +52,7 @@ public final class MainActivity extends Activity {
             try{startActivity(new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION,Uri.parse("package:"+getPackageName())));}catch(Exception e){toast("Abra as configurações de permissões do MiniBuddy: "+e.getMessage());}
         });
         button("2 · Mostrar mascote flutuante",()->startOverlay(false));
+        button("Miniaulas e exercícios BNCC no balão",()->{if(!Settings.canDrawOverlays(this)){toast("Primeiro permita aparecer sobre outros apps.");return;}startForegroundService(new Intent(this,OverlayService.class).setAction("STUDY"));moveTaskToBack(true);});
         label("Posição na tela",16);
         button("Colocar no lado esquerdo",()->position("LEFT"));
         button("Colocar no lado direito",()->position("RIGHT"));
@@ -84,10 +85,10 @@ public final class MainActivity extends Activity {
             public void onNothingSelected(android.widget.AdapterView<?> p){}
             public void onItemSelected(android.widget.AdapterView<?> p,View v,int position,long id){session.prefs.edit().putInt("size",new int[]{80,100,130}[position]).apply();}
         });content.addView(sizes);label("O tamanho é aplicado ao fechar e mostrar novamente o mascote.",12);
-        title("Perguntas do aprendiz",20);
-        Switch questions=new Switch(this);questions.setText("Perguntar enquanto o mascote está ativo (silêncio 22h–7h)");questions.setTextColor(Color.WHITE);questions.setChecked(session.prefs.getBoolean("study_questions",false));questions.setOnCheckedChangeListener((v,on)->session.prefs.edit().putBoolean("study_questions",on).putLong("last_study_question",System.currentTimeMillis()).apply());content.addView(questions);
+        title("Balões de estudo",20);
+        Switch questions=new Switch(this);questions.setText("Abrir balões de estudo enquanto o mascote está ativo (silêncio 22h–7h)");questions.setTextColor(Color.WHITE);questions.setChecked(session.prefs.getBoolean("study_questions",false));questions.setOnCheckedChangeListener((v,on)->session.prefs.edit().putBoolean("study_questions",on).putLong("last_study_question",System.currentTimeMillis()).apply());content.addView(questions);
         Spinner intervals=new Spinner(this);intervals.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,new String[]{"A cada 1 hora","A cada 3 horas","A cada 6 horas"}));int hours=session.prefs.getInt("study_hours",3);intervals.setSelection(hours==1?0:hours==6?2:1);intervals.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener(){public void onNothingSelected(AdapterView<?> p){}public void onItemSelected(AdapterView<?> p,View v,int n,long id){session.prefs.edit().putInt("study_hours",new int[]{1,3,6}[n]).apply();}});content.addView(intervals);
-        label("Segure o mascote ou toque em ⋯ para responder no balão. Perguntas automáticas dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
+        label("Segure o mascote ou toque em ⋯ para abrir miniaula, exercício ou resposta no balão. Balões automáticos dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
         title("Reações e carinho",20);
         button("A reação foi útil (+1)",()->toast(session.rate(1)?"Preferência atualizada":"Ative observação e aprendizagem; aguarde uma ação ainda não avaliada."));
         button("A reação foi inadequada (−1)",()->toast(session.rate(-1)?"Preferência atualizada":"Sem ação disponível ou aprendizagem congelada."));

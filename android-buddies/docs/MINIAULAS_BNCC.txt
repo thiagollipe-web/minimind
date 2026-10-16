@@ -1,0 +1,968 @@
+MINIAULAS ORIGINAIS — MINIBUDDIES 0.3.0
+Catálogo inicial de apoio à BNCC; alinhamento parcial, não homologação do MEC.
+
+Biologia — 1ª EM (sugerida)
+Níveis de organização da vida
+EM13CNT202 | página PDF 559
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar níveis de organização da vida em uma situação do cotidiano.
+A vida pode ser estudada em níveis, como células, organismos, populações e ecossistemas. Cada nível envolve relações e condições ambientais. Uma explicação sobre uma célula não responde, sozinha, a toda pergunta sobre uma população.
+Exemplo: Investigar a falta de água em uma população de plantas exige relacionar organismos e ambiente.
+EXERCÍCIO: Para investigar a redução de plantas de uma área, quais dados são relevantes?
+1. Disponibilidade de água, luz, solo e relações com outros seres vivos.
+2. Somente a cor do caderno de campo.
+3. Apenas o nome popular de uma planta.
+4. Ignorar as condições ambientais.
+Gabarito: Disponibilidade de água, luz, solo e relações com outros seres vivos.
+A manifestação da vida depende de condições e interações que podem limitar a população.
+REVISÃO: Uma população, em um estudo ecológico, corresponde a:
+1. indivíduos da mesma espécie em uma área e período considerados.
+2. todos os seres vivos do planeta.
+3. apenas moléculas de uma célula.
+4. qualquer conjunto de rochas.
+Gabarito: indivíduos da mesma espécie em uma área e período considerados.
+O conceito delimita espécie, espaço e tempo do estudo.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Biologia — 2ª EM (sugerida)
+Intervenções nos ecossistemas
+EM13CNT203 | página PDF 559
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar intervenções nos ecossistemas em uma situação do cotidiano.
+Intervenções humanas podem alterar cadeias alimentares, ciclos da matéria e condições do ambiente. Uma mudança pode produzir efeitos em vários níveis. Para prever impactos, explicite as relações consideradas e os limites do modelo.
+Exemplo: Se uma população de predadores diminui, mudanças em presas e vegetação podem ocorrer, dependendo das relações locais.
+EXERCÍCIO: Uma intervenção remove grande parte da vegetação de uma margem de rio. Qual efeito deve ser investigado?
+1. Mudanças em abrigo, alimento, erosão e condições da água.
+2. Somente a cor da ferramenta usada.
+3. A certeza de que nenhum organismo será afetado.
+4. A ausência de qualquer relação com o solo.
+Gabarito: Mudanças em abrigo, alimento, erosão e condições da água.
+A vegetação participa das condições de vida e da proteção do solo; os efeitos precisam ser avaliados.
+REVISÃO: Por que uma previsão ecológica deve indicar seus limites?
+1. Porque depende das relações e condições consideradas no modelo.
+2. Porque não pode usar evidências.
+3. Porque todo ecossistema é idêntico.
+4. Porque mudanças nunca têm efeitos indiretos.
+Gabarito: Porque depende das relações e condições consideradas no modelo.
+Modelos simplificam sistemas; explicitar limites melhora a interpretação da previsão.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Biologia — 3ª EM (sugerida)
+Conservar a biodiversidade
+EM13CNT206 | página PDF 559
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar conservar a biodiversidade em uma situação do cotidiano.
+Biodiversidade envolve a variedade da vida e suas relações. Conservação exige considerar habitats, populações e atividades humanas. Comparar intervenções com dados antes e depois, e quando possível com áreas de referência, ajuda a avaliar resultados.
+Exemplo: Restaurar vegetação nativa pode favorecer espécies locais, mas o acompanhamento é necessário para avaliar os efeitos.
+EXERCÍCIO: Qual proposta favorece a conservação e sua avaliação?
+1. Proteger habitats e acompanhar indicadores de espécies e condições ambientais.
+2. Trocar toda vegetação nativa por uma única espécie.
+3. Avaliar o resultado apenas pela inauguração.
+4. Ignorar populações locais e impactos.
+Gabarito: Proteger habitats e acompanhar indicadores de espécies e condições ambientais.
+Proteção e monitoramento permitem avaliar os efeitos sobre a diversidade e o ambiente.
+REVISÃO: Uma área restaurada recebeu várias espécies nativas. Para avaliar o projeto, é importante:
+1. acompanhar sobrevivência, diversidade e relações com o ambiente ao longo do tempo.
+2. contar apenas as placas de inauguração.
+3. supor sucesso definitivo no primeiro dia.
+4. ignorar fatores que ameaçam as espécies.
+Gabarito: acompanhar sobrevivência, diversidade e relações com o ambiente ao longo do tempo.
+A avaliação depende de acompanhamento e de indicadores pertinentes à conservação.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Ciências — 6º EF
+Misturas e fases
+EF06CI01 | página PDF 347
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar misturas e fases em uma situação do cotidiano.
+Uma mistura reúne materiais. Quando apresenta aspecto uniforme em uma única fase, é homogênea; quando observamos mais de uma fase, é heterogênea. A quantidade dissolvida e as condições da observação importam.
+Exemplo: Sal totalmente dissolvido em água forma uma fase; água e óleo em repouso, em condições usuais, formam duas.
+EXERCÍCIO: Uma amostra de água e óleo em repouso apresenta duas camadas. Como classificá-la?
+1. Mistura heterogênea.
+2. Substância pura.
+3. Mistura homogênea.
+4. Elemento químico.
+Gabarito: Mistura heterogênea.
+As duas camadas mostram fases diferentes.
+REVISÃO: Uma pequena quantidade de sal foi totalmente dissolvida em água, sem sólido no fundo. A mistura é:
+1. homogênea.
+2. heterogênea de duas fases.
+3. um elemento químico.
+4. uma substância simples.
+Gabarito: homogênea.
+Nas condições descritas há uma fase observável, apesar de haver dois componentes.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Ciências — 7º EF
+Calor e temperatura
+EF07CI02 | página PDF 349
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar calor e temperatura em uma situação do cotidiano.
+Temperatura ajuda a caracterizar o estado térmico de um corpo. Calor é energia transferida por diferença de temperatura. A sensação térmica depende também de como a energia é transferida, por isso o toque não substitui uma medição.
+Exemplo: Metal e madeira no mesmo ambiente podem estar à mesma temperatura, mas parecer diferentes ao toque por conduzirem calor de modos diferentes.
+EXERCÍCIO: Por que uma peça de metal pode parecer mais fria que madeira na mesma sala?
+1. O metal pode retirar energia da mão mais rapidamente.
+2. O metal necessariamente está abaixo de zero.
+3. A madeira não tem temperatura.
+4. O toque mede a temperatura com exatidão.
+Gabarito: O metal pode retirar energia da mão mais rapidamente.
+A condução de energia influencia a sensação térmica; a comparação exige medir a temperatura.
+REVISÃO: Entre dois corpos em contato, sem outras intervenções, o calor tende a fluir:
+1. do de maior temperatura para o de menor temperatura.
+2. sempre do menor para o maior.
+3. do mais pesado para o mais leve.
+4. sem relação com as temperaturas.
+Gabarito: do de maior temperatura para o de menor temperatura.
+A transferência por diferença de temperatura tende ao equilíbrio térmico.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Ciências — 8º EF
+Consumo de energia elétrica
+EF08CI04 | página PDF 351
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar consumo de energia elétrica em uma situação do cotidiano.
+A energia elétrica consumida depende da potência e do tempo de uso. Em kWh, use a potência em kW e o tempo em horas. Compare equipamentos considerando o mesmo serviço e o uso real, não apenas a potência isolada.
+Exemplo: Uma lâmpada de 20 W ligada por 5 h usa 0,020 × 5 = 0,10 kWh.
+EXERCÍCIO: Um aparelho de 1.000 W funciona por 2 h. Qual é o consumo?
+1. 2 kWh
+2. 2.000 kWh
+3. 0,5 kWh
+4. 1.000 kWh
+Gabarito: 2 kWh
+1.000 W = 1 kW; 1 × 2 = 2 kWh.
+REVISÃO: Uma lâmpada de 10 W permanece ligada por 10 h. Qual é o consumo?
+1. 0,1 kWh
+2. 100 kWh
+3. 10 kWh
+4. 1 kWh
+Gabarito: 0,1 kWh
+10 W = 0,010 kW; 0,010 × 10 = 0,1 kWh.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Ciências — 9º EF
+Mudanças de estado e partículas
+EF09CI01 | página PDF 353
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar mudanças de estado e partículas em uma situação do cotidiano.
+No modelo de partículas, uma mudança de estado altera a organização e a movimentação das partículas, sem necessariamente mudar a substância. Na fusão do gelo, as moléculas continuam sendo de água. Evite confundir mudança física com formação de outra substância.
+Exemplo: Ao derreter, o gelo se torna água líquida; não se transforma em hidrogênio e oxigênio separados.
+EXERCÍCIO: O gelo derreteu e virou água líquida. Qual explicação é adequada?
+1. Mudou a organização e a movimentação das moléculas de água.
+2. As moléculas desapareceram.
+3. Água deixou de ter moléculas.
+4. Formou-se necessariamente uma nova substância.
+Gabarito: Mudou a organização e a movimentação das moléculas de água.
+A fusão é uma mudança física: a substância continua sendo água.
+REVISÃO: Na condensação do vapor de água, o que ocorre?
+1. As moléculas de água passam a se organizar no estado líquido.
+2. Cada molécula vira um átomo de ferro.
+3. As moléculas deixam de existir.
+4. Forma-se necessariamente outro elemento.
+Gabarito: As moléculas de água passam a se organizar no estado líquido.
+A mudança de estado conserva a identidade química da água.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Espanhol — 1ª EM (sugerida)
+Escolher o registro em espanhol
+EM13LGG402 | página PDF 496
+Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
+Objetivo: Explorar escolher o registro em espanhol em uma situação do cotidiano.
+Em espanhol, como em outras línguas, a forma de falar depende da situação e de quem participa. Saudações e pedidos podem ser mais formais ou informais. A diferença de registro não torna uma variedade inferior a outra.
+Exemplo: Para pedir uma informação em um atendimento formal: “Buenos días. ¿Podría ayudarme, por favor?”
+EXERCÍCIO: Em um atendimento formal, qual pedido é mais adequado?
+1. Buenos días. ¿Podría ayudarme, por favor?
+2. ¡Eh, tú! ¡Hazlo ya!
+3. Ayer fui a casa.
+4. La mesa es azul.
+Gabarito: Buenos días. ¿Podría ayudarme, por favor?
+O pedido combina saudação e forma de cortesia adequada à situação.
+REVISÃO: Para agradecer a uma pessoa em espanhol, qual expressão cumpre essa função?
+1. Muchas gracias por su ayuda.
+2. Ayer llovió.
+3. La silla está aquí.
+4. No sé dónde está el libro.
+Gabarito: Muchas gracias por su ayuda.
+A expressão agradece explicitamente pela ajuda.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Espanhol — 2ª EM (sugerida)
+Ler criticamente um anúncio
+EM13LGG103 | página PDF 493
+Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
+Objetivo: Explorar ler criticamente um anúncio em uma situação do cotidiano.
+Um anúncio em espanhol pode combinar imagem, palavras e sons para persuadir. “El mejor para todos” é uma promessa ampla: procure os critérios, a fonte e as evidências. Interpretar criticamente vai além de traduzir palavra por palavra.
+Exemplo: “Resultados garantizados” não informa, por si só, como os resultados foram verificados.
+EXERCÍCIO: Um anúncio diz “El mejor curso para todos”. Qual pergunta ajuda a avaliá-lo?
+1. ¿Con qué criterios y evidencias se afirma que es el mejor?
+2. ¿De qué color es el fondo, solamente?
+3. ¿Cuántas letras tiene “curso”?
+4. ¿Puedo ignorar todas las fuentes?
+Gabarito: ¿Con qué criterios y evidencias se afirma que es el mejor?
+A pergunta solicita critérios e evidências para uma promessa publicitária.
+REVISÃO: “Expertos recomiendan este producto.” Que informação deve ser verificada?
+1. Quiénes son los expertos y en qué pruebas se basan.
+2. Solo el tamaño del cartel.
+3. Solo la música del anuncio.
+4. Solo el número de colores.
+Gabarito: Quiénes son los expertos y en qué pruebas se basan.
+Identificar fontes e evidências permite avaliar a recomendação.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Espanhol — 3ª EM (sugerida)
+Pedir esclarecimento com respeito
+EM13LGG402 | página PDF 496
+Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
+Objetivo: Explorar pedir esclarecimento com respeito em uma situação do cotidiano.
+Em uma conversa, pedir que alguém repita ou explique ajuda a construir entendimento. Uma solicitação respeitosa considera o interlocutor e o contexto. Aprender outra língua inclui negociar sentidos, e não apenas decorar listas de palavras.
+Exemplo: “¿Puede repetir, por favor?” pede repetição; “¿Qué significa esta palabra?” pede o significado.
+EXERCÍCIO: Você não entendeu uma palavra. Qual pergunta solicita o significado?
+1. ¿Qué significa esta palabra?
+2. ¿De qué color es tu mochila?
+3. ¿Dónde está mi casa?
+4. ¿Cuántos años tiene el edificio?
+Gabarito: ¿Qué significa esta palabra?
+A pergunta solicita diretamente o significado da palavra.
+REVISÃO: Qual pedido solicita repetição de forma cortês?
+1. ¿Puede repetir, por favor?
+2. No quiero escucharte.
+3. ¡Habla y cállate!
+4. La ventana está abierta.
+Gabarito: ¿Puede repetir, por favor?
+A forma interrogativa e por favor tornam o pedido cortês.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Filosofia — 1ª EM (sugerida)
+Comparar perspectivas
+EM13CHS101 | página PDF 574
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar comparar perspectivas em uma situação do cotidiano.
+Ler filosoficamente envolve compreender o que um texto afirma, que razões apresenta e a que problema responde. Comparar fontes requer identificar autoria e contexto. Textos de perspectivas diferentes podem iluminar aspectos diferentes de uma mesma questão.
+Exemplo: Duas concepções de liberdade podem discordar sobre a relação entre escolha individual e condições sociais.
+EXERCÍCIO: Ao comparar duas concepções de liberdade, qual procedimento é mais adequado?
+1. Identificar o problema, os conceitos e os argumentos de cada texto.
+2. Escolher apenas o autor mais famoso.
+3. Ignorar os contextos de produção.
+4. Trocar a análise por um ataque pessoal.
+Gabarito: Identificar o problema, os conceitos e os argumentos de cada texto.
+A comparação se apoia nos conceitos, nas razões e nos contextos, não em prestígio isolado.
+REVISÃO: Duas fontes discordam. O que a análise crítica pede?
+1. Examinar as razões e os pressupostos das duas posições.
+2. Aceitar automaticamente a primeira.
+3. Supor que discordância impede qualquer análise.
+4. Julgar somente pelo tamanho do texto.
+Gabarito: Examinar as razões e os pressupostos das duas posições.
+Discordâncias podem ser investigadas pela análise dos argumentos e pressupostos.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Filosofia — 2ª EM (sugerida)
+Evidência e conclusão
+EM13CHS103 | página PDF 574
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar evidência e conclusão em uma situação do cotidiano.
+Um argumento apresenta razões para sustentar uma conclusão. Avalie se as razões são relevantes e se a conclusão vai além das evidências. Um exemplo isolado pode ser útil, mas não basta para provar uma afirmação universal sobre todas as pessoas.
+Exemplo: Um aluno prefere estudar à noite; disso não se segue que todas as pessoas aprendam melhor nesse horário.
+EXERCÍCIO: “Dois colegas gostaram do método, logo ele funciona melhor para todos.” Qual é o problema?
+1. A conclusão generaliza além das evidências apresentadas.
+2. Toda experiência individual é inútil.
+3. Nenhuma conclusão pode ter razões.
+4. Gostar de um método prova eficácia universal.
+Gabarito: A conclusão generaliza além das evidências apresentadas.
+Dois relatos não sustentam uma conclusão universal nem comparam resultados de aprendizagem.
+REVISÃO: Qual dado fortalece uma comparação entre métodos de estudo?
+1. Critérios claros e resultados de grupos comparáveis, com limites explicitados.
+2. A popularidade de quem anuncia, apenas.
+3. Uma promessa sem teste.
+4. Um insulto a quem discorda.
+Gabarito: Critérios claros e resultados de grupos comparáveis, com limites explicitados.
+Critérios e evidências comparáveis ajudam a avaliar a conclusão e seus limites.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Filosofia — 3ª EM (sugerida)
+Ética e tecnologia
+EM13CHS504 | página PDF 579
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar ética e tecnologia em uma situação do cotidiano.
+Uma decisão tecnológica pode afetar privacidade, autonomia, acesso e relações de poder. A reflexão ética identifica os agentes envolvidos, os direitos e os possíveis efeitos. Uma vantagem técnica não resolve sozinha todos os conflitos de valores.
+Exemplo: Coletar mais dados pode facilitar um serviço, mas exige discutir necessidade, consentimento e proteção.
+EXERCÍCIO: Uma escola quer coletar dados pessoais para um aplicativo. Qual pergunta é eticamente relevante?
+1. Quais dados são necessários, quem terá acesso e como serão protegidos?
+2. O aplicativo tem mais cores?
+3. Podemos coletar tudo sem explicar?
+4. A velocidade dispensa discutir direitos?
+Gabarito: Quais dados são necessários, quem terá acesso e como serão protegidos?
+A análise considera necessidade, acesso, proteção e os direitos das pessoas afetadas.
+REVISÃO: Uma ferramenta digital beneficia alguns e exclui outros. A análise ética deve:
+1. examinar a desigualdade de acesso e alternativas de participação.
+2. ignorar quem ficou de fora.
+3. considerar apenas o lucro.
+4. supor que toda inovação é justa por definição.
+Gabarito: examinar a desigualdade de acesso e alternativas de participação.
+A distribuição de benefícios e barreiras faz parte do problema ético-político.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Física — 1ª EM (sugerida)
+Transformações de energia
+EM13CNT101 | página PDF 557
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar transformações de energia em uma situação do cotidiano.
+Em sistemas físicos, a energia pode mudar de forma e ser transferida. Em uma lâmpada, parte da energia elétrica vira luz e parte é transferida como energia térmica. A energia total se conserva; útil e não útil dependem do objetivo analisado.
+Exemplo: Para iluminar, interessa a parcela convertida em luz; comparar essa parcela ajuda a discutir eficiência.
+EXERCÍCIO: Uma lâmpada recebe 100 J e emite 20 J como luz. Admitindo só luz e aquecimento, quanto vai para aquecimento?
+1. 80 J
+2. 120 J
+3. 20 J
+4. 100 J
+Gabarito: 80 J
+Conservação: 100 = 20 + 80 J.
+REVISÃO: Um sistema recebe 50 J e fornece 30 J de energia útil, sem variação de energia armazenada. Quanto é transferido de outras formas?
+1. 20 J
+2. 80 J
+3. 30 J
+4. 50 J
+Gabarito: 20 J
+50 − 30 = 20 J transferidos de outras formas.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Física — 2ª EM (sugerida)
+Isolamento térmico
+EM13CNT102 | página PDF 557
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar isolamento térmico em uma situação do cotidiano.
+Um isolante reduz a rapidez das transferências de energia por diferença de temperatura. Não cria frio ou calor e não impede toda troca. Para comparar protótipos, mantenha constantes as condições iniciais e meça a temperatura ao longo do tempo.
+Exemplo: Para comparar recipientes, use a mesma quantidade de água, temperatura inicial e tempo de observação.
+EXERCÍCIO: Qual teste permite comparar melhor dois recipientes isolantes?
+1. Mesma água inicial e ambiente; medir a temperatura nos mesmos intervalos.
+2. Um com água quente e outro com gelo.
+3. Medir um após um minuto e outro após uma hora.
+4. Trocar todos os fatores ao mesmo tempo.
+Gabarito: Mesma água inicial e ambiente; medir a temperatura nos mesmos intervalos.
+Controlar as condições permite relacionar as diferenças ao isolamento, com mais confiança.
+REVISÃO: Qual resultado sugere melhor conservação térmica de água quente nas mesmas condições?
+1. Menor queda de temperatura durante o mesmo intervalo.
+2. Maior queda de temperatura.
+3. Mudança da cor externa apenas.
+4. Maior massa sem medir temperatura.
+Gabarito: Menor queda de temperatura durante o mesmo intervalo.
+Menor queda indica transferência mais lenta nas condições do teste.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Física — 3ª EM (sugerida)
+Eficiência e consumo
+EM13CNT106 | página PDF 557
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar eficiência e consumo em uma situação do cotidiano.
+Avaliar uma tecnologia elétrica exige considerar o serviço oferecido, o consumo e seus impactos. Uma potência menor não garante, sozinha, melhor desempenho. Para o mesmo serviço, compare energia usada, tempo, durabilidade e condições de descarte.
+Exemplo: Duas lâmpadas com a mesma iluminação podem consumir quantidades diferentes de energia.
+EXERCÍCIO: Duas lâmpadas iluminam igualmente e funcionam pelo mesmo tempo. Qual escolha reduz o consumo?
+1. A que usa menor potência nessas condições.
+2. A de maior potência, sempre.
+3. A de maior embalagem.
+4. A escolhida só pela cor da caixa.
+Gabarito: A que usa menor potência nessas condições.
+Para o mesmo tempo e iluminação, menor potência implica menor energia elétrica consumida.
+REVISÃO: Qual critério amplia uma avaliação ambiental da tecnologia?
+1. Considerar consumo, durabilidade, produção e descarte.
+2. Olhar apenas o preço inicial.
+3. Ignorar os resíduos.
+4. Supor impacto zero de qualquer aparelho novo.
+Gabarito: Considerar consumo, durabilidade, produção e descarte.
+A avaliação deve considerar o ciclo de vida e os efeitos socioambientais.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Geografia — 6º EF
+Ler a escala do mapa
+EF06GE08 | página PDF 387
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar ler a escala do mapa em uma situação do cotidiano.
+A escala relaciona uma medida no mapa com a correspondente no terreno. Na escala 1:100.000, cada centímetro representa 100.000 centímetros reais. Converta as unidades antes de interpretar a distância.
+Exemplo: 100.000 cm correspondem a 1 km. Portanto, 2 cm nesse mapa representam 2 km.
+EXERCÍCIO: Em um mapa 1:100.000, duas escolas estão separadas por 3 cm. Qual é a distância representada?
+1. 3 km
+2. 300 km
+3. 30 m
+4. 300 m
+Gabarito: 3 km
+3 × 100.000 cm = 300.000 cm = 3 km.
+REVISÃO: Em um mapa 1:50.000, um caminho mede 4 cm. Qual é a distância representada?
+1. 2 km
+2. 20 km
+3. 200 km
+4. 50 m
+Gabarito: 2 km
+4 × 50.000 cm = 200.000 cm = 2 km.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Geografia — 7º EF
+População e diversidade no território
+EF07GE04 | página PDF 389
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar população e diversidade no território em uma situação do cotidiano.
+A população brasileira se distribui de modo desigual pelo território e apresenta grande diversidade. Mapas e dados sobre idade, renda e pertencimento étnico-cultural ajudam a analisar essa distribuição. Evite explicar diferenças por estereótipos: considere processos históricos, condições de vida e a fonte dos dados.
+Exemplo: Um mapa de população e uma tabela de acesso a serviços respondem a perguntas diferentes e podem ser analisados em conjunto.
+EXERCÍCIO: Para investigar desigualdade territorial no acesso à escola, qual conjunto de dados é mais útil?
+1. População por área e oferta/acesso a escolas, com data e fonte.
+2. Somente a cor preferida dos moradores.
+3. Um estereótipo sobre uma região.
+4. Uma opinião sem localização.
+Gabarito: População por área e oferta/acesso a escolas, com data e fonte.
+Relacionar distribuição da população e acesso a serviços permite analisar diferenças territoriais.
+REVISÃO: Ao comparar dados de grupos populacionais, qual cuidado é necessário?
+1. Respeitar a diversidade e examinar os critérios e a fonte dos dados.
+2. Tratar cada grupo como totalmente uniforme.
+3. Atribuir desigualdade a inferioridade cultural.
+4. Ignorar quando os dados foram coletados.
+Gabarito: Respeitar a diversidade e examinar os critérios e a fonte dos dados.
+Categorias e contextos precisam ser analisados sem naturalizar desigualdades.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Geografia — 8º EF
+Dinâmica demográfica
+EF08GE03 | página PDF 391
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar dinâmica demográfica em uma situação do cotidiano.
+A população muda por nascimentos, mortes e movimentos migratórios. Crescimento vegetativo é a diferença entre nascimentos e mortes em um período. O saldo migratório é a diferença entre entradas e saídas; são medidas distintas.
+Exemplo: Se nasceram 80 pessoas e morreram 30, o crescimento vegetativo foi de 50 pessoas, antes de considerar migrações.
+EXERCÍCIO: Em uma cidade fictícia houve 120 nascimentos e 70 mortes em um ano. Qual foi o crescimento vegetativo?
+1. 50 pessoas
+2. 190 pessoas
+3. 70 pessoas
+4. 120 pessoas
+Gabarito: 50 pessoas
+120 − 70 = 50; entradas e saídas não entram nesse cálculo.
+REVISÃO: Em outra cidade fictícia entraram 40 moradores e saíram 25. Qual foi o saldo migratório?
+1. 15 pessoas
+2. 65 pessoas
+3. 25 pessoas
+4. 40 pessoas
+Gabarito: 15 pessoas
+40 − 25 = 15 pessoas, saldo positivo de migração.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Geografia — 9º EF
+Corporações e cotidiano
+EF09GE02 | página PDF 395
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar corporações e cotidiano em uma situação do cotidiano.
+Corporações internacionais organizam atividades em diferentes países e influenciam consumo, trabalho e circulação de produtos e mensagens. Analisar sua atuação exige observar vantagens, conflitos e impactos em escalas diferentes. A origem de uma marca não explica sozinha toda a cadeia de produção.
+Exemplo: Um celular pode reunir projeto, peças, montagem e venda realizados em países diferentes.
+EXERCÍCIO: Qual investigação ajuda a analisar a atuação de uma corporação internacional?
+1. Examinar a cadeia produtiva, condições de trabalho, consumo e impactos ambientais.
+2. Olhar apenas a cor do logotipo.
+3. Supor que todos os efeitos são iguais em qualquer país.
+4. Ignorar trabalhadores e consumidores.
+Gabarito: Examinar a cadeia produtiva, condições de trabalho, consumo e impactos ambientais.
+A análise deve relacionar escalas e diferentes efeitos da atuação da empresa.
+REVISÃO: Uma campanha global usa referências locais para vender. Que relação pode ser investigada?
+1. A relação entre estratégias corporativas, cultura e consumo.
+2. A inexistência de influência cultural.
+3. Apenas o movimento de rotação.
+4. A impossibilidade de circulação de produtos.
+Gabarito: A relação entre estratégias corporativas, cultura e consumo.
+Publicidade pode articular estratégias globais a hábitos e referências locais.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+História — 6º EF
+Investigar fontes históricas
+EF06HI02 | página PDF 423
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar investigar fontes históricas em uma situação do cotidiano.
+O conhecimento histórico é construído com perguntas e análise de fontes. Cartas, objetos, relatos e imagens podem oferecer pistas, mas cada registro tem autoria, contexto e limites. Uma fonte não fala por todos os grupos de uma época.
+Exemplo: Uma carta mostra o ponto de vista de quem a escreveu; compará-la com outros registros ajuda a investigar o período.
+EXERCÍCIO: Ao analisar uma carta antiga, qual procedimento é mais adequado?
+1. Investigar autoria, data, destinatário e contexto e comparar outras fontes.
+2. Tratá-la como relato neutro de toda a sociedade.
+3. Ignorar quem escreveu.
+4. Aceitar cada afirmação sem análise.
+Gabarito: Investigar autoria, data, destinatário e contexto e comparar outras fontes.
+A análise contextual e a comparação sustentam a investigação histórica.
+REVISÃO: Uma fotografia de uma festa permite concluir, sozinha, como toda a população vivia?
+1. Não; é preciso analisar o recorte e comparar outras fontes.
+2. Sim; toda foto mostra toda a sociedade.
+3. Sim; imagens não têm enquadramento.
+4. Não é possível estudar imagens.
+Gabarito: Não; é preciso analisar o recorte e comparar outras fontes.
+A imagem é uma fonte com recorte, contexto e limites, não uma amostra automática de toda a população.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+História — 7º EF
+Conquista e resistências indígenas
+EF07HI09 | página PDF 425
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar conquista e resistências indígenas em uma situação do cotidiano.
+A conquista europeia da América afetou de formas diferentes povos diversos. Houve guerras, epidemias, exploração do trabalho e disputas territoriais. Os povos indígenas também construíram resistências, negociações e alianças. Não devem ser apresentados como um grupo único ou sem iniciativa histórica.
+Exemplo: Manter práticas culturais e construir alianças pode integrar formas de resistência, além dos confrontos armados.
+EXERCÍCIO: Qual interpretação reconhece a atuação histórica dos povos indígenas durante a conquista?
+1. Houve diferentes estratégias de resistência, negociação e aliança.
+2. Todos aceitaram passivamente a conquista.
+3. Todos tinham a mesma cultura.
+4. A conquista não produziu impactos.
+Gabarito: Houve diferentes estratégias de resistência, negociação e aliança.
+A diversidade de respostas mostra a atuação dos povos diante da violência e das disputas.
+REVISÃO: Ao comparar dois relatos da conquista, qual cuidado é necessário?
+1. Considerar autoria, interesses e perspectivas, incluindo as indígenas.
+2. Usar apenas a versão do conquistador.
+3. Supor que todas as fontes dizem o mesmo.
+4. Ignorar as consequências para os povos.
+Gabarito: Considerar autoria, interesses e perspectivas, incluindo as indígenas.
+Diferentes perspectivas ajudam a analisar os impactos e as resistências.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+História — 8º EF
+Iluminismo e limites históricos
+EF08HI01 | página PDF 427
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar iluminismo e limites históricos em uma situação do cotidiano.
+Pensadores iluministas valorizaram a razão e criticaram diferentes formas de poder absoluto. Ideias de liberdade e direitos influenciaram disputas políticas. Porém, a defesa de direitos coexistiu com exclusões; é importante comparar os ideais com as condições históricas de sua aplicação.
+Exemplo: A defesa de liberdade não significou que mulheres, pessoas escravizadas e outros grupos recebessem imediatamente os mesmos direitos.
+EXERCÍCIO: Qual atitude permite analisar criticamente ideias iluministas?
+1. Comparar os direitos defendidos com os grupos que continuaram excluídos.
+2. Supor que todos passaram a ter direitos iguais imediatamente.
+3. Ignorar o contexto histórico.
+4. Reduzir todos os pensadores a uma única opinião.
+Gabarito: Comparar os direitos defendidos com os grupos que continuaram excluídos.
+A comparação entre princípios e práticas revela limites e conflitos históricos.
+REVISÃO: Uma crítica ao poder absoluto aproxima-se de qual debate iluminista?
+1. Limitação do poder político e discussão de direitos.
+2. Defesa de poder sem limites.
+3. Proibição de qualquer investigação racional.
+4. Fim de toda diversidade de pensamento.
+Gabarito: Limitação do poder político e discussão de direitos.
+As críticas ao absolutismo alimentaram discussões sobre limites ao poder e direitos.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+História — 9º EF
+Resistência à ditadura no Brasil
+EF09HI20 | página PDF 433
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar resistência à ditadura no brasil em uma situação do cotidiano.
+Durante a ditadura civil-militar brasileira, diferentes pessoas e grupos contestaram a repressão e defenderam mudanças. Houve mobilizações estudantis, operárias, artísticas e de outros setores. As estratégias e propostas variaram. Compare fontes para compreender essa diversidade, sem apagar a violência de Estado.
+Exemplo: Uma canção, um jornal e um depoimento podem registrar experiências distintas da resistência.
+EXERCÍCIO: Qual investigação ajuda a compreender a diversidade das resistências?
+1. Comparar fontes de movimentos estudantis, trabalhadores, artistas e outros grupos.
+2. Supor que só houve uma forma de resistência.
+3. Ignorar relatos das pessoas atingidas.
+4. Tratar censura como ausência de conflito.
+Gabarito: Comparar fontes de movimentos estudantis, trabalhadores, artistas e outros grupos.
+A comparação permite reconhecer diferentes sujeitos, estratégias e propostas.
+REVISÃO: Qual situação pode constituir resistência à ditadura?
+1. Organização de mobilizações por liberdades democráticas diante da repressão.
+2. Censura prévia imposta pelo Estado.
+3. Cassação de direitos políticos.
+4. Proibição de toda organização independente.
+Gabarito: Organização de mobilizações por liberdades democráticas diante da repressão.
+A mobilização por liberdades pode contestar o regime; as demais opções descrevem formas de repressão.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Inglês — 6º EF
+Apresentar uma pessoa
+EF06LI19 | página PDF 253
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar apresentar uma pessoa em uma situação do cotidiano.
+No presente, o verbo to be muda conforme o sujeito: I am; you/we/they are; he/she/it is. Essas formas ajudam a apresentar pessoas. Observe quem é o sujeito antes de completar uma frase.
+Exemplo: My name is Ana. I am a student. She is my friend.
+EXERCÍCIO: Complete a apresentação: My brother ___ a student.
+1. is
+2. are
+3. am
+4. be
+Gabarito: is
+My brother corresponde a he; use is.
+REVISÃO: Complete: We ___ students.
+1. are
+2. is
+3. am
+4. be
+Gabarito: are
+We combina com are no presente.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Inglês — 7º EF
+Contar acontecimentos passados
+EF07LI18 | página PDF 257
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar contar acontecimentos passados em uma situação do cotidiano.
+O passado simples apresenta acontecimentos concluídos; o passado contínuo destaca uma ação em andamento no passado. Was/were + verbo com -ing formam o passado contínuo. Um texto pode combinar as duas formas para mostrar o que acontecia quando outro fato ocorreu.
+Exemplo: I was reading when the phone rang: a leitura estava em andamento quando o telefone tocou.
+EXERCÍCIO: Complete: I ___ dinner when my friend called.
+1. was cooking
+2. am cooking
+3. cook
+4. will cook
+Gabarito: was cooking
+Was cooking situa a ação em andamento no passado, quando a ligação ocorreu.
+REVISÃO: Complete: They ___ football when it started to rain.
+1. were playing
+2. are playing
+3. will play
+4. plays
+Gabarito: were playing
+They combina com were; a ação estava em andamento no passado.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Inglês — 8º EF
+Planos e previsões
+EF08LI14 | página PDF 261
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar planos e previsões em uma situação do cotidiano.
+Para expressar um plano já decidido em inglês, podemos usar am/is/are going to + verbo. Will também pode expressar previsões e decisões, conforme o contexto. O importante é relacionar a forma verbal à intenção da mensagem.
+Exemplo: I am going to study tonight expressa um plano para esta noite.
+EXERCÍCIO: Você já planejou estudar amanhã. Qual frase comunica esse plano?
+1. I am going to study tomorrow.
+2. I studied yesterday.
+3. I study yesterday.
+4. I was studying last week.
+Gabarito: I am going to study tomorrow.
+Going to study e tomorrow indicam um plano futuro.
+REVISÃO: Qual frase comunica uma previsão sobre o futuro?
+1. It will rain tomorrow.
+2. It rained yesterday.
+3. It is raining now.
+4. It rains every winter.
+Gabarito: It will rain tomorrow.
+Will rain e tomorrow situam a previsão no futuro.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Inglês — 9º EF
+Recomendação e obrigação
+EF09LI16 | página PDF 265
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar recomendação e obrigação em uma situação do cotidiano.
+Should costuma apresentar recomendação; must e have to podem indicar obrigação. May e might podem expressar possibilidade. A escolha altera a força e o sentido do que dizemos, por isso considere o contexto.
+Exemplo: You should review your notes recomenda revisar; you must follow the safety rules indica uma obrigação.
+EXERCÍCIO: Qual frase apresenta uma recomendação de estudo?
+1. You should review your notes.
+2. You reviewed your notes.
+3. Your notes are blue.
+4. You are reviewing your notes.
+Gabarito: You should review your notes.
+Should expressa recomendação neste contexto.
+REVISÃO: Em um aviso obrigatório de segurança, qual frase é adequada?
+1. You must wear safety goggles.
+2. You might like goggles.
+3. You wore goggles yesterday.
+4. Your goggles are green.
+Gabarito: You must wear safety goggles.
+Must comunica a obrigação de usar os óculos de proteção.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Matemática — 6º EF
+Somar frações no cotidiano
+EF06MA10 | página PDF 303
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar somar frações no cotidiano em uma situação do cotidiano.
+Uma fração representa uma quantidade em partes iguais. Para somar frações com denominadores diferentes, escreva frações equivalentes com o mesmo denominador. Some os numeradores e mantenha o denominador comum.
+Exemplo: 1/2 + 1/4 = 2/4 + 1/4 = 3/4.
+EXERCÍCIO: Uma receita usa 1/3 de xícara de leite e mais 1/6. Qual é o total?
+1. 1/2
+2. 2/9
+3. 1/9
+4. 1/18
+Gabarito: 1/2
+1/3 equivale a 2/6. Então 2/6 + 1/6 = 3/6 = 1/2.
+REVISÃO: Uma jarra contém 1/4 de litro e recebe mais 1/2 litro. Quanto passa a conter?
+1. 3/4 de litro
+2. 1/6 de litro
+3. 2/6 de litro
+4. 1/8 de litro
+Gabarito: 3/4 de litro
+1/4 + 2/4 = 3/4.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Matemática — 7º EF
+Equações e igualdade
+EF07MA18 | página PDF 309
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar equações e igualdade em uma situação do cotidiano.
+Uma equação afirma que duas expressões têm o mesmo valor. Podemos fazer a mesma operação dos dois lados para manter a igualdade. Primeiro desfazemos a adição ou subtração; depois, a multiplicação que acompanha a incógnita.
+Exemplo: Em 2x + 3 = 11: 2x = 8, portanto x = 4.
+EXERCÍCIO: Três cadernos iguais e uma caneta de R$ 2 custam R$ 17. Quanto custa cada caderno?
+1. R$ 5
+2. R$ 3
+3. R$ 6
+4. R$ 7
+Gabarito: R$ 5
+3x + 2 = 17; 3x = 15; x = 5.
+REVISÃO: Dois ingressos iguais e uma taxa de R$ 4 custam R$ 20. Qual é o preço de cada ingresso?
+1. R$ 8
+2. R$ 12
+3. R$ 10
+4. R$ 16
+Gabarito: R$ 8
+2x + 4 = 20; 2x = 16; x = 8.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Matemática — 8º EF
+Porcentagem e desconto
+EF08MA04 | página PDF 315
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar porcentagem e desconto em uma situação do cotidiano.
+Porcentagem significa uma razão com referência em cem. Para calcular p% de uma quantia, multiplique a quantia por p/100. Em descontos, subtraia o valor encontrado do preço inicial.
+Exemplo: 10% de R$ 50 são R$ 5; com esse desconto, o preço fica R$ 45.
+EXERCÍCIO: Uma mochila custa R$ 80 e tem desconto de 25%. Qual é o preço final?
+1. R$ 60
+2. R$ 20
+3. R$ 55
+4. R$ 75
+Gabarito: R$ 60
+25% de 80 são 20; 80 − 20 = 60.
+REVISÃO: Um livro custa R$ 120 e tem desconto de 10%. Qual é o preço final?
+1. R$ 108
+2. R$ 110
+3. R$ 12
+4. R$ 100
+Gabarito: R$ 108
+10% de 120 são 12; 120 − 12 = 108.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Matemática — 9º EF
+Razões entre grandezas
+EF09MA07 | página PDF 319
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar razões entre grandezas em uma situação do cotidiano.
+Uma razão pode relacionar grandezas diferentes, como distância e tempo. A velocidade escalar média é a distância percorrida dividida pelo tempo total. Confira sempre as unidades antes de calcular.
+Exemplo: Uma viagem de 90 km em 1,5 h tem velocidade escalar média de 60 km/h.
+EXERCÍCIO: Um ônibus percorreu 180 km em 3 horas. Qual foi a velocidade escalar média?
+1. 60 km/h
+2. 540 km/h
+3. 90 km/h
+4. 30 km/h
+Gabarito: 60 km/h
+180 ÷ 3 = 60 km/h.
+REVISÃO: Uma ciclista percorreu 24 km em 2 horas. Qual foi a velocidade escalar média?
+1. 12 km/h
+2. 48 km/h
+3. 22 km/h
+4. 26 km/h
+Gabarito: 12 km/h
+24 ÷ 2 = 12 km/h.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Português — 6º EF
+Fato e opinião
+EF67LP04 | página PDF 165
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar fato e opinião em uma situação do cotidiano.
+Fatos são afirmações que podem ser verificadas por registros ou observações. Opiniões expressam uma avaliação ou ponto de vista. Uma opinião pode ser fundamentada, mas não se transforma em fato apenas por ser afirmada com certeza.
+Exemplo: “A biblioteca abriu às 8h” é verificável; “a biblioteca é maravilhosa” expressa avaliação.
+EXERCÍCIO: Qual trecho expressa opinião?
+1. A feira foi o melhor evento do ano.
+2. A feira começou às 9h.
+3. Foram expostos 12 trabalhos.
+4. O evento ocorreu na escola.
+Gabarito: A feira foi o melhor evento do ano.
+Melhor expressa um julgamento, que depende de critérios e ponto de vista.
+REVISÃO: Qual afirmação pode ser checada como fato?
+1. A turma apresentou cinco cartazes.
+2. A apresentação foi incrível.
+3. O cartaz azul era o mais bonito.
+4. A turma é a melhor da escola.
+Gabarito: A turma apresentou cinco cartazes.
+A quantidade de cartazes pode ser conferida em registros ou observação.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Português — 7º EF
+Tese e argumento
+EF67LP05 | página PDF 165
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar tese e argumento em uma situação do cotidiano.
+Uma tese apresenta a posição defendida em um texto. Argumentos são razões que procuram sustentar essa posição. Para avaliar o texto, identifique o que o autor defende e se suas razões são pertinentes e verificáveis.
+Exemplo: “A biblioteca deve abrir no intervalo, pois estudantes que usam transporte escolar não podem ficar após a aula”: a proposta é a tese; a dificuldade de horário é uma razão.
+EXERCÍCIO: Leia: “Devemos ampliar a coleta seletiva, pois separar materiais facilita a reciclagem.” Qual é a tese?
+1. Devemos ampliar a coleta seletiva.
+2. Separar materiais facilita a reciclagem.
+3. Não existe posição no trecho.
+4. Toda razão é uma tese.
+Gabarito: Devemos ampliar a coleta seletiva.
+A tese é a proposta defendida; a parte introduzida por pois apresenta uma razão.
+REVISÃO: Leia: “A horta deve continuar, porque permite observar o crescimento das plantas.” Qual trecho é o argumento?
+1. Permite observar o crescimento das plantas.
+2. A horta deve continuar.
+3. A horta é uma palavra.
+4. O texto não tem argumento.
+Gabarito: Permite observar o crescimento das plantas.
+A observação das plantas é a razão apresentada para defender a continuidade da horta.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Português — 8º EF
+Argumento e contra-argumento
+EF89LP04 | página PDF 179
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar argumento e contra-argumento em uma situação do cotidiano.
+Um texto argumentativo pode defender uma posição e enfrentar objeções. Contra-argumentar exige compreender a objeção e responder a ela com razões. Discordar sem justificar ou atacar uma pessoa não substitui a análise do argumento.
+Exemplo: Se alguém rejeita a horta por falta de espaço, uma resposta pertinente seria propor cultivo em vasos e explicar onde colocá-los.
+EXERCÍCIO: À objeção “não há espaço para a horta”, qual resposta enfrenta o argumento?
+1. Podemos usar vasos em uma área já disponível, sem bloquear a passagem.
+2. Quem discorda é ignorante.
+3. A horta é legal, pronto.
+4. A pessoa sempre reclama.
+Gabarito: Podemos usar vasos em uma área já disponível, sem bloquear a passagem.
+A resposta discute a limitação de espaço e propõe uma solução verificável.
+REVISÃO: À objeção “o jornal impresso custa caro”, qual resposta é um contra-argumento pertinente?
+1. Uma edição digital pode reduzir o gasto com impressão.
+2. Quem disse isso é chato.
+3. Todo jornal é perfeito.
+4. Não quero ouvir opiniões.
+Gabarito: Uma edição digital pode reduzir o gasto com impressão.
+A proposta digital responde ao problema de custo levantado.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Português — 9º EF
+Persuasão e fontes
+EF89LP06 | página PDF 179
+Atividade de apoio a parte da habilidade, não uma avaliação completa.
+Objetivo: Explorar persuasão e fontes em uma situação do cotidiano.
+Títulos, escolhas de palavras e fontes influenciam a interpretação de um texto. Expressões como “todo mundo sabe” podem tentar criar consenso sem apresentar evidências. Avalie a autoria e os dados, além do efeito emocional das palavras.
+Exemplo: “Milagre do estudo: método infalível!” promete certeza sem mostrar como o resultado foi verificado.
+EXERCÍCIO: Qual recurso persuasivo aparece em “Todo mundo inteligente escolhe este curso”?
+1. Apelo à aprovação social e à identidade do leitor.
+2. Apresentação de amostra e método.
+3. Demonstração matemática completa.
+4. Comparação com dados verificáveis.
+Gabarito: Apelo à aprovação social e à identidade do leitor.
+O texto tenta associar a compra à imagem de ser inteligente, sem fornecer evidência.
+REVISÃO: Para avaliar “Especialistas garantem resultado”, qual informação faz falta?
+1. Quem são os especialistas e em que evidências se apoiam.
+2. A cor do anúncio apenas.
+3. A quantidade de exclamações.
+4. O tamanho da fonte apenas.
+Gabarito: Quem são os especialistas e em que evidências se apoiam.
+A identificação das fontes e das evidências permite verificar a alegação.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Química — 1ª EM (sugerida)
+Conservação da matéria
+EM13CNT101 | página PDF 557
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar conservação da matéria em uma situação do cotidiano.
+Em uma reação química de um sistema fechado, os átomos se reorganizam e a massa total se conserva nas condições usuais de estudo. Balancear uma equação representa a conservação da quantidade de átomos de cada elemento. Não altere os índices das fórmulas para balancear.
+Exemplo: Em 2 H₂ + O₂ → 2 H₂O, há quatro átomos de H e dois de O em cada lado.
+EXERCÍCIO: Em um recipiente fechado, 12 g de reagentes se transformam completamente. Sem perdas, qual é a massa total dos produtos?
+1. 12 g
+2. 0 g
+3. 24 g
+4. 6 g
+Gabarito: 12 g
+No sistema fechado, a massa total se conserva.
+REVISÃO: Em 2 H₂ + O₂ → 2 H₂O, quantos átomos de oxigênio há em cada lado?
+1. 2
+2. 1
+3. 4
+4. 8
+Gabarito: 2
+O₂ tem dois átomos; duas moléculas de H₂O também somam dois átomos de O.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Química — 2ª EM (sugerida)
+Uso e descarte responsáveis
+EM13CNT104 | página PDF 557
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar uso e descarte responsáveis em uma situação do cotidiano.
+Produtos podem apresentar riscos conforme sua composição, concentração, reatividade e exposição. Leia rótulos e siga as orientações locais de uso e descarte. Misturar produtos de limpeza sem orientação pode provocar reações perigosas. A miniaula não propõe fazer misturas.
+Exemplo: Antes de usar um produto, consulte o rótulo e mantenha-o na embalagem identificada.
+EXERCÍCIO: Qual atitude reduz riscos no uso de produtos de limpeza?
+1. Seguir o rótulo e não misturar produtos sem orientação adequada.
+2. Misturar qualquer produto para aumentar o efeito.
+3. Guardar em garrafa de bebida sem identificação.
+4. Ignorar ventilação e contato com a pele.
+Gabarito: Seguir o rótulo e não misturar produtos sem orientação adequada.
+Informações de uso e incompatibilidades ajudam a evitar exposição e reações perigosas.
+REVISÃO: Para descartar um produto potencialmente perigoso, o procedimento adequado é:
+1. consultar o rótulo e os serviços locais de coleta/orientação.
+2. despejar automaticamente no ralo.
+3. abandonar em terreno aberto.
+4. retirar a identificação e misturar ao acaso.
+Gabarito: consultar o rótulo e os serviços locais de coleta/orientação.
+O descarte deve considerar os riscos e as orientações específicas do produto e do município.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Química — 3ª EM (sugerida)
+Escolher materiais
+EM13CNT307 | página PDF 561
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar escolher materiais em uma situação do cotidiano.
+A escolha de um material depende de propriedades, uso, segurança e impactos ambientais. Condutividade, resistência e durabilidade podem ser relevantes em situações diferentes. Um material adequado para uma peça pode não ser adequado para outra.
+Exemplo: Em uma panela, interessa conduzir calor no corpo; no cabo, interessa reduzir a transferência para a mão.
+EXERCÍCIO: Para um cabo de panela, qual propriedade é desejável?
+1. Baixa condutividade térmica e resistência às condições de uso.
+2. Alta transferência de calor para a mão.
+3. Dissolução imediata em água.
+4. Ausência de resistência ao uso.
+Gabarito: Baixa condutividade térmica e resistência às condições de uso.
+O cabo deve reduzir a transferência à mão sem perder a resistência necessária.
+REVISÃO: Ao comparar embalagens, qual análise é mais completa?
+1. Proteção do produto, reutilização, reciclagem e impactos locais.
+2. Somente a aparência.
+3. Apenas a cor do material.
+4. Supor que um material é sempre o melhor em qualquer contexto.
+Gabarito: Proteção do produto, reutilização, reciclagem e impactos locais.
+A adequação depende do uso e de critérios de segurança e sustentabilidade.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Sociologia — 1ª EM (sugerida)
+Etnocentrismo e contexto
+EM13CHS102 | página PDF 574
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar etnocentrismo e contexto em uma situação do cotidiano.
+Etnocentrismo ocorre quando se julgam outros modos de vida tomando os próprios padrões como medida universal ou superior. A análise sociológica investiga contextos, relações de poder e diferentes perspectivas. Compreender uma prática não impede debatê-la criticamente com base nos direitos humanos.
+Exemplo: Estranhar uma comida não autoriza concluir que todo o grupo que a consome é inferior.
+EXERCÍCIO: Qual afirmação expressa julgamento etnocêntrico?
+1. Nossa forma de viver é a única correta; as outras são inferiores.
+2. Quais significados essa prática tem naquele contexto?
+3. Vamos comparar perspectivas sem hierarquizar povos.
+4. Precisamos ouvir as pessoas envolvidas.
+Gabarito: Nossa forma de viver é a única correta; as outras são inferiores.
+A frase toma um modo de vida como padrão universal e inferioriza os demais.
+REVISÃO: Qual procedimento ajuda a superar uma análise etnocêntrica?
+1. Investigar contextos e ouvir diferentes agentes sociais.
+2. Supor inferioridade antes da análise.
+3. Ignorar os significados atribuídos pelos participantes.
+4. Aplicar apenas os próprios costumes como medida.
+Gabarito: Investigar contextos e ouvir diferentes agentes sociais.
+Contextualizar e comparar perspectivas evita tomar um único padrão como universal.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Sociologia — 2ª EM (sugerida)
+Argumentar com dados sociais
+EM13CHS103 | página PDF 574
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar argumentar com dados sociais em uma situação do cotidiano.
+Uma hipótese social precisa ser confrontada com evidências. A seleção da amostra influencia os resultados de uma pesquisa. Opiniões de um pequeno grupo escolhido por conveniência não representam automaticamente toda a escola. Explicite limites antes de generalizar.
+Exemplo: Ouvir apenas quem frequenta um clube pode não representar quem não participa dele.
+EXERCÍCIO: Para investigar o transporte de toda a escola, qual plano é mais adequado?
+1. Ouvir estudantes de diferentes turmas e turnos, justificando a seleção e seus limites.
+2. Ouvir só meus três amigos e concluir por todos.
+3. Escolher apenas quem vai a pé.
+4. Publicar uma conclusão antes de coletar dados.
+Gabarito: Ouvir estudantes de diferentes turmas e turnos, justificando a seleção e seus limites.
+Uma seleção diversificada e critérios explícitos ajudam a sustentar a análise, sem eliminar toda incerteza.
+REVISÃO: Uma enquete ouviu só uma turma. Qual conclusão é responsável?
+1. Os resultados descrevem os respondentes e têm limites para generalizar à escola.
+2. Os resultados provam a opinião de toda a cidade.
+3. A amostra elimina qualquer incerteza.
+4. Não é necessário informar quem respondeu.
+Gabarito: Os resultados descrevem os respondentes e têm limites para generalizar à escola.
+A conclusão deve respeitar quem foi efetivamente ouvido e os limites do levantamento.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
+
+Sociologia — 3ª EM (sugerida)
+Direitos e enfrentamento da discriminação
+EM13CHS502 | página PDF 579
+Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
+Objetivo: Explorar direitos e enfrentamento da discriminação em uma situação do cotidiano.
+Desigualdades e discriminações não devem ser naturalizadas. Analise normas, práticas e efeitos sobre diferentes grupos. Enfrentar uma situação discriminatória envolve proteção, escuta e ações que promovam direitos, e não a repetição da violência.
+Exemplo: Uma regra aparentemente igual pode produzir barreiras diferentes para pessoas em condições diferentes.
+EXERCÍCIO: Diante de uma prática discriminatória na escola, qual ação favorece os direitos humanos?
+1. Proteger quem foi atingido, ouvir os envolvidos e acionar medidas educativas e institucionais.
+2. Tratar a humilhação como brincadeira inevitável.
+3. Responsabilizar a vítima pelo preconceito.
+4. Espalhar novas ofensas nas redes.
+Gabarito: Proteger quem foi atingido, ouvir os envolvidos e acionar medidas educativas e institucionais.
+Proteção e enfrentamento institucional evitam naturalizar a violência e a discriminação.
+REVISÃO: Para avaliar uma regra escolar, é importante perguntar:
+1. Seus efeitos criam barreiras injustificadas para determinados grupos?
+2. A regra agrada apenas ao meu grupo?
+3. Podemos ignorar quem foi prejudicado?
+4. A exclusão pode ser tomada como algo natural?
+Gabarito: Seus efeitos criam barreiras injustificadas para determinados grupos?
+Examinar efeitos concretos ajuda a identificar desigualdades e propor medidas inclusivas.
+Fonte: https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
