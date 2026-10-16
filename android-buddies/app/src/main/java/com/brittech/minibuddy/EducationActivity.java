@@ -42,7 +42,7 @@ public final class EducationActivity extends Activity {
   JSONObject due=review?db.due(profile):null;
   if(review&&due==null){text(card,"Nenhuma revisão disponível. Aguarde 30 minutos desde a tentativa e desde a última abertura da miniaula correspondente.",16);return;}
   if(review){current=LessonCatalog.findQuestion(config,due.optString("qid"));if(current==null){text(card,"O exercício desta revisão não está no catálogo instalado.",16);return;}reviewId=due.optLong("id");}
-  else current=LessonCatalog.randomQuestion(config,grade);
+  else current=LessonCatalog.nextQuestion(this,config,profile,grade);
   context=db.context(profile,current.optString("skill"));choice=db.choose(profile,context,mode);
   if(!review)assisted=db.recentLesson(profile,current.optString("lesson_id"));
   text(card,(review?"Revisão sem ajuda • ":"Atividade • ")+current.optString("skill"),20);

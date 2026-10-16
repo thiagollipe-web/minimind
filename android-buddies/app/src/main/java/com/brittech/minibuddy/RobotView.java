@@ -16,7 +16,7 @@ public final class RobotView extends View {
     private long lastPet=0;
     private final Handler handler=new Handler(Looper.getMainLooper());
     private final Runnable hold;
-    public RobotView(Context c,Session s,Gestures g){super(c);SubjectConfig cfg=SubjectConfig.load(c);buddyId=cfg.data.optString("id","matematica");buddyName=cfg.nickname();session=s;gestures=g;hold=()->{held=true;gestures.menu();};setContentDescription(buddyName+": toque para carinho, arraste pelo corpo inteiro; segure para abrir painel");setFocusable(true);}
+    public RobotView(Context c,Session s,Gestures g){super(c);SubjectConfig cfg=SubjectConfig.load(c);buddyId=cfg.data.optString("id","matematica");buddyName=cfg.nickname();session=s;gestures=g;hold=()->{held=true;performLongClick();};setContentDescription(buddyName+": toque para perguntas; segure para carinho; arraste para mover");setFocusable(true);setLongClickable(true);}
     private final CanvasPainter art=new CanvasPainter();
     private final class CanvasPainter implements BuddyArt.Painter {
         Canvas canvas;
@@ -39,8 +39,9 @@ public final class RobotView extends View {
         c.drawText(buddyName+" • Lv "+session.care.state.level(),78,167,paint);paint.setTextSize(20);c.drawText("⋯",143,165,paint);
         c.restore();
     }
-    private void pet(){long now=SystemClock.elapsedRealtime();if(now-lastPet>700){lastPet=now;gestures.pet();performClick();}}
-    @Override public boolean performClick(){super.performClick();return true;}
+    private void pet(){long now=SystemClock.elapsedRealtime();if(now-lastPet>700){lastPet=now;gestures.pet();}}
+    @Override public boolean performClick(){super.performClick();gestures.menu();return true;}
+    @Override public boolean performLongClick(){pet();return true;}
     @Override public boolean onTouchEvent(android.view.MotionEvent e){
         float y=e.getY()*178/getHeight();
         switch(e.getActionMasked()){
@@ -55,7 +56,7 @@ public final class RobotView extends View {
                 if(moved){handler.removeCallbacks(hold);if(!held)gestures.drag(delta[0],delta[1]);}
                 return true;
             case MotionEvent.ACTION_UP:
-                handler.removeCallbacks(hold);if(!held&&!moved)pet();if(moved&&!held)gestures.positionSaved();return true;
+                handler.removeCallbacks(hold);if(!held&&!moved)performClick();if(moved&&!held)gestures.positionSaved();return true;
             case MotionEvent.ACTION_CANCEL:handler.removeCallbacks(hold);if(moved&&!held)gestures.positionSaved();return true;
             case MotionEvent.ACTION_POINTER_DOWN:handler.removeCallbacks(hold);held=true;return true;
         }return super.onTouchEvent(e);

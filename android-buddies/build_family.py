@@ -47,7 +47,7 @@ def main():
    assert json.loads(z.read('assets/buddy_config.json'))['id']==slug
    icon=hashlib.sha256(z.read('res/drawable/ic_robot.xml')).hexdigest()
    assert icon not in icon_hashes,'Ícone duplicado';icon_hashes.add(icon)
-  assert "versionCode='3'" in badging and "versionName='0.3.0'" in badging
+  assert "versionCode='4'" in badging and "versionName='0.4.0'" in badging
   checks.append(hashlib.sha256(apk.read_bytes()).hexdigest()+'  '+apk.name);print('OK',apk.name,flush=True)
  (out/'SHA256.txt').write_text('\n'.join(checks)+'\n');print('12 APKs verificados em',out)
 if __name__=='__main__':main()

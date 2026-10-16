@@ -16,7 +16,8 @@ for p in catalogs:
  for lesson in lessons.values():
   lesson_count+=1;assert len(lesson['body'])>100 and lesson['example'] and lesson['objective']
   ref=references[lesson['bncc']];assert lesson['source']==ref['source'] and lesson['source_pdf_page']==ref['pdf_page']
-  assert len([q for q in c['questions'] if q.get('lesson_id')==lesson['id']])==1
+  pool=[q for q in c['questions'] if q.get('lesson_id')==lesson['id']]
+  assert len(pool)==4 and len({q['question'] for q in pool})==4
   code=lesson['bncc'];grade=lesson['grade']
   if grade<10:
    assert code.startswith('EF');span=code[2:4];assert grade in ({6,7} if span=='67' else {8,9} if span=='89' else {int(span)})
@@ -30,7 +31,8 @@ for p in catalogs:
   if 'lesson_id' in q:
    lesson=lessons[q['lesson_id']];assert q['bncc']==lesson['bncc'] and q['grade']==lesson['grade'];assert q['reviewExplanation']
 assert lesson_count==42
-print('Catálogo BNCC: 42 miniaulas + 42 exercícios + 42 revisões, em 12 matérias; 36 IDs antigos preservados')
+assert len(ids)==204
+print('Catálogo BNCC: 42 miniaulas, 168 exercícios distintos (4 por ano), 42 enunciados de revisão por habilidade; 36 IDs antigos preservados')
 code=(src/'EducationDb.java').read_text()
 # Real schema statements, exercised using desktop SQLite (not Android lifecycle APIs).
 create_statements=re.findall(r'd\.execSQL\("((?:CREATE TABLE|INSERT INTO profiles)[^"]+)"\)',code)
@@ -85,7 +87,7 @@ legacy.execute(insert,('default','new','new','new',0,1,'fixo',1,0,500,'newlesson
 assert len(list(legacy.execute('SELECT * FROM attempts')))==2
 print('SQLite: migração v1→v2 sem perda de registros; perfil, apoio recente, revisão atrasada e recompensa única OK')
 with tempfile.TemporaryDirectory() as out:
- files=[src/(n+'.java') for n in ['Brain','TextTools','InteractionLogic','PetState','MissionLab','PedagogyPolicy','BuddyArt']]
- tests=[base/'tests'/(n+'.java') for n in ['CoreTest','InteractionTest','MissionsTest','PolicyTest','BuddyArtTest']]
+ files=[src/(n+'.java') for n in ['Brain','TextTools','InteractionLogic','PetState','MissionLab','PedagogyPolicy','BuddyArt','QuestionDeck']]
+ tests=[base/'tests'/(n+'.java') for n in ['CoreTest','InteractionTest','MissionsTest','PolicyTest','BuddyArtTest','QuestionDeckTest']]
  subprocess.run(['java','-m','jdk.compiler/com.sun.tools.javac.Main','-encoding','UTF-8','-d',out,*map(str,files+tests)],check=True)
  for test in tests:subprocess.run(['java','-cp',out,test.stem],check=True,cwd=out)

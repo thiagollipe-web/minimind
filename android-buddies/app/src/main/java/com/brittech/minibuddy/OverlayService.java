@@ -32,7 +32,7 @@ public final class OverlayService extends Service {
         if("STOP".equals(intent.getAction())){stopService(new Intent(this,CaptureService.class));session.mode("pausado");stopSelf();return START_NOT_STICKY;}
         if(!Settings.canDrawOverlays(this)){session.message="Autorize aparecer sobre outros apps.";stopSelf();return START_NOT_STICKY;}
         try{
-            Notification notice=Notifications.build(this,"Companheiro flutuante • toque para carinho",new Intent(this,OverlayService.class).setAction("STOP"));
+            Notification notice=Notifications.build(this,"Companheiro flutuante • toque para perguntas",new Intent(this,OverlayService.class).setAction("STOP"));
             if(Build.VERSION.SDK_INT>=34)startForeground(10,notice,ServiceInfo.FOREGROUND_SERVICE_TYPE_SPECIAL_USE);else startForeground(10,notice);
             if(robot==null){FamilyCoordinator.activate(this);showRobot();}
             if("STUDY".equals(intent.getAction()))bubble.show();

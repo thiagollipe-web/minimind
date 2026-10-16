@@ -1,4 +1,4 @@
-# MiniBuddies Educacionais — piloto Android 0.3.0
+# MiniBuddies Educacionais — piloto Android 0.4.0
 
 Doze bichinhos virtuais instaláveis separadamente, com código compartilhado em Java e conteúdo local em JSON. Android 8.0 ou superior. Aplicativos sem permissão de Internet, publicidade ou chave de API.
 
@@ -17,19 +17,23 @@ Doze bichinhos virtuais instaláveis separadamente, com código compartilhado em
 | Química | Atom | MiniBuddy_quimica.apk |
 | Biologia | Bia | MiniBuddy_biologia.apk |
 
-O percurso BNCC inicial contém **42 miniaulas, 42 exercícios e 42 revisões** no conjunto: 4 miniaulas por matéria do Fundamental e 3 por matéria do Médio. Cada ano/série disponível começa com uma miniaula e um exercício com revisão. Os 36 itens livres da edição anterior foram preservados para revisões antigas. O vínculo com cada habilidade é parcial, não uma cobertura curricular completa. Consulte o [mapeamento BNCC e as instruções dos balões](docs/BNCC.md). Cada personagem tem silhueta, rosto, acessórios, movimentos e ícone próprios. Os desenhos são originais. Veja a [família de personagens](docs/PERSONAGENS.md).
+O percurso BNCC inicial contém **42 miniaulas e 168 exercícios de prática** no conjunto: 4 miniaulas por matéria do Fundamental e 3 por matéria do Médio. Cada ano/série disponível tem uma miniaula e quatro perguntas de prática diferentes, sorteadas sem repetição na rodada. O banco de revisão posterior tem 42 enunciados por habilidade, reutilizados entre variantes; não são 168 revisões inéditas. Os 36 itens livres da edição anterior foram preservados para revisões antigas. O vínculo com cada habilidade é parcial, não uma cobertura curricular completa. Consulte o [mapeamento BNCC e as instruções dos balões](docs/BNCC.md). Cada personagem tem silhueta, rosto, acessórios, movimentos e ícone próprios. Os desenhos são originais. Veja a [família de personagens](docs/PERSONAGENS.md).
 
 ## Instalar e experimentar
 
-1. Baixe e extraia o pacote dos APKs. Se já instalou a edição 0.1.0 ou 0.2.0 entregue nesta conversa, instale o novo APK por cima, sem desinstalar; a versão 0.3.0 usa os mesmos IDs e a mesma assinatura, preservando a memória local. Escolha uma matéria e instale seu APK. Autorize a instalação pelo aplicativo que abriu o arquivo, se solicitado pelo Android.
-2. Abra o app e escolha **Miniaulas e exercícios BNCC no balão**. É necessária a permissão de aparecer sobre outros apps. No próprio balão, selecione o ano/série e use **Miniaula**, **Exercício** ou **Ensinar**. A resposta recebe correção ali mesmo. O painel **Estudar, ensinar e ver aprendizagem** também usa a seleção curricular.
+1. Baixe e extraia o pacote dos APKs. Se já instalou a edição 0.1.0, 0.2.0 ou 0.3.0 entregue nesta conversa, instale o novo APK por cima, sem desinstalar; a versão 0.4.0 usa os mesmos IDs e a mesma assinatura, preservando a memória local. Escolha uma matéria e instale seu APK. Autorize a instalação pelo aplicativo que abriu o arquivo, se solicitado pelo Android.
+2. Abra o app e escolha **Miniaulas e exercícios BNCC no balão**. É necessária a permissão de aparecer sobre outros apps. Um toque no mascote já abre **Exercício**, com uma pergunta e quatro alternativas. No próprio balão, selecione o ano/série e use também **Miniaula** ou **Ensinar**. Se necessário, role a área de conteúdo para ver todas as alternativas. A resposta recebe correção ali mesmo. O painel **Estudar, ensinar e ver aprendizagem** também usa a seleção curricular.
 3. Em **Modo aprendiz**, explique um conceito com um exemplo. O texto fica pendente. Em **Revisar, editar ou aprovar**, revise a exatidão antes de aprovar. Essa é uma revisão humana local, sem autenticação de professor.
 4. Após 30 minutos da tentativa e da última abertura da miniaula correspondente, faça uma **Revisão sem ajuda**. Não precisa manter o app aberto durante a espera. O resultado fica associado à atividade original.
-5. Para o bichinho flutuante, permita aparecer sobre outros apps e toque em **Mostrar mascote flutuante**. Arraste pelo corpo; toque para carinho; segure ou toque em `⋯` para abrir aulas, exercícios e ensino no balão. Há botões para lado esquerdo, direito e centro.
-6. Ative balões periódicos se desejar: intervalo de 1, 3 ou 6 horas. O padrão é desligado. O modo usado por último no balão é lembrado. O app respeita 22h–7h do celular, descanso, tela apagada e painel aberto. Depende do serviço ativo e pode ser interrompido pelo Android; não há promessa de execução 24 horas.
+5. Para o bichinho flutuante, permita aparecer sobre outros apps e toque em **Mostrar mascote flutuante**. Arraste pelo corpo para mover; um toque abre uma pergunta com alternativas. Segure por um instante para carinho, ou use **♡ Carinho** no balão. O botão `⋯` também abre perguntas. Há botões para lado esquerdo, direito e centro.
+6. Ative balões periódicos se desejar: intervalo de 1, 3 ou 6 horas. O padrão é desligado. O balão abre diretamente em Exercício, inclusive após uma visita às outras abas. O app respeita 22h–7h do celular, descanso, tela apagada e painel aberto. Depende do serviço ativo e pode ser interrompido pelo Android; não há promessa de execução 24 horas.
 7. Os sons usam o volume de mídia e podem ser silenciados. Há controle de volume e teste de som.
 
 Ao ativar outro mascote da família, ele solicita que os outros encerrem os serviços de mascote/captura. A coordenação usa uma permissão de assinatura e não transmite textos nem capturas. Os APKs precisam ter sido assinados com a mesma chave para esse recurso funcionar.
+
+## Perguntas aleatórias
+
+O balão e o painel compartilham uma rodada por perfil e ano/série. Cada pergunta aparece uma vez antes de a rodada terminar; depois, as quatro são embaralhadas novamente, evitando repetir imediatamente a última da rodada anterior. Fechar o balão ou o app preserva a sequência restante. O sorteio é finito: o conteúdo volta a aparecer em rodadas seguintes. A ordem das alternativas também é embaralhada. Não há geração infinita de perguntas.
 
 ## O que aprende
 

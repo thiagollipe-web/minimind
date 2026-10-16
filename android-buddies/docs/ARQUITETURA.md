@@ -14,7 +14,7 @@ O neurônio LIF acumula corrente e perde potencial por vazamento; ao cruzar o li
 - `EducationActivity`: atividades com alternativas embaralhadas, revisão após 30 minutos, escolha de perfil e estratégia, ensino, aprovação humana, consultas e exportação.
 - `BuddyArt`: doze personagens vetoriais com silhuetas e animações próprias. O mesmo código de desenho gera o mascote Android, os ícones de instalação e a prévia SVG.
 - `OverlayService` + `RobotView`: pet arrastável, carinho, animações e som. Um laço no serviço verifica perguntas opcionais; sem alarmes exatos ou execução garantida em segundo plano.
-- `StudyBubble`: janela limitada a 320×420 dp, com rolagem, seleção de ano/série, miniaula, exercício corrigido e campo para ensinar. Sua posição inicial é calculada perto do mascote, respeitando a área útil. `LessonCatalog` compartilha a seleção curricular com o painel. A captura ignora quadros enquanto o balão ou a interface estão visíveis, para não treinar com a própria UI.
+- `StudyBubble`: janela limitada a 320×460 dp, com rolagem, seleção de ano/série, miniaula, exercício corrigido e campo para ensinar. Sua posição inicial é calculada perto do mascote, respeitando a área útil. `LessonCatalog` compartilha a seleção curricular com o painel. A captura ignora quadros enquanto o balão ou a interface estão visíveis, para não treinar com a própria UI.
 - `CaptureService`: serviço de projeção somente com autorização, redução da imagem e mascaramento do pet. Não persiste screenshots completos.
 - `FamilyCoordinator`: receiver protegido por permissão de assinatura. Ativar um mascote envia sinal de parada aos outros onze, sem compartilhar memória.
 - `PetCare`/`PetState`: necessidades e missões. XP de estudo é um bônus derivado das recompensas únicas do perfil ativo, sem modificar pesos neurais.
@@ -24,3 +24,9 @@ A memória educativa usa `education.db`; memória geral e preferências de reaç
 ## Extensão planejada, ainda não implementada
 
 Ampliar e revisar editorialmente os catálogos por ano e habilidade; importação e restauração de perfis; autenticação de professor; testes instrumentados; revisões inéditas suficientes para reduzir memorização; avaliação de retenção em dias; testes comparativos com atribuição aleatória e amostra adequada; porte desktop desta edição. O catálogo JSON tem estrutura simples para expansão, mas não deve ser tratado como um currículo validado.
+
+## Sorteio e toque — 0.4.0
+
+`QuestionDeck` implementa a rodada embaralhada sem Android: IDs canônicos, restante da rodada e último ID. Evita repetição até o esgotamento e repetição imediata na fronteira. Recupera estado inválido e reinicia a rodada se o catálogo mudar. `LessonCatalog.nextQuestion` persiste a rodada por perfil/ano em uma operação sincronizada de SharedPreferences, usada pelo painel e pelo balão. A lista é de perguntas do ano, não de miniaulas cujo primeiro exercício seria escolhido repetidamente.
+
+`RobotView.performClick` abre o exercício; `performLongClick` faz carinho. Arrastar continua separado pelo limiar de movimento. O balão sempre inicia em Exercício, oferece carinho em botão próprio e reposiciona a rolagem no início ao trocar de questão. Não houve alteração no esquema SQLite nesta versão.

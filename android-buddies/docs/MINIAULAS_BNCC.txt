@@ -1,21 +1,48 @@
-MINIAULAS ORIGINAIS — MINIBUDDIES 0.3.0
-Catálogo inicial de apoio à BNCC; alinhamento parcial, não homologação do MEC.
+MINIAULAS E PERGUNTAS — MINIBUDDIES 0.4.0
+42 miniaulas, 168 perguntas de prática e 42 enunciados de revisão por habilidade.
+Revisões são reutilizadas entre variantes; o catálogo é inicial e o alinhamento à BNCC é parcial.
 
 Biologia — 1ª EM (sugerida)
 Níveis de organização da vida
 EM13CNT202 | página PDF 559
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar níveis de organização da vida em uma situação do cotidiano.
+Explorar níveis de organização da vida em uma situação do cotidiano.
 A vida pode ser estudada em níveis, como células, organismos, populações e ecossistemas. Cada nível envolve relações e condições ambientais. Uma explicação sobre uma célula não responde, sozinha, a toda pergunta sobre uma população.
 Exemplo: Investigar a falta de água em uma população de plantas exige relacionar organismos e ambiente.
-EXERCÍCIO: Para investigar a redução de plantas de uma área, quais dados são relevantes?
+
+EXERCÍCIO 1: Para investigar a redução de plantas de uma área, quais dados são relevantes?
 1. Disponibilidade de água, luz, solo e relações com outros seres vivos.
 2. Somente a cor do caderno de campo.
 3. Apenas o nome popular de uma planta.
 4. Ignorar as condições ambientais.
 Gabarito: Disponibilidade de água, luz, solo e relações com outros seres vivos.
 A manifestação da vida depende de condições e interações que podem limitar a população.
-REVISÃO: Uma população, em um estudo ecológico, corresponde a:
+
+EXERCÍCIO 2: Uma população de plantas diminuiu após falta prolongada de água. A investigação deve relacionar:
+1. os organismos e as condições ambientais que podem limitar sua vida.
+2. somente o nome de uma espécie.
+3. a ideia de que água nunca influencia plantas.
+4. apenas a cor da placa do jardim.
+Gabarito: os organismos e as condições ambientais que podem limitar sua vida.
+A disponibilidade de água pode limitar a manifestação da vida e precisa ser investigada no contexto.
+
+EXERCÍCIO 3: Qual conjunto representa uma população em um estudo ecológico?
+1. Indivíduos da mesma espécie em uma área e período definidos.
+2. Todas as espécies do planeta sem delimitação.
+3. Apenas os minerais do solo.
+4. Todos os objetos de uma sala.
+Gabarito: Indivíduos da mesma espécie em uma área e período definidos.
+O conceito de população considera a mesma espécie em um recorte espacial e temporal.
+
+EXERCÍCIO 4: Por que analisar somente uma célula pode não responder à redução de uma população?
+1. Porque a questão pode envolver interações e condições de níveis mais amplos.
+2. Porque células não fazem parte da vida.
+3. Porque populações não interagem com o ambiente.
+4. Porque níveis de organização são sempre idênticos.
+Gabarito: Porque a questão pode envolver interações e condições de níveis mais amplos.
+Perguntas diferentes exigem relacionar níveis de organização e variáveis pertinentes.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma população, em um estudo ecológico, corresponde a:
 1. indivíduos da mesma espécie em uma área e período considerados.
 2. todos os seres vivos do planeta.
 3. apenas moléculas de uma célula.
@@ -28,17 +55,43 @@ Biologia — 2ª EM (sugerida)
 Intervenções nos ecossistemas
 EM13CNT203 | página PDF 559
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar intervenções nos ecossistemas em uma situação do cotidiano.
+Explorar intervenções nos ecossistemas em uma situação do cotidiano.
 Intervenções humanas podem alterar cadeias alimentares, ciclos da matéria e condições do ambiente. Uma mudança pode produzir efeitos em vários níveis. Para prever impactos, explicite as relações consideradas e os limites do modelo.
 Exemplo: Se uma população de predadores diminui, mudanças em presas e vegetação podem ocorrer, dependendo das relações locais.
-EXERCÍCIO: Uma intervenção remove grande parte da vegetação de uma margem de rio. Qual efeito deve ser investigado?
+
+EXERCÍCIO 1: Uma intervenção remove grande parte da vegetação de uma margem de rio. Qual efeito deve ser investigado?
 1. Mudanças em abrigo, alimento, erosão e condições da água.
 2. Somente a cor da ferramenta usada.
 3. A certeza de que nenhum organismo será afetado.
 4. A ausência de qualquer relação com o solo.
 Gabarito: Mudanças em abrigo, alimento, erosão e condições da água.
 A vegetação participa das condições de vida e da proteção do solo; os efeitos precisam ser avaliados.
-REVISÃO: Por que uma previsão ecológica deve indicar seus limites?
+
+EXERCÍCIO 2: Uma intervenção reduz o alimento disponível para uma espécie. Qual efeito deve ser investigado?
+1. Mudanças nessa população e em suas relações com outras espécies.
+2. A garantia de que nenhuma espécie será afetada.
+3. Somente a cor das ferramentas.
+4. A ausência de qualquer interação ecológica.
+Gabarito: Mudanças nessa população e em suas relações com outras espécies.
+Uma alteração de recurso pode produzir efeitos diretos e indiretos nas relações do ecossistema.
+
+EXERCÍCIO 3: Por que retirar predadores pode afetar também a vegetação?
+1. Porque mudanças nas presas podem alterar o consumo de plantas.
+2. Porque não existem relações alimentares.
+3. Porque toda população reage de modo idêntico.
+4. Porque plantas não participam de ecossistemas.
+Gabarito: Porque mudanças nas presas podem alterar o consumo de plantas.
+A relação entre predadores, presas e vegetação pode gerar efeitos indiretos, conforme o sistema.
+
+EXERCÍCIO 4: Ao prever o efeito de uma intervenção em um ecossistema, devemos:
+1. explicitar as relações consideradas, usar evidências e reconhecer limites do modelo.
+2. prometer certeza absoluta sem dados.
+3. ignorar fatores ambientais.
+4. supor que todos os ecossistemas são iguais.
+Gabarito: explicitar as relações consideradas, usar evidências e reconhecer limites do modelo.
+Modelos simplificam sistemas complexos; seus pressupostos e limites precisam ser informados.
+
+REVISÃO POSTERIOR DA HABILIDADE: Por que uma previsão ecológica deve indicar seus limites?
 1. Porque depende das relações e condições consideradas no modelo.
 2. Porque não pode usar evidências.
 3. Porque todo ecossistema é idêntico.
@@ -51,17 +104,43 @@ Biologia — 3ª EM (sugerida)
 Conservar a biodiversidade
 EM13CNT206 | página PDF 559
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar conservar a biodiversidade em uma situação do cotidiano.
+Explorar conservar a biodiversidade em uma situação do cotidiano.
 Biodiversidade envolve a variedade da vida e suas relações. Conservação exige considerar habitats, populações e atividades humanas. Comparar intervenções com dados antes e depois, e quando possível com áreas de referência, ajuda a avaliar resultados.
 Exemplo: Restaurar vegetação nativa pode favorecer espécies locais, mas o acompanhamento é necessário para avaliar os efeitos.
-EXERCÍCIO: Qual proposta favorece a conservação e sua avaliação?
+
+EXERCÍCIO 1: Qual proposta favorece a conservação e sua avaliação?
 1. Proteger habitats e acompanhar indicadores de espécies e condições ambientais.
 2. Trocar toda vegetação nativa por uma única espécie.
 3. Avaliar o resultado apenas pela inauguração.
 4. Ignorar populações locais e impactos.
 Gabarito: Proteger habitats e acompanhar indicadores de espécies e condições ambientais.
 Proteção e monitoramento permitem avaliar os efeitos sobre a diversidade e o ambiente.
-REVISÃO: Uma área restaurada recebeu várias espécies nativas. Para avaliar o projeto, é importante:
+
+EXERCÍCIO 2: Para avaliar uma restauração, qual conjunto de observações é mais útil?
+1. Sobrevivência das espécies, diversidade e condições ambientais ao longo do tempo.
+2. Apenas o número de fotos da inauguração.
+3. Somente o tamanho das placas.
+4. Uma avaliação definitiva no primeiro dia.
+Gabarito: Sobrevivência das espécies, diversidade e condições ambientais ao longo do tempo.
+A conservação deve ser acompanhada com indicadores pertinentes e em diferentes momentos.
+
+EXERCÍCIO 3: Uma ação de conservação deve considerar também:
+1. habitats, relações ecológicas e atividades humanas que ameaçam as espécies.
+2. apenas a aparência de uma espécie.
+3. a exclusão de qualquer análise do território.
+4. a ideia de que proteger um nome basta.
+Gabarito: habitats, relações ecológicas e atividades humanas que ameaçam as espécies.
+Conservar biodiversidade exige considerar seres vivos, relações e condições de existência.
+
+EXERCÍCIO 4: Por que comparar uma área restaurada com dados anteriores e, quando possível, uma área de referência?
+1. Para interpretar melhor as mudanças e os limites das conclusões sobre o projeto.
+2. Para dispensar medições.
+3. Para garantir sucesso antes do acompanhamento.
+4. Para ignorar variações ambientais.
+Gabarito: Para interpretar melhor as mudanças e os limites das conclusões sobre o projeto.
+Comparações e acompanhamento ajudam a avaliar resultados sem atribuir todo efeito automaticamente à intervenção.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma área restaurada recebeu várias espécies nativas. Para avaliar o projeto, é importante:
 1. acompanhar sobrevivência, diversidade e relações com o ambiente ao longo do tempo.
 2. contar apenas as placas de inauguração.
 3. supor sucesso definitivo no primeiro dia.
@@ -74,17 +153,43 @@ Ciências — 6º EF
 Misturas e fases
 EF06CI01 | página PDF 347
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar misturas e fases em uma situação do cotidiano.
+Explorar misturas e fases em uma situação do cotidiano.
 Uma mistura reúne materiais. Quando apresenta aspecto uniforme em uma única fase, é homogênea; quando observamos mais de uma fase, é heterogênea. A quantidade dissolvida e as condições da observação importam.
 Exemplo: Sal totalmente dissolvido em água forma uma fase; água e óleo em repouso, em condições usuais, formam duas.
-EXERCÍCIO: Uma amostra de água e óleo em repouso apresenta duas camadas. Como classificá-la?
+
+EXERCÍCIO 1: Uma amostra de água e óleo em repouso apresenta duas camadas. Como classificá-la?
 1. Mistura heterogênea.
 2. Substância pura.
 3. Mistura homogênea.
 4. Elemento químico.
 Gabarito: Mistura heterogênea.
 As duas camadas mostram fases diferentes.
-REVISÃO: Uma pequena quantidade de sal foi totalmente dissolvida em água, sem sólido no fundo. A mistura é:
+
+EXERCÍCIO 2: Água e areia em repouso apresentam líquido e sólido visível. A mistura é:
+1. heterogênea.
+2. uma substância pura.
+3. homogênea de uma fase.
+4. um elemento químico.
+Gabarito: heterogênea.
+Há fases observáveis diferentes, incluindo a areia não dissolvida.
+
+EXERCÍCIO 3: Uma pequena porção de açúcar se dissolveu completamente em água, sem sólido no fundo. A mistura é:
+1. homogênea.
+2. heterogênea de duas fases.
+3. uma substância simples.
+4. um elemento químico.
+Gabarito: homogênea.
+Nas condições descritas, a mistura apresenta uma fase observável.
+
+EXERCÍCIO 4: Em qual caso descrito há uma mistura heterogênea?
+1. Água e óleo em duas camadas.
+2. Sal totalmente dissolvido em água.
+3. Açúcar totalmente dissolvido em água.
+4. Água pura sem outro material.
+Gabarito: Água e óleo em duas camadas.
+As duas camadas de água e óleo representam fases distintas.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma pequena quantidade de sal foi totalmente dissolvida em água, sem sólido no fundo. A mistura é:
 1. homogênea.
 2. heterogênea de duas fases.
 3. um elemento químico.
@@ -97,17 +202,43 @@ Ciências — 7º EF
 Calor e temperatura
 EF07CI02 | página PDF 349
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar calor e temperatura em uma situação do cotidiano.
+Explorar calor e temperatura em uma situação do cotidiano.
 Temperatura ajuda a caracterizar o estado térmico de um corpo. Calor é energia transferida por diferença de temperatura. A sensação térmica depende também de como a energia é transferida, por isso o toque não substitui uma medição.
 Exemplo: Metal e madeira no mesmo ambiente podem estar à mesma temperatura, mas parecer diferentes ao toque por conduzirem calor de modos diferentes.
-EXERCÍCIO: Por que uma peça de metal pode parecer mais fria que madeira na mesma sala?
+
+EXERCÍCIO 1: Por que uma peça de metal pode parecer mais fria que madeira na mesma sala?
 1. O metal pode retirar energia da mão mais rapidamente.
 2. O metal necessariamente está abaixo de zero.
 3. A madeira não tem temperatura.
 4. O toque mede a temperatura com exatidão.
 Gabarito: O metal pode retirar energia da mão mais rapidamente.
 A condução de energia influencia a sensação térmica; a comparação exige medir a temperatura.
-REVISÃO: Entre dois corpos em contato, sem outras intervenções, o calor tende a fluir:
+
+EXERCÍCIO 2: Dois corpos atingiram equilíbrio térmico entre si. O que se espera de suas temperaturas?
+1. Que sejam iguais.
+2. Que o mais pesado esteja sempre mais quente.
+3. Que ambas sejam zero.
+4. Que não possam ser medidas.
+Gabarito: Que sejam iguais.
+No equilíbrio térmico entre os corpos, não há diferença de temperatura que sustente fluxo líquido de calor entre eles.
+
+EXERCÍCIO 3: Uma colher de metal e uma de madeira ficaram na mesma sala. Para comparar suas temperaturas, é melhor:
+1. usar uma medição adequada, sem confiar apenas no toque.
+2. concluir pelo peso da colher.
+3. supor que madeira não tem temperatura.
+4. concluir que metal sempre está congelado.
+Gabarito: usar uma medição adequada, sem confiar apenas no toque.
+A sensação térmica depende também da transferência de energia e não substitui a medição.
+
+EXERCÍCIO 4: Quando uma xícara quente esfria em uma sala mais fria, há:
+1. transferência de energia por diferença de temperatura.
+2. desaparecimento de toda a matéria.
+3. criação de frio como substância.
+4. ausência de transferência de energia.
+Gabarito: transferência de energia por diferença de temperatura.
+A diferença de temperatura favorece a transferência de energia da xícara e da bebida para o ambiente.
+
+REVISÃO POSTERIOR DA HABILIDADE: Entre dois corpos em contato, sem outras intervenções, o calor tende a fluir:
 1. do de maior temperatura para o de menor temperatura.
 2. sempre do menor para o maior.
 3. do mais pesado para o mais leve.
@@ -120,17 +251,43 @@ Ciências — 8º EF
 Consumo de energia elétrica
 EF08CI04 | página PDF 351
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar consumo de energia elétrica em uma situação do cotidiano.
+Explorar consumo de energia elétrica em uma situação do cotidiano.
 A energia elétrica consumida depende da potência e do tempo de uso. Em kWh, use a potência em kW e o tempo em horas. Compare equipamentos considerando o mesmo serviço e o uso real, não apenas a potência isolada.
 Exemplo: Uma lâmpada de 20 W ligada por 5 h usa 0,020 × 5 = 0,10 kWh.
-EXERCÍCIO: Um aparelho de 1.000 W funciona por 2 h. Qual é o consumo?
+
+EXERCÍCIO 1: Um aparelho de 1.000 W funciona por 2 h. Qual é o consumo?
 1. 2 kWh
 2. 2.000 kWh
 3. 0,5 kWh
 4. 1.000 kWh
 Gabarito: 2 kWh
 1.000 W = 1 kW; 1 × 2 = 2 kWh.
-REVISÃO: Uma lâmpada de 10 W permanece ligada por 10 h. Qual é o consumo?
+
+EXERCÍCIO 2: Uma lâmpada de 50 W ficou ligada por 4 horas. Qual foi o consumo?
+1. 0,2 kWh
+2. 200 kWh
+3. 2 kWh
+4. 50 kWh
+Gabarito: 0,2 kWh
+50 W = 0,050 kW; 0,050 × 4 = 0,2 kWh.
+
+EXERCÍCIO 3: Um aparelho de 2.000 W funciona durante meia hora. Qual é o consumo?
+1. 1 kWh
+2. 4 kWh
+3. 1.000 kWh
+4. 0,25 kWh
+Gabarito: 1 kWh
+2.000 W = 2 kW; meia hora = 0,5 h; 2 × 0,5 = 1 kWh.
+
+EXERCÍCIO 4: Um equipamento de 100 W funciona por 3 horas. Qual é o consumo?
+1. 0,3 kWh
+2. 300 kWh
+3. 3 kWh
+4. 30 kWh
+Gabarito: 0,3 kWh
+100 W = 0,1 kW; 0,1 × 3 = 0,3 kWh.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma lâmpada de 10 W permanece ligada por 10 h. Qual é o consumo?
 1. 0,1 kWh
 2. 100 kWh
 3. 10 kWh
@@ -143,17 +300,43 @@ Ciências — 9º EF
 Mudanças de estado e partículas
 EF09CI01 | página PDF 353
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar mudanças de estado e partículas em uma situação do cotidiano.
+Explorar mudanças de estado e partículas em uma situação do cotidiano.
 No modelo de partículas, uma mudança de estado altera a organização e a movimentação das partículas, sem necessariamente mudar a substância. Na fusão do gelo, as moléculas continuam sendo de água. Evite confundir mudança física com formação de outra substância.
 Exemplo: Ao derreter, o gelo se torna água líquida; não se transforma em hidrogênio e oxigênio separados.
-EXERCÍCIO: O gelo derreteu e virou água líquida. Qual explicação é adequada?
+
+EXERCÍCIO 1: O gelo derreteu e virou água líquida. Qual explicação é adequada?
 1. Mudou a organização e a movimentação das moléculas de água.
 2. As moléculas desapareceram.
 3. Água deixou de ter moléculas.
 4. Formou-se necessariamente uma nova substância.
 Gabarito: Mudou a organização e a movimentação das moléculas de água.
 A fusão é uma mudança física: a substância continua sendo água.
-REVISÃO: Na condensação do vapor de água, o que ocorre?
+
+EXERCÍCIO 2: Água líquida evapora. No modelo de partículas, qual afirmação é adequada?
+1. As moléculas de água passam a se organizar no estado gasoso.
+2. Cada molécula se torna um átomo de ferro.
+3. As moléculas deixam de existir.
+4. A água necessariamente vira outra substância.
+Gabarito: As moléculas de água passam a se organizar no estado gasoso.
+Na vaporização, a identidade química da água é mantida.
+
+EXERCÍCIO 3: Durante a solidificação da água, qual transformação ocorre?
+1. As moléculas se organizam no estado sólido.
+2. Toda molécula é destruída.
+3. A água perde seus átomos de oxigênio.
+4. Forma-se necessariamente outra substância.
+Gabarito: As moléculas se organizam no estado sólido.
+A mudança de estado altera a organização das partículas, sem mudar a substância.
+
+EXERCÍCIO 4: Qual exemplo descreve uma mudança física de estado?
+1. Uma poça de água evaporando.
+2. Ferro formando ferrugem.
+3. Papel queimando.
+4. A formação de um novo produto em uma reação.
+Gabarito: Uma poça de água evaporando.
+Evaporação é mudança de estado; não exige formação de outra substância.
+
+REVISÃO POSTERIOR DA HABILIDADE: Na condensação do vapor de água, o que ocorre?
 1. As moléculas de água passam a se organizar no estado líquido.
 2. Cada molécula vira um átomo de ferro.
 3. As moléculas deixam de existir.
@@ -166,17 +349,43 @@ Espanhol — 1ª EM (sugerida)
 Escolher o registro em espanhol
 EM13LGG402 | página PDF 496
 Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
-Objetivo: Explorar escolher o registro em espanhol em uma situação do cotidiano.
+Explorar escolher o registro em espanhol em uma situação do cotidiano.
 Em espanhol, como em outras línguas, a forma de falar depende da situação e de quem participa. Saudações e pedidos podem ser mais formais ou informais. A diferença de registro não torna uma variedade inferior a outra.
 Exemplo: Para pedir uma informação em um atendimento formal: “Buenos días. ¿Podría ayudarme, por favor?”
-EXERCÍCIO: Em um atendimento formal, qual pedido é mais adequado?
+
+EXERCÍCIO 1: Em um atendimento formal, qual pedido é mais adequado?
 1. Buenos días. ¿Podría ayudarme, por favor?
 2. ¡Eh, tú! ¡Hazlo ya!
 3. Ayer fui a casa.
 4. La mesa es azul.
 Gabarito: Buenos días. ¿Podría ayudarme, por favor?
 O pedido combina saudação e forma de cortesia adequada à situação.
-REVISÃO: Para agradecer a uma pessoa em espanhol, qual expressão cumpre essa função?
+
+EXERCÍCIO 2: Você pede informação a uma pessoa desconhecida em situação formal. Qual expressão é adequada?
+1. Disculpe, ¿podría indicarme el camino, por favor?
+2. ¡Eh! ¡Contesta ya!
+3. La casa es amarilla.
+4. Ayer estudié mucho.
+Gabarito: Disculpe, ¿podría indicarme el camino, por favor?
+Disculpe, podría e por favor compõem um pedido de informação cortês.
+
+EXERCÍCIO 3: Qual frase faz uma saudação de manhã em espanhol?
+1. Buenos días.
+2. Buenas noches.
+3. Hasta mañana.
+4. Muchas gracias.
+Gabarito: Buenos días.
+Buenos días é uma saudação usada pela manhã.
+
+EXERCÍCIO 4: Um colega usa uma variedade de espanhol diferente da sua. Qual postura respeita a diversidade linguística?
+1. Considerar o contexto e respeitar os usos dos interlocutores.
+2. Supor que toda diferença indica inferioridade.
+3. Ridicularizar o modo de falar.
+4. Recusar qualquer tentativa de compreensão.
+Gabarito: Considerar o contexto e respeitar os usos dos interlocutores.
+A adequação linguística depende da situação e não exige hierarquizar variedades por preconceito.
+
+REVISÃO POSTERIOR DA HABILIDADE: Para agradecer a uma pessoa em espanhol, qual expressão cumpre essa função?
 1. Muchas gracias por su ayuda.
 2. Ayer llovió.
 3. La silla está aquí.
@@ -189,17 +398,43 @@ Espanhol — 2ª EM (sugerida)
 Ler criticamente um anúncio
 EM13LGG103 | página PDF 493
 Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
-Objetivo: Explorar ler criticamente um anúncio em uma situação do cotidiano.
+Explorar ler criticamente um anúncio em uma situação do cotidiano.
 Um anúncio em espanhol pode combinar imagem, palavras e sons para persuadir. “El mejor para todos” é uma promessa ampla: procure os critérios, a fonte e as evidências. Interpretar criticamente vai além de traduzir palavra por palavra.
 Exemplo: “Resultados garantizados” não informa, por si só, como os resultados foram verificados.
-EXERCÍCIO: Um anúncio diz “El mejor curso para todos”. Qual pergunta ajuda a avaliá-lo?
+
+EXERCÍCIO 1: Um anúncio diz “El mejor curso para todos”. Qual pergunta ajuda a avaliá-lo?
 1. ¿Con qué criterios y evidencias se afirma que es el mejor?
 2. ¿De qué color es el fondo, solamente?
 3. ¿Cuántas letras tiene “curso”?
 4. ¿Puedo ignorar todas las fuentes?
 Gabarito: ¿Con qué criterios y evidencias se afirma que es el mejor?
 A pergunta solicita critérios e evidências para uma promessa publicitária.
-REVISÃO: “Expertos recomiendan este producto.” Que informação deve ser verificada?
+
+EXERCÍCIO 2: Um anúncio diz “Resultados perfectos para todos”. Qual pergunta é crítica?
+1. ¿Qué pruebas y límites tiene esta promesa?
+2. ¿Puedo ignorar las pruebas?
+3. ¿Cuántos colores hay, solamente?
+4. ¿Debo creer porque hay música?
+Gabarito: ¿Qué pruebas y límites tiene esta promesa?
+A pergunta examina evidências e limites da promessa publicitária.
+
+EXERCÍCIO 3: Uma propaganda combina música alegre e pessoas sorrindo. O que se deve analisar?
+1. Como som e imagem se articulam às palavras para persuadir.
+2. Somente a quantidade de letras.
+3. A ideia de que imagens não produzem sentido.
+4. A suposição de que música prova o resultado.
+Gabarito: Como som e imagem se articulam às palavras para persuadir.
+Linguagens diferentes podem atuar juntas na construção do efeito persuasivo.
+
+EXERCÍCIO 4: “Todos los expertos están de acuerdo”, sem nomes ou estudos, deve levar o leitor a:
+1. verificar a identificação das fontes e as evidências.
+2. aceitar a frase como prova suficiente.
+3. ignorar quem produziu a mensagem.
+4. avaliar apenas o preço do papel.
+Gabarito: verificar a identificação das fontes e as evidências.
+Uma alegação de consenso precisa ser examinada, não apenas repetida.
+
+REVISÃO POSTERIOR DA HABILIDADE: “Expertos recomiendan este producto.” Que informação deve ser verificada?
 1. Quiénes son los expertos y en qué pruebas se basan.
 2. Solo el tamaño del cartel.
 3. Solo la música del anuncio.
@@ -212,17 +447,43 @@ Espanhol — 3ª EM (sugerida)
 Pedir esclarecimento com respeito
 EM13LGG402 | página PDF 496
 Espanhol complementar: vínculo à área de Linguagens; não é código específico de Espanhol.
-Objetivo: Explorar pedir esclarecimento com respeito em uma situação do cotidiano.
+Explorar pedir esclarecimento com respeito em uma situação do cotidiano.
 Em uma conversa, pedir que alguém repita ou explique ajuda a construir entendimento. Uma solicitação respeitosa considera o interlocutor e o contexto. Aprender outra língua inclui negociar sentidos, e não apenas decorar listas de palavras.
 Exemplo: “¿Puede repetir, por favor?” pede repetição; “¿Qué significa esta palabra?” pede o significado.
-EXERCÍCIO: Você não entendeu uma palavra. Qual pergunta solicita o significado?
+
+EXERCÍCIO 1: Você não entendeu uma palavra. Qual pergunta solicita o significado?
 1. ¿Qué significa esta palabra?
 2. ¿De qué color es tu mochila?
 3. ¿Dónde está mi casa?
 4. ¿Cuántos años tiene el edificio?
 Gabarito: ¿Qué significa esta palabra?
 A pergunta solicita diretamente o significado da palavra.
-REVISÃO: Qual pedido solicita repetição de forma cortês?
+
+EXERCÍCIO 2: Você quer pedir que a pessoa fale mais devagar. Qual frase cumpre essa função?
+1. ¿Puede hablar más despacio, por favor?
+2. La mochila es roja.
+3. Ayer llovió mucho.
+4. Tengo dos cuadernos.
+Gabarito: ¿Puede hablar más despacio, por favor?
+Hablar más despacio solicita reduzir a velocidade da fala, com cortesia.
+
+EXERCÍCIO 3: Você quer conferir o que entendeu. Qual frase é adequada?
+1. ¿Quiere decir que la reunión es mañana?
+2. No me importa lo que diga.
+3. ¡No voy a escuchar!
+4. La ventana es grande.
+Gabarito: ¿Quiere decir que la reunión es mañana?
+A pergunta reformula uma informação para confirmar o entendimento.
+
+EXERCÍCIO 4: Você quer pedir um exemplo para entender uma explicação. Qual pergunta é adequada?
+1. ¿Puede darme un ejemplo, por favor?
+2. ¿De qué color es la pared?
+3. ¿Cuántas ventanas tiene la sala?
+4. ¿Dónde dejé mis zapatos?
+Gabarito: ¿Puede darme un ejemplo, por favor?
+A solicitação de exemplo ajuda a negociar sentidos e esclarecer a explicação.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual pedido solicita repetição de forma cortês?
 1. ¿Puede repetir, por favor?
 2. No quiero escucharte.
 3. ¡Habla y cállate!
@@ -235,17 +496,43 @@ Filosofia — 1ª EM (sugerida)
 Comparar perspectivas
 EM13CHS101 | página PDF 574
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar comparar perspectivas em uma situação do cotidiano.
+Explorar comparar perspectivas em uma situação do cotidiano.
 Ler filosoficamente envolve compreender o que um texto afirma, que razões apresenta e a que problema responde. Comparar fontes requer identificar autoria e contexto. Textos de perspectivas diferentes podem iluminar aspectos diferentes de uma mesma questão.
 Exemplo: Duas concepções de liberdade podem discordar sobre a relação entre escolha individual e condições sociais.
-EXERCÍCIO: Ao comparar duas concepções de liberdade, qual procedimento é mais adequado?
+
+EXERCÍCIO 1: Ao comparar duas concepções de liberdade, qual procedimento é mais adequado?
 1. Identificar o problema, os conceitos e os argumentos de cada texto.
 2. Escolher apenas o autor mais famoso.
 3. Ignorar os contextos de produção.
 4. Trocar a análise por um ataque pessoal.
 Gabarito: Identificar o problema, os conceitos e os argumentos de cada texto.
 A comparação se apoia nos conceitos, nas razões e nos contextos, não em prestígio isolado.
-REVISÃO: Duas fontes discordam. O que a análise crítica pede?
+
+EXERCÍCIO 2: Para interpretar um texto filosófico, convém começar por:
+1. identificar a questão discutida e as razões apresentadas.
+2. julgar somente o tamanho do texto.
+3. aceitar todas as frases pela fama do autor.
+4. ignorar os conceitos utilizados.
+Gabarito: identificar a questão discutida e as razões apresentadas.
+A leitura procura compreender o problema, os conceitos e os argumentos.
+
+EXERCÍCIO 3: Dois autores usam a palavra liberdade em sentidos diferentes. Qual procedimento é adequado?
+1. Explicitar o sentido do conceito em cada texto antes de compará-los.
+2. Supor que toda palavra tem um único sentido em qualquer contexto.
+3. Descartar os dois textos.
+4. Escolher apenas a fonte mais curta.
+Gabarito: Explicitar o sentido do conceito em cada texto antes de compará-los.
+Comparar conceitos exige compreender como são usados nas perspectivas examinadas.
+
+EXERCÍCIO 4: Uma fonte apresenta uma visão diferente da sua. A análise crítica exige:
+1. compreender sua posição antes de avaliar suas razões.
+2. recusar a leitura sem examiná-la.
+3. substituir argumentos por insultos.
+4. concluir apenas pelo gosto pessoal.
+Gabarito: compreender sua posição antes de avaliar suas razões.
+Compreensão e avaliação argumentativa são etapas importantes da comparação de perspectivas.
+
+REVISÃO POSTERIOR DA HABILIDADE: Duas fontes discordam. O que a análise crítica pede?
 1. Examinar as razões e os pressupostos das duas posições.
 2. Aceitar automaticamente a primeira.
 3. Supor que discordância impede qualquer análise.
@@ -258,17 +545,43 @@ Filosofia — 2ª EM (sugerida)
 Evidência e conclusão
 EM13CHS103 | página PDF 574
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar evidência e conclusão em uma situação do cotidiano.
+Explorar evidência e conclusão em uma situação do cotidiano.
 Um argumento apresenta razões para sustentar uma conclusão. Avalie se as razões são relevantes e se a conclusão vai além das evidências. Um exemplo isolado pode ser útil, mas não basta para provar uma afirmação universal sobre todas as pessoas.
 Exemplo: Um aluno prefere estudar à noite; disso não se segue que todas as pessoas aprendam melhor nesse horário.
-EXERCÍCIO: “Dois colegas gostaram do método, logo ele funciona melhor para todos.” Qual é o problema?
+
+EXERCÍCIO 1: “Dois colegas gostaram do método, logo ele funciona melhor para todos.” Qual é o problema?
 1. A conclusão generaliza além das evidências apresentadas.
 2. Toda experiência individual é inútil.
 3. Nenhuma conclusão pode ter razões.
 4. Gostar de um método prova eficácia universal.
 Gabarito: A conclusão generaliza além das evidências apresentadas.
 Dois relatos não sustentam uma conclusão universal nem comparam resultados de aprendizagem.
-REVISÃO: Qual dado fortalece uma comparação entre métodos de estudo?
+
+EXERCÍCIO 2: “Uma pessoa teve sucesso; portanto, qualquer pessoa terá o mesmo resultado.” Qual é o problema?
+1. A conclusão ultrapassa a evidência apresentada.
+2. Um caso sempre demonstra uma regra universal.
+3. Nenhuma experiência pode ser analisada.
+4. Todo argumento dispensa justificativa.
+Gabarito: A conclusão ultrapassa a evidência apresentada.
+Uma ocorrência isolada não sustenta a previsão universal de resultados.
+
+EXERCÍCIO 3: Qual razão é mais pertinente para comparar dois métodos de estudo?
+1. Resultados obtidos com critérios e condições comparáveis.
+2. Somente a fama de quem vende o método.
+3. A cor preferida de um influenciador.
+4. Um ataque a quem discorda.
+Gabarito: Resultados obtidos com critérios e condições comparáveis.
+Dados comparáveis podem sustentar melhor a conclusão do que prestígio ou ataques pessoais.
+
+EXERCÍCIO 4: Se novas evidências enfraquecem uma conclusão, qual atitude é racional?
+1. Reavaliar o argumento e explicitar o que ainda pode ser sustentado.
+2. Ocultar as evidências.
+3. Repetir a conclusão mais alto.
+4. Impedir qualquer questionamento.
+Gabarito: Reavaliar o argumento e explicitar o que ainda pode ser sustentado.
+A força de uma conclusão depende das razões e evidências que a sustentam.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual dado fortalece uma comparação entre métodos de estudo?
 1. Critérios claros e resultados de grupos comparáveis, com limites explicitados.
 2. A popularidade de quem anuncia, apenas.
 3. Uma promessa sem teste.
@@ -281,17 +594,43 @@ Filosofia — 3ª EM (sugerida)
 Ética e tecnologia
 EM13CHS504 | página PDF 579
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar ética e tecnologia em uma situação do cotidiano.
+Explorar ética e tecnologia em uma situação do cotidiano.
 Uma decisão tecnológica pode afetar privacidade, autonomia, acesso e relações de poder. A reflexão ética identifica os agentes envolvidos, os direitos e os possíveis efeitos. Uma vantagem técnica não resolve sozinha todos os conflitos de valores.
 Exemplo: Coletar mais dados pode facilitar um serviço, mas exige discutir necessidade, consentimento e proteção.
-EXERCÍCIO: Uma escola quer coletar dados pessoais para um aplicativo. Qual pergunta é eticamente relevante?
+
+EXERCÍCIO 1: Uma escola quer coletar dados pessoais para um aplicativo. Qual pergunta é eticamente relevante?
 1. Quais dados são necessários, quem terá acesso e como serão protegidos?
 2. O aplicativo tem mais cores?
 3. Podemos coletar tudo sem explicar?
 4. A velocidade dispensa discutir direitos?
 Gabarito: Quais dados são necessários, quem terá acesso e como serão protegidos?
 A análise considera necessidade, acesso, proteção e os direitos das pessoas afetadas.
-REVISÃO: Uma ferramenta digital beneficia alguns e exclui outros. A análise ética deve:
+
+EXERCÍCIO 2: Um aplicativo exige dados sem relação clara com sua função. Qual questão ética deve ser levantada?
+1. Se a coleta é necessária, proporcional e explicada às pessoas afetadas.
+2. Se a tela tem mais desenhos.
+3. Se a coleta pode ocorrer sem qualquer justificativa.
+4. Se a velocidade elimina a privacidade.
+Gabarito: Se a coleta é necessária, proporcional e explicada às pessoas afetadas.
+Necessidade, informação e direitos devem ser discutidos na decisão sobre coleta de dados.
+
+EXERCÍCIO 3: Uma atividade só funciona em celulares caros. Qual problema ético-político deve ser analisado?
+1. A desigualdade de acesso e as alternativas de participação.
+2. A ideia de que excluir pessoas não importa.
+3. Somente a cor dos aparelhos.
+4. A suposição de que novidade sempre é justiça.
+Gabarito: A desigualdade de acesso e as alternativas de participação.
+Uma decisão técnica pode distribuir benefícios e barreiras de forma desigual.
+
+EXERCÍCIO 4: Ao avaliar uma tecnologia, por que ouvir diferentes pessoas afetadas?
+1. Para compreender impactos, interesses e direitos que uma única perspectiva pode ignorar.
+2. Para substituir toda evidência por votação automática.
+3. Porque apenas a preferência do fabricante importa.
+4. Para impedir a análise de consequências.
+Gabarito: Para compreender impactos, interesses e direitos que uma única perspectiva pode ignorar.
+A pluralidade de perspectivas ajuda a identificar os conflitos éticos envolvidos.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma ferramenta digital beneficia alguns e exclui outros. A análise ética deve:
 1. examinar a desigualdade de acesso e alternativas de participação.
 2. ignorar quem ficou de fora.
 3. considerar apenas o lucro.
@@ -304,17 +643,43 @@ Física — 1ª EM (sugerida)
 Transformações de energia
 EM13CNT101 | página PDF 557
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar transformações de energia em uma situação do cotidiano.
+Explorar transformações de energia em uma situação do cotidiano.
 Em sistemas físicos, a energia pode mudar de forma e ser transferida. Em uma lâmpada, parte da energia elétrica vira luz e parte é transferida como energia térmica. A energia total se conserva; útil e não útil dependem do objetivo analisado.
 Exemplo: Para iluminar, interessa a parcela convertida em luz; comparar essa parcela ajuda a discutir eficiência.
-EXERCÍCIO: Uma lâmpada recebe 100 J e emite 20 J como luz. Admitindo só luz e aquecimento, quanto vai para aquecimento?
+
+EXERCÍCIO 1: Uma lâmpada recebe 100 J e emite 20 J como luz. Admitindo só luz e aquecimento, quanto vai para aquecimento?
 1. 80 J
 2. 120 J
 3. 20 J
 4. 100 J
 Gabarito: 80 J
 Conservação: 100 = 20 + 80 J.
-REVISÃO: Um sistema recebe 50 J e fornece 30 J de energia útil, sem variação de energia armazenada. Quanto é transferido de outras formas?
+
+EXERCÍCIO 2: Um dispositivo recebe 80 J e emite 30 J de energia útil, sem armazenar energia. Quanto transfere de outras formas?
+1. 50 J
+2. 110 J
+3. 30 J
+4. 80 J
+Gabarito: 50 J
+Pela conservação da energia, 80 − 30 = 50 J.
+
+EXERCÍCIO 3: Uma máquina recebe 200 J e transfere 140 J de formas não úteis ao objetivo. Qual é a energia útil?
+1. 60 J
+2. 340 J
+3. 140 J
+4. 200 J
+Gabarito: 60 J
+200 − 140 = 60 J, considerando que não houve variação da energia armazenada.
+
+EXERCÍCIO 4: Por que a energia transferida como calor não significa que a energia total desapareceu?
+1. Porque a energia mudou de forma ou foi transferida para o ambiente.
+2. Porque energia pode sumir sem interação.
+3. Porque o ambiente não pode receber energia.
+4. Porque toda energia é sempre útil ao mesmo objetivo.
+Gabarito: Porque a energia mudou de forma ou foi transferida para o ambiente.
+A conservação se refere ao total, não somente à parcela considerada útil.
+
+REVISÃO POSTERIOR DA HABILIDADE: Um sistema recebe 50 J e fornece 30 J de energia útil, sem variação de energia armazenada. Quanto é transferido de outras formas?
 1. 20 J
 2. 80 J
 3. 30 J
@@ -327,17 +692,43 @@ Física — 2ª EM (sugerida)
 Isolamento térmico
 EM13CNT102 | página PDF 557
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar isolamento térmico em uma situação do cotidiano.
+Explorar isolamento térmico em uma situação do cotidiano.
 Um isolante reduz a rapidez das transferências de energia por diferença de temperatura. Não cria frio ou calor e não impede toda troca. Para comparar protótipos, mantenha constantes as condições iniciais e meça a temperatura ao longo do tempo.
 Exemplo: Para comparar recipientes, use a mesma quantidade de água, temperatura inicial e tempo de observação.
-EXERCÍCIO: Qual teste permite comparar melhor dois recipientes isolantes?
+
+EXERCÍCIO 1: Qual teste permite comparar melhor dois recipientes isolantes?
 1. Mesma água inicial e ambiente; medir a temperatura nos mesmos intervalos.
 2. Um com água quente e outro com gelo.
 3. Medir um após um minuto e outro após uma hora.
 4. Trocar todos os fatores ao mesmo tempo.
 Gabarito: Mesma água inicial e ambiente; medir a temperatura nos mesmos intervalos.
 Controlar as condições permite relacionar as diferenças ao isolamento, com mais confiança.
-REVISÃO: Qual resultado sugere melhor conservação térmica de água quente nas mesmas condições?
+
+EXERCÍCIO 2: Para testar um protótipo de isolamento, deve-se mudar preferencialmente:
+1. o material isolante, mantendo comparáveis as demais condições.
+2. todos os fatores ao mesmo tempo.
+3. o tempo de medição de cada amostra sem registrar.
+4. a quantidade de água sem considerar o efeito.
+Gabarito: o material isolante, mantendo comparáveis as demais condições.
+Controlar variáveis ajuda a relacionar diferenças observadas ao fator estudado.
+
+EXERCÍCIO 3: Um isolante térmico idealizado serve para:
+1. reduzir a rapidez da transferência de energia por diferença de temperatura.
+2. criar frio como substância.
+3. eliminar a temperatura dos corpos.
+4. garantir que nenhuma troca possa ocorrer em qualquer condição real.
+Gabarito: reduzir a rapidez da transferência de energia por diferença de temperatura.
+Isolamento reduz as trocas térmicas, sem criar uma substância chamada frio.
+
+EXERCÍCIO 4: Dois recipientes tinham água à mesma temperatura inicial. Após igual tempo, um perdeu menos temperatura. O resultado sugere:
+1. melhor conservação térmica nessas condições do teste.
+2. certeza de desempenho idêntico em qualquer uso.
+3. ausência de necessidade de repetir medidas.
+4. desaparecimento da energia no outro recipiente.
+Gabarito: melhor conservação térmica nessas condições do teste.
+O resultado é uma evidência limitada às condições, que pode ser fortalecida por novas medições.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual resultado sugere melhor conservação térmica de água quente nas mesmas condições?
 1. Menor queda de temperatura durante o mesmo intervalo.
 2. Maior queda de temperatura.
 3. Mudança da cor externa apenas.
@@ -350,17 +741,43 @@ Física — 3ª EM (sugerida)
 Eficiência e consumo
 EM13CNT106 | página PDF 557
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar eficiência e consumo em uma situação do cotidiano.
+Explorar eficiência e consumo em uma situação do cotidiano.
 Avaliar uma tecnologia elétrica exige considerar o serviço oferecido, o consumo e seus impactos. Uma potência menor não garante, sozinha, melhor desempenho. Para o mesmo serviço, compare energia usada, tempo, durabilidade e condições de descarte.
 Exemplo: Duas lâmpadas com a mesma iluminação podem consumir quantidades diferentes de energia.
-EXERCÍCIO: Duas lâmpadas iluminam igualmente e funcionam pelo mesmo tempo. Qual escolha reduz o consumo?
+
+EXERCÍCIO 1: Duas lâmpadas iluminam igualmente e funcionam pelo mesmo tempo. Qual escolha reduz o consumo?
 1. A que usa menor potência nessas condições.
 2. A de maior potência, sempre.
 3. A de maior embalagem.
 4. A escolhida só pela cor da caixa.
 Gabarito: A que usa menor potência nessas condições.
 Para o mesmo tempo e iluminação, menor potência implica menor energia elétrica consumida.
-REVISÃO: Qual critério amplia uma avaliação ambiental da tecnologia?
+
+EXERCÍCIO 2: Duas lâmpadas fornecem a mesma iluminação: uma usa 8 W e outra 12 W por 5 h. Qual consome menos?
+1. A de 8 W.
+2. A de 12 W.
+3. Ambas necessariamente consomem igual.
+4. Não é possível comparar mesmo com esses dados.
+Gabarito: A de 8 W.
+No mesmo tempo e serviço de iluminação, a menor potência corresponde a menor consumo.
+
+EXERCÍCIO 3: Por que avaliar apenas o preço inicial de um equipamento pode ser insuficiente?
+1. Porque consumo, manutenção, durabilidade e descarte também influenciam os custos e impactos.
+2. Porque consumo nunca importa.
+3. Porque todo aparelho tem a mesma durabilidade.
+4. Porque resíduos não geram impactos.
+Gabarito: Porque consumo, manutenção, durabilidade e descarte também influenciam os custos e impactos.
+A avaliação deve considerar o uso e o ciclo de vida, além da compra.
+
+EXERCÍCIO 4: Uma fonte de energia deve ser avaliada também por:
+1. condições geográficas, disponibilidade e impactos socioambientais.
+2. apenas a aparência das instalações.
+3. uma promessa de impacto zero sem evidências.
+4. a exclusão das pessoas afetadas.
+Gabarito: condições geográficas, disponibilidade e impactos socioambientais.
+A comparação exige critérios técnicos, ambientais e sociais, conforme o contexto.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual critério amplia uma avaliação ambiental da tecnologia?
 1. Considerar consumo, durabilidade, produção e descarte.
 2. Olhar apenas o preço inicial.
 3. Ignorar os resíduos.
@@ -373,17 +790,43 @@ Geografia — 6º EF
 Ler a escala do mapa
 EF06GE08 | página PDF 387
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar ler a escala do mapa em uma situação do cotidiano.
+Explorar ler a escala do mapa em uma situação do cotidiano.
 A escala relaciona uma medida no mapa com a correspondente no terreno. Na escala 1:100.000, cada centímetro representa 100.000 centímetros reais. Converta as unidades antes de interpretar a distância.
 Exemplo: 100.000 cm correspondem a 1 km. Portanto, 2 cm nesse mapa representam 2 km.
-EXERCÍCIO: Em um mapa 1:100.000, duas escolas estão separadas por 3 cm. Qual é a distância representada?
+
+EXERCÍCIO 1: Em um mapa 1:100.000, duas escolas estão separadas por 3 cm. Qual é a distância representada?
 1. 3 km
 2. 300 km
 3. 30 m
 4. 300 m
 Gabarito: 3 km
 3 × 100.000 cm = 300.000 cm = 3 km.
-REVISÃO: Em um mapa 1:50.000, um caminho mede 4 cm. Qual é a distância representada?
+
+EXERCÍCIO 2: Em um mapa 1:200.000, uma distância mede 2 cm. Quanto representa no terreno?
+1. 4 km
+2. 400 km
+3. 40 m
+4. 400 m
+Gabarito: 4 km
+2 × 200.000 cm = 400.000 cm = 4 km.
+
+EXERCÍCIO 3: Em um mapa 1:25.000, um percurso mede 8 cm. Qual é a distância representada?
+1. 2 km
+2. 20 km
+3. 200 km
+4. 25 m
+Gabarito: 2 km
+8 × 25.000 cm = 200.000 cm = 2 km.
+
+EXERCÍCIO 4: Em um mapa 1:100.000, um trajeto mede 5 cm. Qual é a distância no terreno?
+1. 5 km
+2. 500 km
+3. 50 m
+4. 500 m
+Gabarito: 5 km
+Cada centímetro representa 1 km; cinco centímetros representam 5 km.
+
+REVISÃO POSTERIOR DA HABILIDADE: Em um mapa 1:50.000, um caminho mede 4 cm. Qual é a distância representada?
 1. 2 km
 2. 20 km
 3. 200 km
@@ -396,17 +839,43 @@ Geografia — 7º EF
 População e diversidade no território
 EF07GE04 | página PDF 389
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar população e diversidade no território em uma situação do cotidiano.
+Explorar população e diversidade no território em uma situação do cotidiano.
 A população brasileira se distribui de modo desigual pelo território e apresenta grande diversidade. Mapas e dados sobre idade, renda e pertencimento étnico-cultural ajudam a analisar essa distribuição. Evite explicar diferenças por estereótipos: considere processos históricos, condições de vida e a fonte dos dados.
 Exemplo: Um mapa de população e uma tabela de acesso a serviços respondem a perguntas diferentes e podem ser analisados em conjunto.
-EXERCÍCIO: Para investigar desigualdade territorial no acesso à escola, qual conjunto de dados é mais útil?
+
+EXERCÍCIO 1: Para investigar desigualdade territorial no acesso à escola, qual conjunto de dados é mais útil?
 1. População por área e oferta/acesso a escolas, com data e fonte.
 2. Somente a cor preferida dos moradores.
 3. Um estereótipo sobre uma região.
 4. Uma opinião sem localização.
 Gabarito: População por área e oferta/acesso a escolas, com data e fonte.
 Relacionar distribuição da população e acesso a serviços permite analisar diferenças territoriais.
-REVISÃO: Ao comparar dados de grupos populacionais, qual cuidado é necessário?
+
+EXERCÍCIO 2: Dois mapas de população usam anos diferentes. Qual cuidado é necessário ao comparar?
+1. Considerar as datas, as categorias e o método dos dados.
+2. Supor que as datas não influenciam.
+3. Comparar apenas as cores.
+4. Ignorar as legendas.
+Gabarito: Considerar as datas, as categorias e o método dos dados.
+Diferenças podem refletir mudanças populacionais e também critérios de produção dos mapas.
+
+EXERCÍCIO 3: Para comparar a distribuição de jovens em duas regiões, qual dado é pertinente?
+1. Faixas etárias da população, com período e definição das áreas.
+2. Apenas a cor preferida dos moradores.
+3. Um estereótipo regional.
+4. Somente o nome da capital.
+Gabarito: Faixas etárias da população, com período e definição das áreas.
+Dados por idade e território permitem examinar como a população se distribui.
+
+EXERCÍCIO 4: Ao analisar diversidade étnico-cultural no território brasileiro, devemos:
+1. considerar processos históricos e evitar tratar os grupos como uniformes.
+2. supor que todos têm a mesma experiência.
+3. hierarquizar culturas por preconceito.
+4. ignorar a fonte dos dados.
+Gabarito: considerar processos históricos e evitar tratar os grupos como uniformes.
+A análise territorial deve respeitar diferenças e investigar os processos que ajudam a explicá-las.
+
+REVISÃO POSTERIOR DA HABILIDADE: Ao comparar dados de grupos populacionais, qual cuidado é necessário?
 1. Respeitar a diversidade e examinar os critérios e a fonte dos dados.
 2. Tratar cada grupo como totalmente uniforme.
 3. Atribuir desigualdade a inferioridade cultural.
@@ -419,17 +888,43 @@ Geografia — 8º EF
 Dinâmica demográfica
 EF08GE03 | página PDF 391
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar dinâmica demográfica em uma situação do cotidiano.
+Explorar dinâmica demográfica em uma situação do cotidiano.
 A população muda por nascimentos, mortes e movimentos migratórios. Crescimento vegetativo é a diferença entre nascimentos e mortes em um período. O saldo migratório é a diferença entre entradas e saídas; são medidas distintas.
 Exemplo: Se nasceram 80 pessoas e morreram 30, o crescimento vegetativo foi de 50 pessoas, antes de considerar migrações.
-EXERCÍCIO: Em uma cidade fictícia houve 120 nascimentos e 70 mortes em um ano. Qual foi o crescimento vegetativo?
+
+EXERCÍCIO 1: Em uma cidade fictícia houve 120 nascimentos e 70 mortes em um ano. Qual foi o crescimento vegetativo?
 1. 50 pessoas
 2. 190 pessoas
 3. 70 pessoas
 4. 120 pessoas
 Gabarito: 50 pessoas
 120 − 70 = 50; entradas e saídas não entram nesse cálculo.
-REVISÃO: Em outra cidade fictícia entraram 40 moradores e saíram 25. Qual foi o saldo migratório?
+
+EXERCÍCIO 2: Uma cidade fictícia registrou 200 nascimentos e 130 mortes. Qual foi o crescimento vegetativo?
+1. 70 pessoas
+2. 330 pessoas
+3. 130 pessoas
+4. 200 pessoas
+Gabarito: 70 pessoas
+Crescimento vegetativo = nascimentos − mortes: 200 − 130 = 70.
+
+EXERCÍCIO 3: Em um município fictício entraram 90 moradores e saíram 120. Qual foi o saldo migratório?
+1. −30 pessoas
+2. 30 pessoas
+3. 210 pessoas
+4. 120 pessoas
+Gabarito: −30 pessoas
+Saldo migratório = entradas − saídas: 90 − 120 = −30.
+
+EXERCÍCIO 4: Qual informação ajuda a analisar o envelhecimento de uma população?
+1. A distribuição por faixas etárias ao longo do tempo.
+2. Apenas o tamanho do nome da cidade.
+3. Somente uma fotografia de uma rua.
+4. A cor usada no título de um mapa.
+Gabarito: A distribuição por faixas etárias ao longo do tempo.
+A comparação das faixas etárias permite investigar mudanças no perfil da população.
+
+REVISÃO POSTERIOR DA HABILIDADE: Em outra cidade fictícia entraram 40 moradores e saíram 25. Qual foi o saldo migratório?
 1. 15 pessoas
 2. 65 pessoas
 3. 25 pessoas
@@ -442,17 +937,43 @@ Geografia — 9º EF
 Corporações e cotidiano
 EF09GE02 | página PDF 395
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar corporações e cotidiano em uma situação do cotidiano.
+Explorar corporações e cotidiano em uma situação do cotidiano.
 Corporações internacionais organizam atividades em diferentes países e influenciam consumo, trabalho e circulação de produtos e mensagens. Analisar sua atuação exige observar vantagens, conflitos e impactos em escalas diferentes. A origem de uma marca não explica sozinha toda a cadeia de produção.
 Exemplo: Um celular pode reunir projeto, peças, montagem e venda realizados em países diferentes.
-EXERCÍCIO: Qual investigação ajuda a analisar a atuação de uma corporação internacional?
+
+EXERCÍCIO 1: Qual investigação ajuda a analisar a atuação de uma corporação internacional?
 1. Examinar a cadeia produtiva, condições de trabalho, consumo e impactos ambientais.
 2. Olhar apenas a cor do logotipo.
 3. Supor que todos os efeitos são iguais em qualquer país.
 4. Ignorar trabalhadores e consumidores.
 Gabarito: Examinar a cadeia produtiva, condições de trabalho, consumo e impactos ambientais.
 A análise deve relacionar escalas e diferentes efeitos da atuação da empresa.
-REVISÃO: Uma campanha global usa referências locais para vender. Que relação pode ser investigada?
+
+EXERCÍCIO 2: Um produto reúne peças e montagem de diferentes países. Isso permite investigar:
+1. a organização internacional da cadeia produtiva.
+2. a inexistência de relações econômicas entre países.
+3. apenas a cor da embalagem.
+4. a ausência de circulação de mercadorias.
+Gabarito: a organização internacional da cadeia produtiva.
+A produção distribuída envolve relações entre lugares, empresas e trabalhadores.
+
+EXERCÍCIO 3: Qual comparação ajuda a analisar impactos de uma corporação em dois lugares?
+1. Condições de trabalho, uso de recursos e efeitos sobre a população local.
+2. Somente o tamanho do logotipo.
+3. A suposição de que todos os efeitos são idênticos.
+4. A exclusão de dados de trabalhadores.
+Gabarito: Condições de trabalho, uso de recursos e efeitos sobre a população local.
+Os efeitos da atuação corporativa variam conforme as relações e condições locais.
+
+EXERCÍCIO 4: Por que uma campanha global pode adaptar sua linguagem a diferentes países?
+1. Para se relacionar com referências culturais e hábitos de consumo locais.
+2. Porque culturas locais não existem.
+3. Porque produtos não circulam internacionalmente.
+4. Porque toda população interpreta mensagens do mesmo modo.
+Gabarito: Para se relacionar com referências culturais e hábitos de consumo locais.
+Estratégias globais podem ser ajustadas a contextos culturais e de consumo diferentes.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma campanha global usa referências locais para vender. Que relação pode ser investigada?
 1. A relação entre estratégias corporativas, cultura e consumo.
 2. A inexistência de influência cultural.
 3. Apenas o movimento de rotação.
@@ -465,17 +986,43 @@ História — 6º EF
 Investigar fontes históricas
 EF06HI02 | página PDF 423
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar investigar fontes históricas em uma situação do cotidiano.
+Explorar investigar fontes históricas em uma situação do cotidiano.
 O conhecimento histórico é construído com perguntas e análise de fontes. Cartas, objetos, relatos e imagens podem oferecer pistas, mas cada registro tem autoria, contexto e limites. Uma fonte não fala por todos os grupos de uma época.
 Exemplo: Uma carta mostra o ponto de vista de quem a escreveu; compará-la com outros registros ajuda a investigar o período.
-EXERCÍCIO: Ao analisar uma carta antiga, qual procedimento é mais adequado?
+
+EXERCÍCIO 1: Ao analisar uma carta antiga, qual procedimento é mais adequado?
 1. Investigar autoria, data, destinatário e contexto e comparar outras fontes.
 2. Tratá-la como relato neutro de toda a sociedade.
 3. Ignorar quem escreveu.
 4. Aceitar cada afirmação sem análise.
 Gabarito: Investigar autoria, data, destinatário e contexto e comparar outras fontes.
 A análise contextual e a comparação sustentam a investigação histórica.
-REVISÃO: Uma fotografia de uma festa permite concluir, sozinha, como toda a população vivia?
+
+EXERCÍCIO 2: Um objeto encontrado em uma escavação deve ser estudado:
+1. considerando o local, o contexto e a comparação com outros registros.
+2. como prova automática de toda uma cultura.
+3. sem registrar onde foi encontrado.
+4. apenas pela beleza.
+Gabarito: considerando o local, o contexto e a comparação com outros registros.
+O contexto do achado e a comparação ajudam a formular interpretações fundamentadas.
+
+EXERCÍCIO 3: Um relato oral de uma pessoa sobre sua infância é:
+1. uma fonte que precisa de análise de contexto, memória e comparação.
+2. sempre inútil para a História.
+3. uma descrição automática de toda a sociedade.
+4. uma fonte sem qualquer ponto de vista.
+Gabarito: uma fonte que precisa de análise de contexto, memória e comparação.
+Relatos orais são fontes relevantes, com perspectivas e limites que precisam ser examinados.
+
+EXERCÍCIO 4: Duas cartas da mesma época narram um fato de maneiras diferentes. O pesquisador deve:
+1. comparar autores, destinatários, interesses e outras evidências.
+2. descartar as duas sem análise.
+3. aceitar só a mais longa.
+4. concluir que fontes nunca podem ser estudadas.
+Gabarito: comparar autores, destinatários, interesses e outras evidências.
+Divergências também são pistas para investigar perspectivas e contextos.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma fotografia de uma festa permite concluir, sozinha, como toda a população vivia?
 1. Não; é preciso analisar o recorte e comparar outras fontes.
 2. Sim; toda foto mostra toda a sociedade.
 3. Sim; imagens não têm enquadramento.
@@ -488,17 +1035,43 @@ História — 7º EF
 Conquista e resistências indígenas
 EF07HI09 | página PDF 425
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar conquista e resistências indígenas em uma situação do cotidiano.
+Explorar conquista e resistências indígenas em uma situação do cotidiano.
 A conquista europeia da América afetou de formas diferentes povos diversos. Houve guerras, epidemias, exploração do trabalho e disputas territoriais. Os povos indígenas também construíram resistências, negociações e alianças. Não devem ser apresentados como um grupo único ou sem iniciativa histórica.
 Exemplo: Manter práticas culturais e construir alianças pode integrar formas de resistência, além dos confrontos armados.
-EXERCÍCIO: Qual interpretação reconhece a atuação histórica dos povos indígenas durante a conquista?
+
+EXERCÍCIO 1: Qual interpretação reconhece a atuação histórica dos povos indígenas durante a conquista?
 1. Houve diferentes estratégias de resistência, negociação e aliança.
 2. Todos aceitaram passivamente a conquista.
 3. Todos tinham a mesma cultura.
 4. A conquista não produziu impactos.
 Gabarito: Houve diferentes estratégias de resistência, negociação e aliança.
 A diversidade de respostas mostra a atuação dos povos diante da violência e das disputas.
-REVISÃO: Ao comparar dois relatos da conquista, qual cuidado é necessário?
+
+EXERCÍCIO 2: Qual situação reconhece uma forma de resistência à conquista?
+1. Organização de alianças para defender territórios e modos de vida.
+2. Aceitação passiva como única resposta possível.
+3. Ausência de diferentes povos.
+4. Inexistência de conflitos e negociações.
+Gabarito: Organização de alianças para defender territórios e modos de vida.
+Alianças, defesa territorial e outras estratégias mostram a atuação histórica dos povos.
+
+EXERCÍCIO 3: Por que não se deve descrever todos os povos indígenas como um grupo único durante a conquista?
+1. Porque havia diferentes povos, culturas, interesses e respostas históricas.
+2. Porque nenhum povo tinha história.
+3. Porque todos reagiram do mesmo modo.
+4. Porque suas perspectivas não importam.
+Gabarito: Porque havia diferentes povos, culturas, interesses e respostas históricas.
+A diversidade é necessária para compreender os impactos e as diferentes resistências.
+
+EXERCÍCIO 4: Ao analisar impactos da conquista, qual pergunta é pertinente?
+1. Como guerras, doenças, exploração e disputas territoriais afetaram os diferentes povos?
+2. Qual povo pode ser tratado como sem cultura?
+3. Como ignorar todas as fontes indígenas?
+4. Por que supor que não houve violência?
+Gabarito: Como guerras, doenças, exploração e disputas territoriais afetaram os diferentes povos?
+A pergunta investiga processos e efeitos sem apagar diferenças nem a violência.
+
+REVISÃO POSTERIOR DA HABILIDADE: Ao comparar dois relatos da conquista, qual cuidado é necessário?
 1. Considerar autoria, interesses e perspectivas, incluindo as indígenas.
 2. Usar apenas a versão do conquistador.
 3. Supor que todas as fontes dizem o mesmo.
@@ -511,17 +1084,43 @@ História — 8º EF
 Iluminismo e limites históricos
 EF08HI01 | página PDF 427
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar iluminismo e limites históricos em uma situação do cotidiano.
+Explorar iluminismo e limites históricos em uma situação do cotidiano.
 Pensadores iluministas valorizaram a razão e criticaram diferentes formas de poder absoluto. Ideias de liberdade e direitos influenciaram disputas políticas. Porém, a defesa de direitos coexistiu com exclusões; é importante comparar os ideais com as condições históricas de sua aplicação.
 Exemplo: A defesa de liberdade não significou que mulheres, pessoas escravizadas e outros grupos recebessem imediatamente os mesmos direitos.
-EXERCÍCIO: Qual atitude permite analisar criticamente ideias iluministas?
+
+EXERCÍCIO 1: Qual atitude permite analisar criticamente ideias iluministas?
 1. Comparar os direitos defendidos com os grupos que continuaram excluídos.
 2. Supor que todos passaram a ter direitos iguais imediatamente.
 3. Ignorar o contexto histórico.
 4. Reduzir todos os pensadores a uma única opinião.
 Gabarito: Comparar os direitos defendidos com os grupos que continuaram excluídos.
 A comparação entre princípios e práticas revela limites e conflitos históricos.
-REVISÃO: Uma crítica ao poder absoluto aproxima-se de qual debate iluminista?
+
+EXERCÍCIO 2: Qual prática se aproxima da valorização iluminista da investigação racional?
+1. Examinar argumentos e questionar explicações sem tratá-las como intocáveis.
+2. Proibir toda pergunta.
+3. Aceitar qualquer autoridade sem análise.
+4. Impedir o debate de ideias.
+Gabarito: Examinar argumentos e questionar explicações sem tratá-las como intocáveis.
+A valorização da razão estimulou o exame crítico de explicações e formas de poder.
+
+EXERCÍCIO 3: Defender direitos no discurso significou igualdade imediata para todos no período?
+1. Não; é preciso investigar exclusões e conflitos na aplicação dos princípios.
+2. Sim; todas as desigualdades desapareceram.
+3. Sim; não houve disputa política.
+4. Não existia diferença entre ideal e prática.
+Gabarito: Não; é preciso investigar exclusões e conflitos na aplicação dos princípios.
+A análise histórica compara ideais com as condições de sua aplicação.
+
+EXERCÍCIO 4: Qual questão relaciona ideias de liberdade e organização política?
+1. Como limitar o poder e proteger direitos?
+2. Como tornar todo poder ilimitado?
+3. Como impedir qualquer discussão pública?
+4. Como abandonar toda justificativa política?
+Gabarito: Como limitar o poder e proteger direitos?
+A discussão de limites ao poder e de direitos está ligada a importantes debates iluministas.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma crítica ao poder absoluto aproxima-se de qual debate iluminista?
 1. Limitação do poder político e discussão de direitos.
 2. Defesa de poder sem limites.
 3. Proibição de qualquer investigação racional.
@@ -534,17 +1133,43 @@ História — 9º EF
 Resistência à ditadura no Brasil
 EF09HI20 | página PDF 433
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar resistência à ditadura no brasil em uma situação do cotidiano.
+Explorar resistência à ditadura no brasil em uma situação do cotidiano.
 Durante a ditadura civil-militar brasileira, diferentes pessoas e grupos contestaram a repressão e defenderam mudanças. Houve mobilizações estudantis, operárias, artísticas e de outros setores. As estratégias e propostas variaram. Compare fontes para compreender essa diversidade, sem apagar a violência de Estado.
 Exemplo: Uma canção, um jornal e um depoimento podem registrar experiências distintas da resistência.
-EXERCÍCIO: Qual investigação ajuda a compreender a diversidade das resistências?
+
+EXERCÍCIO 1: Qual investigação ajuda a compreender a diversidade das resistências?
 1. Comparar fontes de movimentos estudantis, trabalhadores, artistas e outros grupos.
 2. Supor que só houve uma forma de resistência.
 3. Ignorar relatos das pessoas atingidas.
 4. Tratar censura como ausência de conflito.
 Gabarito: Comparar fontes de movimentos estudantis, trabalhadores, artistas e outros grupos.
 A comparação permite reconhecer diferentes sujeitos, estratégias e propostas.
-REVISÃO: Qual situação pode constituir resistência à ditadura?
+
+EXERCÍCIO 2: Para estudar a resistência cultural à ditadura, qual fonte pode ser analisada?
+1. Canções e peças, considerando censura, autoria e contexto.
+2. Apenas a cor de um objeto sem contexto.
+3. Qualquer opinião tomada como prova suficiente.
+4. Uma suposição que dispense fontes.
+Gabarito: Canções e peças, considerando censura, autoria e contexto.
+Produções culturais podem registrar experiências e estratégias de contestação, quando contextualizadas.
+
+EXERCÍCIO 3: Uma mobilização de trabalhadores por direitos durante a ditadura deve ser analisada:
+1. em seu contexto, com suas reivindicações, sujeitos e formas de organização.
+2. como idêntica a qualquer movimento de qualquer época.
+3. sem consultar fontes.
+4. ignorando as condições de repressão.
+Gabarito: em seu contexto, com suas reivindicações, sujeitos e formas de organização.
+Contextualizar permite compreender demandas, estratégias e limites da mobilização.
+
+EXERCÍCIO 4: Por que comparar propostas de diferentes movimentos de oposição à ditadura?
+1. Para compreender convergências, divergências e projetos de reorganização social.
+2. Para supor que todos defendiam exatamente a mesma coisa.
+3. Para eliminar toda diversidade de sujeitos.
+4. Para dispensar a investigação histórica.
+Gabarito: Para compreender convergências, divergências e projetos de reorganização social.
+A oposição reuniu diferentes agentes e propostas, que não devem ser reduzidos a uma única voz.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual situação pode constituir resistência à ditadura?
 1. Organização de mobilizações por liberdades democráticas diante da repressão.
 2. Censura prévia imposta pelo Estado.
 3. Cassação de direitos políticos.
@@ -557,17 +1182,43 @@ Inglês — 6º EF
 Apresentar uma pessoa
 EF06LI19 | página PDF 253
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar apresentar uma pessoa em uma situação do cotidiano.
+Explorar apresentar uma pessoa em uma situação do cotidiano.
 No presente, o verbo to be muda conforme o sujeito: I am; you/we/they are; he/she/it is. Essas formas ajudam a apresentar pessoas. Observe quem é o sujeito antes de completar uma frase.
 Exemplo: My name is Ana. I am a student. She is my friend.
-EXERCÍCIO: Complete a apresentação: My brother ___ a student.
+
+EXERCÍCIO 1: Complete a apresentação: My brother ___ a student.
 1. is
 2. are
 3. am
 4. be
 Gabarito: is
 My brother corresponde a he; use is.
-REVISÃO: Complete: We ___ students.
+
+EXERCÍCIO 2: Complete: My name is Leo. I ___ twelve years old.
+1. am
+2. is
+3. are
+4. be
+Gabarito: am
+Com o sujeito I, use am no presente do verbo to be.
+
+EXERCÍCIO 3: Complete: Sara and Ben ___ my friends.
+1. are
+2. is
+3. am
+4. be
+Gabarito: are
+Sara and Ben correspondem a they; use are.
+
+EXERCÍCIO 4: Qual frase apresenta corretamente uma professora?
+1. She is a teacher.
+2. She are a teacher.
+3. She am a teacher.
+4. She be a teacher.
+Gabarito: She is a teacher.
+She combina com is no presente do verbo to be.
+
+REVISÃO POSTERIOR DA HABILIDADE: Complete: We ___ students.
 1. are
 2. is
 3. am
@@ -580,17 +1231,43 @@ Inglês — 7º EF
 Contar acontecimentos passados
 EF07LI18 | página PDF 257
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar contar acontecimentos passados em uma situação do cotidiano.
+Explorar contar acontecimentos passados em uma situação do cotidiano.
 O passado simples apresenta acontecimentos concluídos; o passado contínuo destaca uma ação em andamento no passado. Was/were + verbo com -ing formam o passado contínuo. Um texto pode combinar as duas formas para mostrar o que acontecia quando outro fato ocorreu.
 Exemplo: I was reading when the phone rang: a leitura estava em andamento quando o telefone tocou.
-EXERCÍCIO: Complete: I ___ dinner when my friend called.
+
+EXERCÍCIO 1: Complete: I ___ dinner when my friend called.
 1. was cooking
 2. am cooking
 3. cook
 4. will cook
 Gabarito: was cooking
 Was cooking situa a ação em andamento no passado, quando a ligação ocorreu.
-REVISÃO: Complete: They ___ football when it started to rain.
+
+EXERCÍCIO 2: Complete: She ___ when the lights went out.
+1. was studying
+2. is studying
+3. will study
+4. studies tomorrow
+Gabarito: was studying
+Was studying indica uma ação em andamento quando outro fato ocorreu no passado.
+
+EXERCÍCIO 3: Complete: We ___ home when it started to rain.
+1. were walking
+2. are walking
+3. will walk
+4. walks
+Gabarito: were walking
+We combina com were; were walking situa a ação em andamento no passado.
+
+EXERCÍCIO 4: Qual frase relata uma sequência de acontecimentos concluídos no passado?
+1. I finished my homework and then watched a film.
+2. I will finish tomorrow.
+3. I am watching now.
+4. I study every morning.
+Gabarito: I finished my homework and then watched a film.
+Finished e watched estão no passado simples e then marca a sequência.
+
+REVISÃO POSTERIOR DA HABILIDADE: Complete: They ___ football when it started to rain.
 1. were playing
 2. are playing
 3. will play
@@ -603,17 +1280,43 @@ Inglês — 8º EF
 Planos e previsões
 EF08LI14 | página PDF 261
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar planos e previsões em uma situação do cotidiano.
+Explorar planos e previsões em uma situação do cotidiano.
 Para expressar um plano já decidido em inglês, podemos usar am/is/are going to + verbo. Will também pode expressar previsões e decisões, conforme o contexto. O importante é relacionar a forma verbal à intenção da mensagem.
 Exemplo: I am going to study tonight expressa um plano para esta noite.
-EXERCÍCIO: Você já planejou estudar amanhã. Qual frase comunica esse plano?
+
+EXERCÍCIO 1: Você já planejou estudar amanhã. Qual frase comunica esse plano?
 1. I am going to study tomorrow.
 2. I studied yesterday.
 3. I study yesterday.
 4. I was studying last week.
 Gabarito: I am going to study tomorrow.
 Going to study e tomorrow indicam um plano futuro.
-REVISÃO: Qual frase comunica uma previsão sobre o futuro?
+
+EXERCÍCIO 2: Você já decidiu visitar uma amiga no próximo sábado. Qual frase comunica esse plano?
+1. I am going to visit my friend next Saturday.
+2. I visited her yesterday.
+3. I was visiting her last year.
+4. I visit yesterday.
+Gabarito: I am going to visit my friend next Saturday.
+Am going to visit expressa o plano; next Saturday indica o futuro.
+
+EXERCÍCIO 3: Qual frase faz uma previsão sobre a próxima semana?
+1. It will be cold next week.
+2. It was cold yesterday.
+3. It is cold now.
+4. It was cold last week.
+Gabarito: It will be cold next week.
+Will be e next week situam a previsão no futuro.
+
+EXERCÍCIO 4: Complete um plano já decidido: They ___ travel next month.
+1. are going to
+2. was going to
+3. is going to
+4. am going to
+Gabarito: are going to
+They combina com are; going to travel expressa o plano futuro.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual frase comunica uma previsão sobre o futuro?
 1. It will rain tomorrow.
 2. It rained yesterday.
 3. It is raining now.
@@ -626,17 +1329,43 @@ Inglês — 9º EF
 Recomendação e obrigação
 EF09LI16 | página PDF 265
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar recomendação e obrigação em uma situação do cotidiano.
+Explorar recomendação e obrigação em uma situação do cotidiano.
 Should costuma apresentar recomendação; must e have to podem indicar obrigação. May e might podem expressar possibilidade. A escolha altera a força e o sentido do que dizemos, por isso considere o contexto.
 Exemplo: You should review your notes recomenda revisar; you must follow the safety rules indica uma obrigação.
-EXERCÍCIO: Qual frase apresenta uma recomendação de estudo?
+
+EXERCÍCIO 1: Qual frase apresenta uma recomendação de estudo?
 1. You should review your notes.
 2. You reviewed your notes.
 3. Your notes are blue.
 4. You are reviewing your notes.
 Gabarito: You should review your notes.
 Should expressa recomendação neste contexto.
-REVISÃO: Em um aviso obrigatório de segurança, qual frase é adequada?
+
+EXERCÍCIO 2: Qual frase expressa possibilidade, sem afirmar certeza?
+1. It might rain later.
+2. It rained yesterday.
+3. It is definitely raining now.
+4. It rains every winter.
+Gabarito: It might rain later.
+Might indica possibilidade neste contexto.
+
+EXERCÍCIO 3: Qual frase apresenta uma obrigação da rotina escolar?
+1. We have to follow the safety rules.
+2. We followed the rules yesterday.
+3. The rules are written in blue.
+4. We might like this song.
+Gabarito: We have to follow the safety rules.
+Have to pode indicar necessidade ou obrigação.
+
+EXERCÍCIO 4: Você quer recomendar uma pausa a alguém que estudou muito. Qual frase é adequada?
+1. You should take a short break.
+2. You took a break yesterday.
+3. Your book is on the table.
+4. You are twelve years old.
+Gabarito: You should take a short break.
+Should apresenta uma recomendação, sem descrever um fato passado.
+
+REVISÃO POSTERIOR DA HABILIDADE: Em um aviso obrigatório de segurança, qual frase é adequada?
 1. You must wear safety goggles.
 2. You might like goggles.
 3. You wore goggles yesterday.
@@ -649,17 +1378,43 @@ Matemática — 6º EF
 Somar frações no cotidiano
 EF06MA10 | página PDF 303
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar somar frações no cotidiano em uma situação do cotidiano.
+Explorar somar frações no cotidiano em uma situação do cotidiano.
 Uma fração representa uma quantidade em partes iguais. Para somar frações com denominadores diferentes, escreva frações equivalentes com o mesmo denominador. Some os numeradores e mantenha o denominador comum.
 Exemplo: 1/2 + 1/4 = 2/4 + 1/4 = 3/4.
-EXERCÍCIO: Uma receita usa 1/3 de xícara de leite e mais 1/6. Qual é o total?
+
+EXERCÍCIO 1: Uma receita usa 1/3 de xícara de leite e mais 1/6. Qual é o total?
 1. 1/2
 2. 2/9
 3. 1/9
 4. 1/18
 Gabarito: 1/2
 1/3 equivale a 2/6. Então 2/6 + 1/6 = 3/6 = 1/2.
-REVISÃO: Uma jarra contém 1/4 de litro e recebe mais 1/2 litro. Quanto passa a conter?
+
+EXERCÍCIO 2: Uma garrafa tem 1/4 de litro e recebe 1/8 de litro. Qual é o total?
+1. 3/8 de litro
+2. 2/12 de litro
+3. 1/32 de litro
+4. 1/8 de litro
+Gabarito: 3/8 de litro
+1/4 = 2/8; 2/8 + 1/8 = 3/8.
+
+EXERCÍCIO 3: Uma receita usa 2/5 de xícara e mais 1/10 de xícara de água. Quanto usa ao todo?
+1. 1/2 xícara
+2. 3/15 de xícara
+3. 1/5 de xícara
+4. 2/50 de xícara
+Gabarito: 1/2 xícara
+2/5 = 4/10; 4/10 + 1/10 = 5/10 = 1/2.
+
+EXERCÍCIO 4: Um recipiente contém 5/6 de litro. Foram retirados 1/3 de litro. Quanto restou?
+1. 1/2 litro
+2. 4/3 de litro
+3. 2/6 de litro
+4. 5/18 de litro
+Gabarito: 1/2 litro
+1/3 = 2/6; 5/6 − 2/6 = 3/6 = 1/2.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma jarra contém 1/4 de litro e recebe mais 1/2 litro. Quanto passa a conter?
 1. 3/4 de litro
 2. 1/6 de litro
 3. 2/6 de litro
@@ -672,17 +1427,43 @@ Matemática — 7º EF
 Equações e igualdade
 EF07MA18 | página PDF 309
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar equações e igualdade em uma situação do cotidiano.
+Explorar equações e igualdade em uma situação do cotidiano.
 Uma equação afirma que duas expressões têm o mesmo valor. Podemos fazer a mesma operação dos dois lados para manter a igualdade. Primeiro desfazemos a adição ou subtração; depois, a multiplicação que acompanha a incógnita.
 Exemplo: Em 2x + 3 = 11: 2x = 8, portanto x = 4.
-EXERCÍCIO: Três cadernos iguais e uma caneta de R$ 2 custam R$ 17. Quanto custa cada caderno?
+
+EXERCÍCIO 1: Três cadernos iguais e uma caneta de R$ 2 custam R$ 17. Quanto custa cada caderno?
 1. R$ 5
 2. R$ 3
 3. R$ 6
 4. R$ 7
 Gabarito: R$ 5
 3x + 2 = 17; 3x = 15; x = 5.
-REVISÃO: Dois ingressos iguais e uma taxa de R$ 4 custam R$ 20. Qual é o preço de cada ingresso?
+
+EXERCÍCIO 2: Quatro caixas iguais e uma taxa de R$ 5 custam R$ 29. Quanto custa cada caixa?
+1. R$ 6
+2. R$ 24
+3. R$ 8
+4. R$ 5
+Gabarito: R$ 6
+4x + 5 = 29; 4x = 24; x = 6.
+
+EXERCÍCIO 3: Dois ingressos iguais e uma taxa de R$ 7 custam R$ 25. Qual é o preço de cada ingresso?
+1. R$ 9
+2. R$ 16
+3. R$ 18
+4. R$ 12,50
+Gabarito: R$ 9
+2x + 7 = 25; 2x = 18; x = 9.
+
+EXERCÍCIO 4: Três pacotes iguais e uma embalagem de R$ 6 custam R$ 30. Qual é o preço de cada pacote?
+1. R$ 8
+2. R$ 10
+3. R$ 12
+4. R$ 24
+Gabarito: R$ 8
+3x + 6 = 30; 3x = 24; x = 8.
+
+REVISÃO POSTERIOR DA HABILIDADE: Dois ingressos iguais e uma taxa de R$ 4 custam R$ 20. Qual é o preço de cada ingresso?
 1. R$ 8
 2. R$ 12
 3. R$ 10
@@ -695,17 +1476,43 @@ Matemática — 8º EF
 Porcentagem e desconto
 EF08MA04 | página PDF 315
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar porcentagem e desconto em uma situação do cotidiano.
+Explorar porcentagem e desconto em uma situação do cotidiano.
 Porcentagem significa uma razão com referência em cem. Para calcular p% de uma quantia, multiplique a quantia por p/100. Em descontos, subtraia o valor encontrado do preço inicial.
 Exemplo: 10% de R$ 50 são R$ 5; com esse desconto, o preço fica R$ 45.
-EXERCÍCIO: Uma mochila custa R$ 80 e tem desconto de 25%. Qual é o preço final?
+
+EXERCÍCIO 1: Uma mochila custa R$ 80 e tem desconto de 25%. Qual é o preço final?
 1. R$ 60
 2. R$ 20
 3. R$ 55
 4. R$ 75
 Gabarito: R$ 60
 25% de 80 são 20; 80 − 20 = 60.
-REVISÃO: Um livro custa R$ 120 e tem desconto de 10%. Qual é o preço final?
+
+EXERCÍCIO 2: Um tênis de R$ 200 recebe desconto de 15%. Qual é o preço final?
+1. R$ 170
+2. R$ 185
+3. R$ 30
+4. R$ 230
+Gabarito: R$ 170
+15% de 200 = 30; 200 − 30 = 170.
+
+EXERCÍCIO 3: Uma bicicleta custa R$ 300 e tem desconto de 20%. Qual é o valor do desconto?
+1. R$ 60
+2. R$ 240
+3. R$ 20
+4. R$ 30
+Gabarito: R$ 60
+20/100 × 300 = 60. A pergunta pede o desconto, não o preço final.
+
+EXERCÍCIO 4: Uma camiseta de R$ 80 teve aumento de 10%. Qual é o novo preço?
+1. R$ 88
+2. R$ 72
+3. R$ 90
+4. R$ 8
+Gabarito: R$ 88
+10% de 80 = 8; 80 + 8 = 88.
+
+REVISÃO POSTERIOR DA HABILIDADE: Um livro custa R$ 120 e tem desconto de 10%. Qual é o preço final?
 1. R$ 108
 2. R$ 110
 3. R$ 12
@@ -718,17 +1525,43 @@ Matemática — 9º EF
 Razões entre grandezas
 EF09MA07 | página PDF 319
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar razões entre grandezas em uma situação do cotidiano.
+Explorar razões entre grandezas em uma situação do cotidiano.
 Uma razão pode relacionar grandezas diferentes, como distância e tempo. A velocidade escalar média é a distância percorrida dividida pelo tempo total. Confira sempre as unidades antes de calcular.
 Exemplo: Uma viagem de 90 km em 1,5 h tem velocidade escalar média de 60 km/h.
-EXERCÍCIO: Um ônibus percorreu 180 km em 3 horas. Qual foi a velocidade escalar média?
+
+EXERCÍCIO 1: Um ônibus percorreu 180 km em 3 horas. Qual foi a velocidade escalar média?
 1. 60 km/h
 2. 540 km/h
 3. 90 km/h
 4. 30 km/h
 Gabarito: 60 km/h
 180 ÷ 3 = 60 km/h.
-REVISÃO: Uma ciclista percorreu 24 km em 2 horas. Qual foi a velocidade escalar média?
+
+EXERCÍCIO 2: Um trem percorre 240 km em 4 horas. Qual é a velocidade escalar média?
+1. 60 km/h
+2. 960 km/h
+3. 120 km/h
+4. 4 km/h
+Gabarito: 60 km/h
+Velocidade escalar média = 240 ÷ 4 = 60 km/h.
+
+EXERCÍCIO 3: Uma pessoa percorreu 1.000 metros em 200 segundos. Qual foi a velocidade escalar média?
+1. 5 m/s
+2. 200 m/s
+3. 0,2 m/s
+4. 20 m/s
+Gabarito: 5 m/s
+Divida distância pelo tempo: 1.000 ÷ 200 = 5 m/s.
+
+EXERCÍCIO 4: Uma cidade fictícia tem 12.000 habitantes em 30 km². Qual é a densidade demográfica?
+1. 400 hab/km²
+2. 360.000 hab/km²
+3. 40 hab/km²
+4. 12.030 hab/km²
+Gabarito: 400 hab/km²
+Densidade demográfica = população ÷ área: 12.000 ÷ 30 = 400.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma ciclista percorreu 24 km em 2 horas. Qual foi a velocidade escalar média?
 1. 12 km/h
 2. 48 km/h
 3. 22 km/h
@@ -741,17 +1574,43 @@ Português — 6º EF
 Fato e opinião
 EF67LP04 | página PDF 165
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar fato e opinião em uma situação do cotidiano.
+Explorar fato e opinião em uma situação do cotidiano.
 Fatos são afirmações que podem ser verificadas por registros ou observações. Opiniões expressam uma avaliação ou ponto de vista. Uma opinião pode ser fundamentada, mas não se transforma em fato apenas por ser afirmada com certeza.
 Exemplo: “A biblioteca abriu às 8h” é verificável; “a biblioteca é maravilhosa” expressa avaliação.
-EXERCÍCIO: Qual trecho expressa opinião?
+
+EXERCÍCIO 1: Qual trecho expressa opinião?
 1. A feira foi o melhor evento do ano.
 2. A feira começou às 9h.
 3. Foram expostos 12 trabalhos.
 4. O evento ocorreu na escola.
 Gabarito: A feira foi o melhor evento do ano.
 Melhor expressa um julgamento, que depende de critérios e ponto de vista.
-REVISÃO: Qual afirmação pode ser checada como fato?
+
+EXERCÍCIO 2: Qual afirmação expressa uma avaliação pessoal?
+1. O livro é o mais emocionante da biblioteca.
+2. O livro tem 120 páginas.
+3. A edição foi publicada em 2020.
+4. A biblioteca recebeu cinco livros.
+Gabarito: O livro é o mais emocionante da biblioteca.
+Mais emocionante depende da avaliação do leitor; as demais afirmações podem ser verificadas.
+
+EXERCÍCIO 3: Qual informação abaixo pode ser verificada por contagem?
+1. A exposição apresentou dez fotografias.
+2. A exposição foi perfeita.
+3. Foi o evento mais divertido.
+4. As fotos eram as melhores do mundo.
+Gabarito: A exposição apresentou dez fotografias.
+A quantidade de fotografias pode ser conferida; os outros trechos expressam julgamentos.
+
+EXERCÍCIO 4: Em “A peça durou 50 minutos e foi maravilhosa”, qual parte expressa opinião?
+1. Foi maravilhosa.
+2. A peça durou 50 minutos.
+3. A duração de 50 minutos.
+4. A indicação de tempo.
+Gabarito: Foi maravilhosa.
+Maravilhosa expressa avaliação; a duração pode ser verificada por registros.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual afirmação pode ser checada como fato?
 1. A turma apresentou cinco cartazes.
 2. A apresentação foi incrível.
 3. O cartaz azul era o mais bonito.
@@ -764,17 +1623,43 @@ Português — 7º EF
 Tese e argumento
 EF67LP05 | página PDF 165
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar tese e argumento em uma situação do cotidiano.
+Explorar tese e argumento em uma situação do cotidiano.
 Uma tese apresenta a posição defendida em um texto. Argumentos são razões que procuram sustentar essa posição. Para avaliar o texto, identifique o que o autor defende e se suas razões são pertinentes e verificáveis.
 Exemplo: “A biblioteca deve abrir no intervalo, pois estudantes que usam transporte escolar não podem ficar após a aula”: a proposta é a tese; a dificuldade de horário é uma razão.
-EXERCÍCIO: Leia: “Devemos ampliar a coleta seletiva, pois separar materiais facilita a reciclagem.” Qual é a tese?
+
+EXERCÍCIO 1: Leia: “Devemos ampliar a coleta seletiva, pois separar materiais facilita a reciclagem.” Qual é a tese?
 1. Devemos ampliar a coleta seletiva.
 2. Separar materiais facilita a reciclagem.
 3. Não existe posição no trecho.
 4. Toda razão é uma tese.
 Gabarito: Devemos ampliar a coleta seletiva.
 A tese é a proposta defendida; a parte introduzida por pois apresenta uma razão.
-REVISÃO: Leia: “A horta deve continuar, porque permite observar o crescimento das plantas.” Qual trecho é o argumento?
+
+EXERCÍCIO 2: Leia: “A escola deve ter bicicletário, pois vários estudantes usam bicicleta.” Qual é o argumento?
+1. Vários estudantes usam bicicleta.
+2. A escola deve ter bicicletário.
+3. A palavra escola.
+4. Não há posição defendida.
+Gabarito: Vários estudantes usam bicicleta.
+A utilização de bicicletas é a razão apresentada para sustentar a proposta.
+
+EXERCÍCIO 3: Leia: “O clube de leitura deve continuar porque amplia a troca de interpretações.” Qual é a tese?
+1. O clube de leitura deve continuar.
+2. Amplia a troca de interpretações.
+3. A palavra porque.
+4. Toda interpretação é igual.
+Gabarito: O clube de leitura deve continuar.
+A tese é a posição defendida; a troca de interpretações aparece como justificativa.
+
+EXERCÍCIO 4: Qual resposta avalia uma proposta com argumento?
+1. Concordo com abrir a quadra no intervalo, pois isso amplia as opções de lazer.
+2. Concordo porque sim.
+3. Quem discorda não sabe nada.
+4. Minha opinião não precisa de razão.
+Gabarito: Concordo com abrir a quadra no intervalo, pois isso amplia as opções de lazer.
+A resposta manifesta concordância e apresenta uma razão relacionada à proposta.
+
+REVISÃO POSTERIOR DA HABILIDADE: Leia: “A horta deve continuar, porque permite observar o crescimento das plantas.” Qual trecho é o argumento?
 1. Permite observar o crescimento das plantas.
 2. A horta deve continuar.
 3. A horta é uma palavra.
@@ -787,17 +1672,43 @@ Português — 8º EF
 Argumento e contra-argumento
 EF89LP04 | página PDF 179
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar argumento e contra-argumento em uma situação do cotidiano.
+Explorar argumento e contra-argumento em uma situação do cotidiano.
 Um texto argumentativo pode defender uma posição e enfrentar objeções. Contra-argumentar exige compreender a objeção e responder a ela com razões. Discordar sem justificar ou atacar uma pessoa não substitui a análise do argumento.
 Exemplo: Se alguém rejeita a horta por falta de espaço, uma resposta pertinente seria propor cultivo em vasos e explicar onde colocá-los.
-EXERCÍCIO: À objeção “não há espaço para a horta”, qual resposta enfrenta o argumento?
+
+EXERCÍCIO 1: À objeção “não há espaço para a horta”, qual resposta enfrenta o argumento?
 1. Podemos usar vasos em uma área já disponível, sem bloquear a passagem.
 2. Quem discorda é ignorante.
 3. A horta é legal, pronto.
 4. A pessoa sempre reclama.
 Gabarito: Podemos usar vasos em uma área já disponível, sem bloquear a passagem.
 A resposta discute a limitação de espaço e propõe uma solução verificável.
-REVISÃO: À objeção “o jornal impresso custa caro”, qual resposta é um contra-argumento pertinente?
+
+EXERCÍCIO 2: À objeção “o mural usa papel demais”, qual resposta enfrenta a questão?
+1. Podemos reutilizar folhas e manter parte do mural em formato digital.
+2. Você é uma pessoa chata.
+3. O mural é lindo e pronto.
+4. Ninguém pode discordar.
+Gabarito: Podemos reutilizar folhas e manter parte do mural em formato digital.
+A proposta responde ao uso de papel com alternativas pertinentes.
+
+EXERCÍCIO 3: À objeção “o passeio é caro”, qual resposta é pertinente?
+1. Podemos comparar custos e buscar uma atividade gratuita com o mesmo objetivo.
+2. Quem questiona o custo é ignorante.
+3. Não devemos ouvir ninguém.
+4. O nome do passeio é bonito.
+Gabarito: Podemos comparar custos e buscar uma atividade gratuita com o mesmo objetivo.
+A resposta discute o custo e oferece uma alternativa ligada ao objetivo.
+
+EXERCÍCIO 4: Qual resposta usa contra-argumento em vez de ataque pessoal?
+1. Embora exija organização, o campeonato pode ter horários que preservem as aulas.
+2. Quem é contra não gosta da escola.
+3. Seu argumento é ruim porque você é novo.
+4. Não quero conversar.
+Gabarito: Embora exija organização, o campeonato pode ter horários que preservem as aulas.
+A resposta reconhece uma dificuldade e apresenta uma maneira de enfrentá-la.
+
+REVISÃO POSTERIOR DA HABILIDADE: À objeção “o jornal impresso custa caro”, qual resposta é um contra-argumento pertinente?
 1. Uma edição digital pode reduzir o gasto com impressão.
 2. Quem disse isso é chato.
 3. Todo jornal é perfeito.
@@ -810,17 +1721,43 @@ Português — 9º EF
 Persuasão e fontes
 EF89LP06 | página PDF 179
 Atividade de apoio a parte da habilidade, não uma avaliação completa.
-Objetivo: Explorar persuasão e fontes em uma situação do cotidiano.
+Explorar persuasão e fontes em uma situação do cotidiano.
 Títulos, escolhas de palavras e fontes influenciam a interpretação de um texto. Expressões como “todo mundo sabe” podem tentar criar consenso sem apresentar evidências. Avalie a autoria e os dados, além do efeito emocional das palavras.
 Exemplo: “Milagre do estudo: método infalível!” promete certeza sem mostrar como o resultado foi verificado.
-EXERCÍCIO: Qual recurso persuasivo aparece em “Todo mundo inteligente escolhe este curso”?
+
+EXERCÍCIO 1: Qual recurso persuasivo aparece em “Todo mundo inteligente escolhe este curso”?
 1. Apelo à aprovação social e à identidade do leitor.
 2. Apresentação de amostra e método.
 3. Demonstração matemática completa.
 4. Comparação com dados verificáveis.
 Gabarito: Apelo à aprovação social e à identidade do leitor.
 O texto tenta associar a compra à imagem de ser inteligente, sem fornecer evidência.
-REVISÃO: Para avaliar “Especialistas garantem resultado”, qual informação faz falta?
+
+EXERCÍCIO 2: “Só quem se importa com o futuro compra este produto.” Que efeito o anúncio procura criar?
+1. Associar a compra a uma identidade moral desejável.
+2. Apresentar resultados de pesquisa com método.
+3. Demonstrar uma igualdade matemática.
+4. Informar todos os impactos do produto.
+Gabarito: Associar a compra a uma identidade moral desejável.
+O anúncio pressiona o leitor ao associar a compra à imagem de ser responsável.
+
+EXERCÍCIO 3: Um anúncio afirma “90% aprovam”, sem informar a pesquisa. O que deve ser solicitado?
+1. Fonte, tamanho e seleção da amostra e modo de obter o resultado.
+2. Somente uma cor mais forte.
+3. Mais exclamações.
+4. A repetição da mesma promessa.
+Gabarito: Fonte, tamanho e seleção da amostra e modo de obter o resultado.
+A procedência e o método ajudam a avaliar o significado do número.
+
+EXERCÍCIO 4: Qual título utiliza exagero para persuadir?
+1. O único método que resolve todos os seus problemas!
+2. Pesquisa compara dois métodos de estudo.
+3. Biblioteca abre às 8h.
+4. Turma apresenta cinco projetos.
+Gabarito: O único método que resolve todos os seus problemas!
+Único e todos ampliam a promessa sem apresentar suas evidências e limites.
+
+REVISÃO POSTERIOR DA HABILIDADE: Para avaliar “Especialistas garantem resultado”, qual informação faz falta?
 1. Quem são os especialistas e em que evidências se apoiam.
 2. A cor do anúncio apenas.
 3. A quantidade de exclamações.
@@ -833,17 +1770,43 @@ Química — 1ª EM (sugerida)
 Conservação da matéria
 EM13CNT101 | página PDF 557
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar conservação da matéria em uma situação do cotidiano.
+Explorar conservação da matéria em uma situação do cotidiano.
 Em uma reação química de um sistema fechado, os átomos se reorganizam e a massa total se conserva nas condições usuais de estudo. Balancear uma equação representa a conservação da quantidade de átomos de cada elemento. Não altere os índices das fórmulas para balancear.
 Exemplo: Em 2 H₂ + O₂ → 2 H₂O, há quatro átomos de H e dois de O em cada lado.
-EXERCÍCIO: Em um recipiente fechado, 12 g de reagentes se transformam completamente. Sem perdas, qual é a massa total dos produtos?
+
+EXERCÍCIO 1: Em um recipiente fechado, 12 g de reagentes se transformam completamente. Sem perdas, qual é a massa total dos produtos?
 1. 12 g
 2. 0 g
 3. 24 g
 4. 6 g
 Gabarito: 12 g
 No sistema fechado, a massa total se conserva.
-REVISÃO: Em 2 H₂ + O₂ → 2 H₂O, quantos átomos de oxigênio há em cada lado?
+
+EXERCÍCIO 2: Em um sistema fechado, 7 g de um reagente se combinam com 5 g de outro, sem perdas. Qual é a massa total final?
+1. 12 g
+2. 2 g
+3. 35 g
+4. 0 g
+Gabarito: 12 g
+A massa total se conserva: 7 + 5 = 12 g.
+
+EXERCÍCIO 3: Ao balancear uma equação química, o que deve ser conservado?
+1. O número de átomos de cada elemento nos dois lados.
+2. A quantidade de letras escritas.
+3. O tamanho visual das fórmulas.
+4. A cor usada na representação.
+Gabarito: O número de átomos de cada elemento nos dois lados.
+O balanceamento representa a conservação dos átomos durante a reorganização química.
+
+EXERCÍCIO 4: Para balancear uma equação, qual procedimento é adequado?
+1. Ajustar os coeficientes, preservando as fórmulas das substâncias.
+2. Mudar qualquer índice das fórmulas para facilitar.
+3. Apagar um elemento de um lado.
+4. Criar átomos que não existiam nos reagentes.
+Gabarito: Ajustar os coeficientes, preservando as fórmulas das substâncias.
+Alterar índices pode mudar a substância; o balanceamento usa coeficientes.
+
+REVISÃO POSTERIOR DA HABILIDADE: Em 2 H₂ + O₂ → 2 H₂O, quantos átomos de oxigênio há em cada lado?
 1. 2
 2. 1
 3. 4
@@ -856,17 +1819,43 @@ Química — 2ª EM (sugerida)
 Uso e descarte responsáveis
 EM13CNT104 | página PDF 557
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar uso e descarte responsáveis em uma situação do cotidiano.
+Explorar uso e descarte responsáveis em uma situação do cotidiano.
 Produtos podem apresentar riscos conforme sua composição, concentração, reatividade e exposição. Leia rótulos e siga as orientações locais de uso e descarte. Misturar produtos de limpeza sem orientação pode provocar reações perigosas. A miniaula não propõe fazer misturas.
 Exemplo: Antes de usar um produto, consulte o rótulo e mantenha-o na embalagem identificada.
-EXERCÍCIO: Qual atitude reduz riscos no uso de produtos de limpeza?
+
+EXERCÍCIO 1: Qual atitude reduz riscos no uso de produtos de limpeza?
 1. Seguir o rótulo e não misturar produtos sem orientação adequada.
 2. Misturar qualquer produto para aumentar o efeito.
 3. Guardar em garrafa de bebida sem identificação.
 4. Ignorar ventilação e contato com a pele.
 Gabarito: Seguir o rótulo e não misturar produtos sem orientação adequada.
 Informações de uso e incompatibilidades ajudam a evitar exposição e reações perigosas.
-REVISÃO: Para descartar um produto potencialmente perigoso, o procedimento adequado é:
+
+EXERCÍCIO 2: Por que não guardar produto de limpeza em garrafa de bebida sem identificação?
+1. Porque isso favorece confusão, uso indevido e exposição perigosa.
+2. Porque a identificação nunca importa.
+3. Porque toda embalagem serve para qualquer produto.
+4. Porque rótulos são apenas decoração.
+Gabarito: Porque isso favorece confusão, uso indevido e exposição perigosa.
+Manter a embalagem adequada e identificada ajuda a prevenir acidentes.
+
+EXERCÍCIO 3: Antes de usar um produto potencialmente perigoso, é importante:
+1. consultar o rótulo e as orientações de uso e proteção.
+2. testar misturas aleatórias.
+3. ignorar a composição.
+4. supor que cheiro agradável garante segurança.
+Gabarito: consultar o rótulo e as orientações de uso e proteção.
+Composição, exposição e orientações de uso são relevantes para avaliar riscos.
+
+EXERCÍCIO 4: Uma pessoa quer despejar sobras de produto no terreno. Qual orientação é responsável?
+1. Verificar o rótulo e os canais locais de orientação e descarte adequado.
+2. Despejar sem avaliar riscos.
+3. Retirar a identificação antes do descarte.
+4. Misturar as sobras a qualquer outro produto.
+Gabarito: Verificar o rótulo e os canais locais de orientação e descarte adequado.
+O descarte deve considerar a composição, os riscos e a orientação local apropriada.
+
+REVISÃO POSTERIOR DA HABILIDADE: Para descartar um produto potencialmente perigoso, o procedimento adequado é:
 1. consultar o rótulo e os serviços locais de coleta/orientação.
 2. despejar automaticamente no ralo.
 3. abandonar em terreno aberto.
@@ -879,17 +1868,43 @@ Química — 3ª EM (sugerida)
 Escolher materiais
 EM13CNT307 | página PDF 561
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar escolher materiais em uma situação do cotidiano.
+Explorar escolher materiais em uma situação do cotidiano.
 A escolha de um material depende de propriedades, uso, segurança e impactos ambientais. Condutividade, resistência e durabilidade podem ser relevantes em situações diferentes. Um material adequado para uma peça pode não ser adequado para outra.
 Exemplo: Em uma panela, interessa conduzir calor no corpo; no cabo, interessa reduzir a transferência para a mão.
-EXERCÍCIO: Para um cabo de panela, qual propriedade é desejável?
+
+EXERCÍCIO 1: Para um cabo de panela, qual propriedade é desejável?
 1. Baixa condutividade térmica e resistência às condições de uso.
 2. Alta transferência de calor para a mão.
 3. Dissolução imediata em água.
 4. Ausência de resistência ao uso.
 Gabarito: Baixa condutividade térmica e resistência às condições de uso.
 O cabo deve reduzir a transferência à mão sem perder a resistência necessária.
-REVISÃO: Ao comparar embalagens, qual análise é mais completa?
+
+EXERCÍCIO 2: Para escolher um material de uma peça, deve-se considerar:
+1. as propriedades necessárias, a segurança e as condições de uso.
+2. somente a cor.
+3. a ideia de que um único material serve sempre para tudo.
+4. apenas a propaganda.
+Gabarito: as propriedades necessárias, a segurança e as condições de uso.
+A adequação depende da função, das propriedades e dos efeitos da escolha.
+
+EXERCÍCIO 3: Por que o corpo metálico e o cabo de uma panela podem usar materiais diferentes?
+1. Porque podem exigir comportamentos térmicos diferentes.
+2. Porque todos os materiais transferem calor igualmente.
+3. Porque o cabo não está sujeito a condições de uso.
+4. Porque propriedades não influenciam a escolha.
+Gabarito: Porque podem exigir comportamentos térmicos diferentes.
+O corpo favorece a transferência para o alimento; o cabo deve reduzir a transferência para a mão.
+
+EXERCÍCIO 4: Qual critério é pertinente ao escolher uma embalagem para reutilização?
+1. Resistência ao uso previsto, segurança, limpeza adequada e destino ao final da vida útil.
+2. Apenas um desenho bonito.
+3. Desconsiderar qualquer risco de contaminação.
+4. Supor que qualquer embalagem serve para qualquer conteúdo.
+Gabarito: Resistência ao uso previsto, segurança, limpeza adequada e destino ao final da vida útil.
+A escolha precisa relacionar função, segurança, durabilidade e impactos.
+
+REVISÃO POSTERIOR DA HABILIDADE: Ao comparar embalagens, qual análise é mais completa?
 1. Proteção do produto, reutilização, reciclagem e impactos locais.
 2. Somente a aparência.
 3. Apenas a cor do material.
@@ -902,17 +1917,43 @@ Sociologia — 1ª EM (sugerida)
 Etnocentrismo e contexto
 EM13CHS102 | página PDF 574
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar etnocentrismo e contexto em uma situação do cotidiano.
+Explorar etnocentrismo e contexto em uma situação do cotidiano.
 Etnocentrismo ocorre quando se julgam outros modos de vida tomando os próprios padrões como medida universal ou superior. A análise sociológica investiga contextos, relações de poder e diferentes perspectivas. Compreender uma prática não impede debatê-la criticamente com base nos direitos humanos.
 Exemplo: Estranhar uma comida não autoriza concluir que todo o grupo que a consome é inferior.
-EXERCÍCIO: Qual afirmação expressa julgamento etnocêntrico?
+
+EXERCÍCIO 1: Qual afirmação expressa julgamento etnocêntrico?
 1. Nossa forma de viver é a única correta; as outras são inferiores.
 2. Quais significados essa prática tem naquele contexto?
 3. Vamos comparar perspectivas sem hierarquizar povos.
 4. Precisamos ouvir as pessoas envolvidas.
 Gabarito: Nossa forma de viver é a única correta; as outras são inferiores.
 A frase toma um modo de vida como padrão universal e inferioriza os demais.
-REVISÃO: Qual procedimento ajuda a superar uma análise etnocêntrica?
+
+EXERCÍCIO 2: Uma pessoa afirma que outra cultura é inferior porque seus costumes são diferentes. Qual problema aparece?
+1. Um julgamento etnocêntrico.
+2. Uma comparação contextual sem hierarquia.
+3. Uma análise de diversas perspectivas.
+4. Uma conclusão sustentada apenas pela escuta dos participantes.
+Gabarito: Um julgamento etnocêntrico.
+A pessoa usa os próprios padrões para inferiorizar outro modo de vida.
+
+EXERCÍCIO 3: Para estudar uma prática cultural pouco conhecida, é importante:
+1. investigar seus significados e as relações sociais em seu contexto.
+2. julgar antes de conhecer.
+3. tratar todos os participantes como idênticos.
+4. supor que diferença significa inferioridade.
+Gabarito: investigar seus significados e as relações sociais em seu contexto.
+A investigação contextual evita reduzir a prática a um estereótipo.
+
+EXERCÍCIO 4: Compreender o contexto de uma prática cultural significa aceitar qualquer violência?
+1. Não; é possível compreender contextos e discutir criticamente direitos e relações de poder.
+2. Sim; toda análise proíbe qualquer crítica.
+3. Sim; direitos deixam de importar.
+4. Não é permitido investigar contextos.
+Gabarito: Não; é possível compreender contextos e discutir criticamente direitos e relações de poder.
+Contextualizar não impede avaliar violações de direitos humanos e relações de poder.
+
+REVISÃO POSTERIOR DA HABILIDADE: Qual procedimento ajuda a superar uma análise etnocêntrica?
 1. Investigar contextos e ouvir diferentes agentes sociais.
 2. Supor inferioridade antes da análise.
 3. Ignorar os significados atribuídos pelos participantes.
@@ -925,17 +1966,43 @@ Sociologia — 2ª EM (sugerida)
 Argumentar com dados sociais
 EM13CHS103 | página PDF 574
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar argumentar com dados sociais em uma situação do cotidiano.
+Explorar argumentar com dados sociais em uma situação do cotidiano.
 Uma hipótese social precisa ser confrontada com evidências. A seleção da amostra influencia os resultados de uma pesquisa. Opiniões de um pequeno grupo escolhido por conveniência não representam automaticamente toda a escola. Explicite limites antes de generalizar.
 Exemplo: Ouvir apenas quem frequenta um clube pode não representar quem não participa dele.
-EXERCÍCIO: Para investigar o transporte de toda a escola, qual plano é mais adequado?
+
+EXERCÍCIO 1: Para investigar o transporte de toda a escola, qual plano é mais adequado?
 1. Ouvir estudantes de diferentes turmas e turnos, justificando a seleção e seus limites.
 2. Ouvir só meus três amigos e concluir por todos.
 3. Escolher apenas quem vai a pé.
 4. Publicar uma conclusão antes de coletar dados.
 Gabarito: Ouvir estudantes de diferentes turmas e turnos, justificando a seleção e seus limites.
 Uma seleção diversificada e critérios explícitos ajudam a sustentar a análise, sem eliminar toda incerteza.
-REVISÃO: Uma enquete ouviu só uma turma. Qual conclusão é responsável?
+
+EXERCÍCIO 2: Uma enquete ouviu apenas integrantes de um clube escolar. Ela representa automaticamente toda a escola?
+1. Não; a seleção pode excluir experiências de quem não participa do clube.
+2. Sim; qualquer grupo representa todos.
+3. Sim; a quantidade de perguntas elimina todo viés.
+4. Não é necessário informar quem respondeu.
+Gabarito: Não; a seleção pode excluir experiências de quem não participa do clube.
+A amostra precisa ser analisada antes de generalizar os resultados.
+
+EXERCÍCIO 3: Uma hipótese social foi contrariada pelos dados coletados. Qual atitude é adequada?
+1. Reexaminar a hipótese, o método e as evidências.
+2. Apagar os dados que discordam.
+3. Manter a conclusão sem justificativa.
+4. Inventar respostas favoráveis.
+Gabarito: Reexaminar a hipótese, o método e as evidências.
+A investigação exige confronto crítico entre hipótese, método e resultados.
+
+EXERCÍCIO 4: Qual apresentação de pesquisa é mais responsável?
+1. Informar participantes, método, resultados e limites da interpretação.
+2. Mostrar apenas uma conclusão sem fonte.
+3. Ocultar como os dados foram obtidos.
+4. Confundir preferência pessoal com resultado comprovado.
+Gabarito: Informar participantes, método, resultados e limites da interpretação.
+A transparência permite avaliar a força e os limites dos argumentos.
+
+REVISÃO POSTERIOR DA HABILIDADE: Uma enquete ouviu só uma turma. Qual conclusão é responsável?
 1. Os resultados descrevem os respondentes e têm limites para generalizar à escola.
 2. Os resultados provam a opinião de toda a cidade.
 3. A amostra elimina qualquer incerteza.
@@ -948,17 +2015,43 @@ Sociologia — 3ª EM (sugerida)
 Direitos e enfrentamento da discriminação
 EM13CHS502 | página PDF 579
 Série sugerida pelo app; a BNCC do Ensino Médio não determina esta seriação.
-Objetivo: Explorar direitos e enfrentamento da discriminação em uma situação do cotidiano.
+Explorar direitos e enfrentamento da discriminação em uma situação do cotidiano.
 Desigualdades e discriminações não devem ser naturalizadas. Analise normas, práticas e efeitos sobre diferentes grupos. Enfrentar uma situação discriminatória envolve proteção, escuta e ações que promovam direitos, e não a repetição da violência.
 Exemplo: Uma regra aparentemente igual pode produzir barreiras diferentes para pessoas em condições diferentes.
-EXERCÍCIO: Diante de uma prática discriminatória na escola, qual ação favorece os direitos humanos?
+
+EXERCÍCIO 1: Diante de uma prática discriminatória na escola, qual ação favorece os direitos humanos?
 1. Proteger quem foi atingido, ouvir os envolvidos e acionar medidas educativas e institucionais.
 2. Tratar a humilhação como brincadeira inevitável.
 3. Responsabilizar a vítima pelo preconceito.
 4. Espalhar novas ofensas nas redes.
 Gabarito: Proteger quem foi atingido, ouvir os envolvidos e acionar medidas educativas e institucionais.
 Proteção e enfrentamento institucional evitam naturalizar a violência e a discriminação.
-REVISÃO: Para avaliar uma regra escolar, é importante perguntar:
+
+EXERCÍCIO 2: Uma regra impede a participação de estudantes com deficiência sem justificativa necessária. O que deve ser feito?
+1. Examinar a barreira e propor condições de acessibilidade e participação.
+2. Naturalizar a exclusão.
+3. Responsabilizar os estudantes pela barreira.
+4. Ignorar os efeitos da regra.
+Gabarito: Examinar a barreira e propor condições de acessibilidade e participação.
+A análise deve identificar barreiras e promover direitos e participação.
+
+EXERCÍCIO 3: Qual atitude contribui para enfrentar uma ofensa discriminatória?
+1. Interromper a humilhação com proteção e acionar as medidas adequadas da escola.
+2. Compartilhar a ofensa para divertir outros.
+3. Dizer que a vítima mereceu.
+4. Tratar o preconceito como inevitável.
+Gabarito: Interromper a humilhação com proteção e acionar as medidas adequadas da escola.
+Proteção e encaminhamento responsável evitam ampliar a violência.
+
+EXERCÍCIO 4: Por que analisar os efeitos de uma regra, além de seu texto?
+1. Porque uma regra aparentemente igual pode criar barreiras diferentes entre grupos.
+2. Porque o texto sempre garante justiça em qualquer situação.
+3. Porque desigualdades não podem ser investigadas.
+4. Porque basta ouvir apenas quem criou a regra.
+Gabarito: Porque uma regra aparentemente igual pode criar barreiras diferentes entre grupos.
+Observar os efeitos concretos ajuda a identificar exclusões e medidas necessárias.
+
+REVISÃO POSTERIOR DA HABILIDADE: Para avaliar uma regra escolar, é importante perguntar:
 1. Seus efeitos criam barreiras injustificadas para determinados grupos?
 2. A regra agrada apenas ao meu grupo?
 3. Podemos ignorar quem foi prejudicado?

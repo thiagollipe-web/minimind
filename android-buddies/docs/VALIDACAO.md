@@ -40,3 +40,12 @@ A assinatura é de desenvolvimento. Não há publicação na Play Store nem afir
 - Núcleo STDP, política adaptativa, necessidades, gestos, personagens e acessórios passaram novamente.
 - Os 12 APKs 0.3.0 foram compilados, assinados e verificados, com códigos de versão incrementados e ícones distintos.
 - Não executados: instalação/atualização real, migração dentro do SQLiteOpenHelper em Android, rolagem/teclado/insets do balão em aparelho e avaliação pedagógica das sequências com alunos. O alinhamento é parcial, com revisão docente recomendada para o plano de aula local; a miniaula não comprova a habilidade inteira.
+
+## Atualização 0.4.0 — toque e repetição
+
+- Reprodução: os 42 anos/séries oferecidos tinham apenas um exercício por miniaula; o sorteio selecionava o primeiro exercício. Um toque no mascote executava somente carinho.
+- Novo catálogo: 168 perguntas de prática, quatro por ano/série, com enunciados e alternativas distintas em cada grupo. IDs anteriores preservados. O banco reduzido de revisões por habilidade é compartilhado entre variantes, sem alegação de itens inéditos.
+- `QuestionDeckTest`: 100 rodadas sem repetição prematura ou na fronteira; reabertura a cada sorteio, continuidade da ordem, mudança de catálogo, recuperação de estado duplicado e caso de um único item.
+- Testes principais de catálogo, SQLite, política, SNN, gestos e personagens executados novamente e aprovados. Os testes de gestos exercem a lógica de arraste; não simulam a nova interação em aparelho.
+- Os 12 APKs foram recompilados e assinados com versão 0.4.0/versionCode 4. A assinatura é a mesma da entrega anterior.
+- Não executados: toque/pressão longa, rolagem, alternativas visíveis e instalação em Android real. A interface nova foi compilada, mas não testada em aparelho ou emulador.

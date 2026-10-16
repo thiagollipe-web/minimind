@@ -43,7 +43,7 @@ public final class MainActivity extends Activity {
         preview=new RobotView(this,session,new RobotView.Gestures(){
             public void pet(){session.pet();Chirps.play(session);}
             public void drag(float dx,float dy){}
-            public void menu(){toast("No mascote flutuante: segure para abrir o balão com miniaulas e exercícios.");}
+            public void menu(){if(Settings.canDrawOverlays(MainActivity.this)){startForegroundService(new Intent(MainActivity.this,OverlayService.class).setAction("STUDY"));moveTaskToBack(true);}else startActivity(new Intent(MainActivity.this,EducationActivity.class));}
             public void positionSaved(){}
         });
         LinearLayout.LayoutParams previewParams=new LinearLayout.LayoutParams(dp(140),dp(156));previewParams.gravity=Gravity.CENTER_HORIZONTAL;content.addView(preview,previewParams);
@@ -88,7 +88,7 @@ public final class MainActivity extends Activity {
         title("Balões de estudo",20);
         Switch questions=new Switch(this);questions.setText("Abrir balões de estudo enquanto o mascote está ativo (silêncio 22h–7h)");questions.setTextColor(Color.WHITE);questions.setChecked(session.prefs.getBoolean("study_questions",false));questions.setOnCheckedChangeListener((v,on)->session.prefs.edit().putBoolean("study_questions",on).putLong("last_study_question",System.currentTimeMillis()).apply());content.addView(questions);
         Spinner intervals=new Spinner(this);intervals.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,new String[]{"A cada 1 hora","A cada 3 horas","A cada 6 horas"}));int hours=session.prefs.getInt("study_hours",3);intervals.setSelection(hours==1?0:hours==6?2:1);intervals.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener(){public void onNothingSelected(AdapterView<?> p){}public void onItemSelected(AdapterView<?> p,View v,int n,long id){session.prefs.edit().putInt("study_hours",new int[]{1,3,6}[n]).apply();}});content.addView(intervals);
-        label("Segure o mascote ou toque em ⋯ para abrir miniaula, exercício ou resposta no balão. Balões automáticos dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
+        label("Toque no mascote ou em ⋯ para abrir uma pergunta com alternativas no balão. Segure para carinho. Balões automáticos dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
         title("Reações e carinho",20);
         button("A reação foi útil (+1)",()->toast(session.rate(1)?"Preferência atualizada":"Ative observação e aprendizagem; aguarde uma ação ainda não avaliada."));
         button("A reação foi inadequada (−1)",()->toast(session.rate(-1)?"Preferência atualizada":"Sem ação disponível ou aprendizagem congelada."));
@@ -114,7 +114,7 @@ public final class MainActivity extends Activity {
         });
         button("Exportar memória textual JSON",()->startActivityForResult(new Intent(Intent.ACTION_CREATE_DOCUMENT).setType("application/json").addCategory(Intent.CATEGORY_OPENABLE).putExtra(Intent.EXTRA_TITLE,"MiniBuddy_Memoria_Textual.json"),EXPORT));
         title("Uso e controle",20);
-        label("No mascote: toque para carinho; arraste pelo corpo inteiro para mover. Segure por um instante ou toque em ⋯ para abrir este painel. A captura pausa enquanto o painel está aberto.",14);
+        label("No mascote: toque para abrir perguntas com alternativas; segure para carinho e arraste pelo corpo para mover. O botão Painel fica dentro do balão. A captura pausa enquanto o painel ou balão está aberto.",14);
         label("STDP aprende regularidades visuais. Textos são pesquisados por palavras. Reações aprendem com avaliações. Não há LLM, OCR ou leitura automática de conversas.",14);
         button("Recolher painel",()->moveTaskToBack(true));
         button("Encerrar mascote e salvar",()->{
@@ -130,7 +130,7 @@ public final class MainActivity extends Activity {
     private void startOverlay(boolean demo){
         if(!Settings.canDrawOverlays(this)){toast("Primeiro permita aparecer sobre outros apps.");return;}
         startForegroundService(new Intent(this,OverlayService.class).setAction(demo?"DEMO":"SHOW"));
-        if(demo)toast("Demonstração iniciada. Pode recolher o painel.");else toast("Mascote ativado. Toque nele para fazer carinho.");
+        if(demo)toast("Demonstração iniciada. Pode recolher o painel.");else toast("Mascote ativado. Toque para perguntas; segure para carinho.");
     }
     private void capture(){
         if(pendingProjection){toast("Aguarde a autorização em andamento.");return;}

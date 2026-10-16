@@ -19,4 +19,4 @@
 
 Todos piscam, mudam a expressão ao receber carinho e recebem acessórios por nível. Ao escolher descanso nos cuidados do pet, os movimentos característicos param e os olhos se fecham. Pausar a captura visual não coloca o bichinho para dormir: ele continua animado sem observar a tela. O ícone da tela de aplicativos corresponde ao personagem de cada matéria.
 
-A identidade visual não altera as perguntas, os dados salvos ou as regras de aprendizagem. A animação usa desenho vetorial local, sem download de imagens ou dependência gráfica adicional. O balão, o arraste e os controles de posição permanecem no mesmo lugar.
+A identidade visual não altera as perguntas, os dados salvos ou as regras de aprendizagem. A animação usa desenho vetorial local, sem download de imagens ou dependência gráfica adicional. O arraste e os controles de posição permanecem disponíveis. A partir de 0.4.0, um toque abre perguntas; segurar faz carinho.

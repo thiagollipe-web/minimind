@@ -1,4 +1,4 @@
-# Miniaulas e exercícios BNCC — versão 0.3.0
+# Miniaulas e exercícios BNCC — versão 0.4.0
 
 Material original de apoio. O vínculo curricular corresponde a um recorte de cada habilidade; não certifica domínio e não cobre toda a BNCC.
 
@@ -8,9 +8,9 @@ Fonte conferida em 16/10/2026: [BNCC/MEC — PDF homologado com Ensino Médio](h
 
 ## Usar o balão
 
-Abra o app → permita aparecer sobre outros apps → Miniaulas e exercícios BNCC no balão. Escolha o ano/série no seletor. Use Miniaula para ler, Exercício para responder e receber correção, e Ensinar para registrar uma explicação pendente de revisão. Segurar o mascote ou tocar em ⋯ também abre o balão.
+Abra o app → permita aparecer sobre outros apps → Miniaulas e exercícios BNCC no balão. Escolha o ano/série no seletor. Use Miniaula para ler, Exercício para responder e receber correção, e Ensinar para registrar uma explicação pendente de revisão. Um toque no mascote ou em ⋯ já abre uma pergunta com quatro alternativas. Segurar faz carinho; há também o botão ♡ Carinho no balão.
 
-O balão tem largura máxima de 320 dp, área rolável e botão Fechar. A posição inicial é calculada perto do pet e limitada à área útil da tela. Não é necessário ativar a captura visual. Os balões periódicos opcionais continuam configuráveis em 1, 3 ou 6 horas, com silêncio de 22h a 7h; o serviço precisa estar ativo.
+O balão tem largura máxima de 320 dp, altura máxima de 460 dp, área rolável e botão Fechar. A posição inicial é calculada perto do pet e limitada à área útil da tela. Não é necessário ativar a captura visual. Os balões periódicos opcionais continuam configuráveis em 1, 3 ou 6 horas, com silêncio de 22h a 7h; o serviço precisa estar ativo.
 
 ## Recorte do catálogo
 
@@ -66,3 +66,9 @@ As tentativas novas registram habilidade, ano/série, miniaula, origem (balão o
 A migração do banco educativo v1 para v2 acrescenta campos e uma tabela de aberturas, preservando perfis, tentativas antigas, ensinamentos, versões e XP. Os 36 exercícios livres anteriores permanecem disponíveis para suas revisões pendentes, mas os novos percursos usam o recorte BNCC. Não há importação/restauração do JSON educativo ainda.
 
 Os itens curtos de múltipla escolha trabalham uma parte dos objetivos e não substituem debates, produção textual, investigação, experimentação ou avaliação docente. No Ensino Médio e em Espanhol, a natureza do vínculo é indicada na interface. Não foram realizados testes instrumentados em celular nesta entrega.
+
+## Sorteio e quantidade — 0.4.0
+
+Cada ano/série disponível tem quatro perguntas de prática diferentes: são 168 no conjunto dos 12 apps, além dos 36 IDs livres antigos preservados para revisões. A seleção consome uma rodada embaralhada sem repetição por perfil e ano; a ordem restante é persistida e compartilhada entre balão e painel. Ao esgotar a rodada, o banco é embaralhado novamente, evitando repetir imediatamente a última pergunta. As alternativas também são embaralhadas.
+
+O banco de revisão posterior permanece com 42 enunciados por habilidade. Variantes de prática podem reutilizar a mesma revisão; portanto, revisões repetidas não devem ser interpretadas como prova de generalização nem como itens inéditos. O catálogo é finito.
