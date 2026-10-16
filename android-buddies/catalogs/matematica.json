@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "matematica",
+  "name": "Matemática",
+  "nickname": "Mati",
+  "color": "#83C5BE",
+  "questions": [
+    {
+      "id": "matematica_0",
+      "skill": "frações",
+      "question": "Quanto é 1/2 + 1/4?",
+      "options": [
+        "3/4",
+        "2/6",
+        "1/6",
+        "1/8"
+      ],
+      "answer": 0,
+      "explanation": "Use o denominador comum 4: 2/4 + 1/4 = 3/4.",
+      "hint": "Identifique o conceito de frações antes de escolher.",
+      "example": "Use o denominador comum 4: 2/4 + 1/4 = 3/4.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de frações.",
+      "reviewQuestion": "Quanto é 1/3 + 1/6?",
+      "reviewOptions": [
+        "1/2",
+        "2/9",
+        "1/9",
+        "1/18"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de frações."
+    },
+    {
+      "id": "matematica_1",
+      "skill": "equações",
+      "question": "Se 2x + 3 = 11, quanto vale x?",
+      "options": [
+        "4",
+        "7",
+        "5",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Subtraia 3 dos dois lados e divida por 2.",
+      "hint": "Identifique o conceito de equações antes de escolher.",
+      "example": "Subtraia 3 dos dois lados e divida por 2.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de equações.",
+      "reviewQuestion": "Se 3x + 2 = 17, quanto vale x?",
+      "reviewOptions": [
+        "5",
+        "3",
+        "6",
+        "7"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de equações."
+    },
+    {
+      "id": "matematica_2",
+      "skill": "porcentagem",
+      "question": "Quanto é 20% de 150?",
+      "options": [
+        "30",
+        "20",
+        "15",
+        "50"
+      ],
+      "answer": 0,
+      "explanation": "20% equivale a 0,20; multiplique por 150.",
+      "hint": "Identifique o conceito de porcentagem antes de escolher.",
+      "example": "20% equivale a 0,20; multiplique por 150.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de porcentagem.",
+      "reviewQuestion": "Quanto é 25% de 80?",
+      "reviewOptions": [
+        "20",
+        "25",
+        "40",
+        "10"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de porcentagem."
+    }
+  ]
+}

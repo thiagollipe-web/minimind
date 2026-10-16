@@ -1,0 +1,183 @@
+package com.brittech.minibuddy;
+import android.Manifest;
+import android.app.*;
+import android.content.*;
+import android.graphics.Color;
+import android.media.projection.*;
+import android.net.Uri;
+import android.os.*;
+import android.provider.Settings;
+import android.view.*;
+import android.widget.*;
+import org.json.*;
+import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.util.Locale;
+import java.util.concurrent.*;
+
+public final class MainActivity extends Activity {
+    private Session session;private LinearLayout content;private TextView stats,output,message;
+    private EditText text,query;private RobotView preview;private Button learning;private Spinner action;
+    private final Handler ui=new Handler(Looper.getMainLooper());
+    private final ExecutorService io=Executors.newSingleThreadExecutor();
+    private boolean pendingProjection;
+    private static final int CAPTURE=101,IMPORT=102,EXPORT=103;
+    interface Task {String run()throws Exception;}
+    private int dp(float n){return Math.round(n*getResources().getDisplayMetrics().density);}
+    @Override public void onCreate(Bundle state){
+        super.onCreate(state);session=Session.get(this);
+        setVolumeControlStream(android.media.AudioManager.STREAM_MUSIC);
+        getWindow().setStatusBarColor(0xff121525);getWindow().setNavigationBarColor(0xff121525);
+        ScrollView scroll=new ScrollView(this);scroll.setFillViewport(true);
+        content=new LinearLayout(this);content.setOrientation(LinearLayout.VERTICAL);content.setPadding(dp(20),dp(20),dp(20),dp(28));content.setBackgroundColor(0xff121525);
+        scroll.addView(content);setContentView(scroll);
+        if(Build.VERSION.SDK_INT>=30){
+            scroll.setOnApplyWindowInsetsListener((view,insets)->{
+                android.graphics.Insets bars=insets.getInsets(WindowInsets.Type.systemBars()|WindowInsets.Type.displayCutout());
+                scroll.setPadding(bars.left,bars.top,bars.right,bars.bottom);return insets;
+            });scroll.requestApplyInsets();
+        }
+        title(SubjectConfig.load(this).nickname()+" • "+SubjectConfig.load(this).name(),27);
+        button("Estudar, ensinar e ver aprendizagem",()->startActivity(new Intent(this,EducationActivity.class)));label("Brittech.inc • bichinho virtual com missões offline",14);
+        button("Cuidados, missões e o que aprendi",()->startActivity(new Intent(this,MissionsActivity.class)));
+        preview=new RobotView(this,session,new RobotView.Gestures(){
+            public void pet(){session.pet();Chirps.play(session);}
+            public void drag(float dx,float dy){}
+            public void menu(){toast("No mascote flutuante: segure para abrir este painel.");}
+            public void positionSaved(){}
+        });
+        LinearLayout.LayoutParams previewParams=new LinearLayout.LayoutParams(dp(140),dp(156));previewParams.gravity=Gravity.CENTER_HORIZONTAL;content.addView(preview,previewParams);
+        stats=label("Carregando indicadores…",14);message=label(session.message,14);
+        button("1 · Permitir aparecer sobre outros apps",()->{
+            try{startActivity(new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION,Uri.parse("package:"+getPackageName())));}catch(Exception e){toast("Abra as configurações de permissões do MiniBuddy: "+e.getMessage());}
+        });
+        button("2 · Mostrar mascote flutuante",()->startOverlay(false));
+        label("Posição na tela",16);
+        button("Colocar no lado esquerdo",()->position("LEFT"));
+        button("Colocar no lado direito",()->position("RIGHT"));
+        button("Colocar no centro",()->position("CENTER"));
+        button("Observar tela — pedir autorização",this::capture);
+        button("Pausar captura / demonstração",()->{stopService(new Intent(this,CaptureService.class));session.mode("pausado");session.message="Observação pausada; carinho e memória continuam disponíveis.";});
+        button("Demonstração visual",()->startOverlay(true));
+        learning=button("Aprendizagem",()->session.setLearning(!session.learning));
+        Switch mute=new Switch(this);mute.setText("Silenciar sons");mute.setTextColor(Color.WHITE);mute.setChecked(session.prefs.getBoolean("muted",false));mute.setOnCheckedChangeListener((v,checked)->session.prefs.edit().putBoolean("muted",checked).apply());content.addView(mute);
+        label("Volume dos sons do robô",14);
+        SeekBar volume=new SeekBar(this);volume.setMax(100);volume.setProgress(Math.round(session.prefs.getFloat("volume",.8f)*100));
+        volume.setContentDescription("Volume dos sons do robô");
+        volume.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener(){
+            public void onProgressChanged(SeekBar bar,int value,boolean user){if(user)session.prefs.edit().putFloat("volume",value/100f).apply();}
+            public void onStartTrackingTouch(SeekBar bar){}
+            public void onStopTrackingTouch(SeekBar bar){}
+        });content.addView(volume);
+        label("Sons usam o volume de mídia. O botão lateral do celular ajusta esse volume neste painel.",12);
+        button("Testar som",()->{
+            android.media.AudioManager audio=getSystemService(android.media.AudioManager.class);
+            if(session.prefs.getBoolean("muted",false)){toast("Desative Silenciar sons primeiro.");return;}
+            if(session.prefs.getFloat("volume",.8f)<=0){toast("Aumente o controle de volume do robô.");return;}
+            if(audio.getStreamVolume(android.media.AudioManager.STREAM_MUSIC)==0){toast("O volume de mídia do celular está em zero. Aumente pelo botão lateral.");return;}
+            Chirps.play(session);
+        });
+        label("Tamanho do mascote flutuante",14);
+        Spinner sizes=new Spinner(this);sizes.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,new String[]{"80 dp — bem pequeno","100 dp — pequeno","130 dp — maior"}));
+        int size=session.prefs.getInt("size",100);sizes.setSelection(size==80?0:size==130?2:1);
+        sizes.setOnItemSelectedListener(new android.widget.AdapterView.OnItemSelectedListener(){
+            public void onNothingSelected(android.widget.AdapterView<?> p){}
+            public void onItemSelected(android.widget.AdapterView<?> p,View v,int position,long id){session.prefs.edit().putInt("size",new int[]{80,100,130}[position]).apply();}
+        });content.addView(sizes);label("O tamanho é aplicado ao fechar e mostrar novamente o mascote.",12);
+        title("Perguntas do aprendiz",20);
+        Switch questions=new Switch(this);questions.setText("Perguntar enquanto o mascote está ativo (silêncio 22h–7h)");questions.setTextColor(Color.WHITE);questions.setChecked(session.prefs.getBoolean("study_questions",false));questions.setOnCheckedChangeListener((v,on)->session.prefs.edit().putBoolean("study_questions",on).putLong("last_study_question",System.currentTimeMillis()).apply());content.addView(questions);
+        Spinner intervals=new Spinner(this);intervals.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,new String[]{"A cada 1 hora","A cada 3 horas","A cada 6 horas"}));int hours=session.prefs.getInt("study_hours",3);intervals.setSelection(hours==1?0:hours==6?2:1);intervals.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener(){public void onNothingSelected(AdapterView<?> p){}public void onItemSelected(AdapterView<?> p,View v,int n,long id){session.prefs.edit().putInt("study_hours",new int[]{1,3,6}[n]).apply();}});content.addView(intervals);
+        label("Segure o mascote ou toque em ⋯ para responder no balão. Perguntas automáticas dependem do serviço ativo; não há garantia de execução 24h pelo Android.",12);
+        title("Reações e carinho",20);
+        button("A reação foi útil (+1)",()->toast(session.rate(1)?"Preferência atualizada":"Ative observação e aprendizagem; aguarde uma ação ainda não avaliada."));
+        button("A reação foi inadequada (−1)",()->toast(session.rate(-1)?"Preferência atualizada":"Sem ação disponível ou aprendizagem congelada."));
+        action=new Spinner(this);action.setAdapter(new ArrayAdapter<>(this,android.R.layout.simple_spinner_dropdown_item,MemoryDb.ACTIONS));content.addView(action);
+        button("Ensinar reação preferida",()->{
+            if(!session.learning||session.mode.equals("pausado")){toast("Ative a aprendizagem e uma observação primeiro.");return;}
+            MemoryDb.Decision d=session.memory.suggest(TextTools.features(session.context,session.result!=null&&session.result.activity>.008f?"movimento":"estavel",session.mode),"Observando",false);
+            d.action=MemoryDb.ACTIONS[action.getSelectedItemPosition()];session.decision=d;session.rate(1);toast("Preferência registrada.");
+        });
+        title("Memória textual",20);
+        label("Digite ou cole um texto. Salvar também o usa como contexto das reações.",14);
+        text=new EditText(this);text.setHint("Nome, projeto, conversa ou anotação…");text.setMinLines(3);text.setGravity(Gravity.TOP);text.setMaxLines(8);text.setInputType(android.text.InputType.TYPE_CLASS_TEXT|android.text.InputType.TYPE_TEXT_FLAG_MULTI_LINE);content.addView(text);
+        button("Salvar texto e usar como contexto",()->{String value=text.getText().toString().trim();runIO(()->{long id=session.memory.saveNote(value,"Texto registrado no Android");session.setContext(value);return "Texto #"+id+" salvo e contexto ativado.";});});
+        button("Limpar contexto ativo",()->{session.setContext("");toast("Contexto limpo. Seus registros continuam salvos.");});
+        query=new EditText(this);query.setSingleLine(true);query.setHint("Pesquisar palavras na memória");query.setContentDescription("Pesquisar palavras na memória");content.addView(query);
+        button("Pesquisar / ver registros recentes",()->{String q=query.getText().toString();runIO(()->session.memory.search(q),true);});
+        output=label("Os registros encontrados aparecerão aqui.",14);output.setTextIsSelectable(true);
+        button("Carregar conceitos iniciais da matéria",()->runIO(()->{
+            try(InputStream stream=getAssets().open("pack_subject.json")){int n=session.memory.importNotes(new JSONObject(readText(stream)));return n+" registros novos importados; duplicados preservados uma única vez.";}
+        }));
+        button("Importar pack JSON do Windows / celular",()->{
+            Intent intent=new Intent(Intent.ACTION_OPEN_DOCUMENT).setType("application/json").addCategory(Intent.CATEGORY_OPENABLE);startActivityForResult(intent,IMPORT);
+        });
+        button("Exportar memória textual JSON",()->startActivityForResult(new Intent(Intent.ACTION_CREATE_DOCUMENT).setType("application/json").addCategory(Intent.CATEGORY_OPENABLE).putExtra(Intent.EXTRA_TITLE,"MiniBuddy_Memoria_Textual.json"),EXPORT));
+        title("Uso e controle",20);
+        label("No mascote: toque para carinho; arraste pelo corpo inteiro para mover. Segure por um instante ou toque em ⋯ para abrir este painel. A captura pausa enquanto o painel está aberto.",14);
+        label("STDP aprende regularidades visuais. Textos são pesquisados por palavras. Reações aprendem com avaliações. Não há LLM, OCR ou leitura automática de conversas.",14);
+        button("Recolher painel",()->moveTaskToBack(true));
+        button("Encerrar mascote e salvar",()->{
+            stopService(new Intent(this,CaptureService.class));stopService(new Intent(this,OverlayService.class));session.mode("pausado");runIO(()->{session.save();return "Serviços encerrados e memória visual salva.";});
+        });
+        if(Build.VERSION.SDK_INT>=33&&checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS)!=android.content.pm.PackageManager.PERMISSION_GRANTED)requestPermissions(new String[]{Manifest.permission.POST_NOTIFICATIONS},9);
+    }
+    private void position(String side){
+        if(!Settings.canDrawOverlays(this)){toast("Permita aparecer sobre outros apps primeiro.");return;}
+        startForegroundService(new Intent(this,OverlayService.class).setAction("MOVE_"+side));
+        toast("Posição atualizada. Recolha o painel para conferir.");
+    }
+    private void startOverlay(boolean demo){
+        if(!Settings.canDrawOverlays(this)){toast("Primeiro permita aparecer sobre outros apps.");return;}
+        startForegroundService(new Intent(this,OverlayService.class).setAction(demo?"DEMO":"SHOW"));
+        if(demo)toast("Demonstração iniciada. Pode recolher o painel.");else toast("Mascote ativado. Toque nele para fazer carinho.");
+    }
+    private void capture(){
+        if(pendingProjection){toast("Aguarde a autorização em andamento.");return;}
+        if(session.mode.equals("tela")){toast("A captura já está ativa. Recolha o painel para observar outros apps.");return;}
+        MediaProjectionManager manager=getSystemService(MediaProjectionManager.class);
+        Intent consent=Build.VERSION.SDK_INT>=34?manager.createScreenCaptureIntent(MediaProjectionConfig.createConfigForDefaultDisplay()):manager.createScreenCaptureIntent();
+        pendingProjection=true;startActivityForResult(consent,CAPTURE);
+    }
+    @Override protected void onActivityResult(int request,int result,Intent data){
+        super.onActivityResult(request,result,data);
+        if(request==CAPTURE){
+            pendingProjection=false;
+            if(result==RESULT_OK&&data!=null){
+                try{startForegroundService(new Intent(this,CaptureService.class).putExtra("result",result).putExtra("consent",data));toast("Captura autorizada. Recolha o painel para aprender com outros apps.");}
+                catch(Exception e){toast("Não foi possível iniciar captura: "+e.getMessage());}
+            }else toast("Captura não autorizada. O mascote continua utilizável.");
+        }else if(result==RESULT_OK&&data!=null&&data.getData()!=null){
+            final Uri uri=data.getData();
+            if(request==IMPORT)runIO(()->{try(InputStream in=getContentResolver().openInputStream(uri)){
+                return session.memory.importNotes(new JSONObject(readText(in)))+" registros novos importados.";}});
+            if(request==EXPORT)runIO(()->{String json=session.memory.exportNotes().toString(2);
+                try(OutputStream out=getContentResolver().openOutputStream(uri,"wt")){if(out==null)throw new IOException("Destino indisponível");out.write(json.getBytes(StandardCharsets.UTF_8));}
+                return "Memória textual exportada. Pesos visuais e preferências não fazem parte deste JSON.";});
+        }
+    }
+    private static String readText(InputStream in)throws IOException{
+        if(in==null)throw new IOException("Arquivo indisponível");ByteArrayOutputStream out=new ByteArrayOutputStream();byte[] b=new byte[8192];int n;
+        while((n=in.read(b))!=-1){if(out.size()+n>5*1024*1024)throw new IOException("Limite de 5 MiB por arquivo");out.write(b,0,n);}return new String(out.toByteArray(),StandardCharsets.UTF_8);
+    }
+    private void runIO(Task task){runIO(task,false);}
+    private void runIO(Task task,boolean isSearch){
+        io.submit(()->{String result;try{result=task.run();}catch(Exception e){result="Erro: "+e.getMessage();}final String response=result;
+            runOnUiThread(()->{if(isDestroyed())return;if(isSearch)output.setText(response);else{session.message=response;toast(response);}});
+        });
+    }
+    private void title(String text,int size){TextView view=label(text,size);view.setTypeface(null,android.graphics.Typeface.BOLD);view.setPadding(0,dp(18),0,dp(8));}
+    private TextView label(String text,int size){TextView view=new TextView(this);view.setText(text);view.setTextSize(size);view.setTextColor(0xffe9e6fa);view.setPadding(0,dp(5),0,dp(5));content.addView(view);return view;}
+    private Button button(String text,Runnable action){Button view=new Button(this);view.setText(text);view.setAllCaps(false);view.setOnClickListener(v->action.run());content.addView(view,new LinearLayout.LayoutParams(-1,-2));return view;}
+    private void toast(String text){Toast.makeText(this,text,Toast.LENGTH_LONG).show();}
+    private final Runnable refresh=new Runnable(){public void run(){
+        Brain.Result r=session.result;
+        String display=session.care.summary()+"\n\nModo: "+session.mode+" • visual: "+session.visualMood()+"\n";
+        if(r!=null)display+=String.format(Locale.getDefault(),"%d capturas • %d spikes/janela\n%d/128 protótipos • semelhança %.0f%%\n",r.frames,r.spikes,r.patterns,r.similarity*100);
+        display+="Memória: "+session.memory.count("notes")+" textos • "+session.memory.count("feedback")+" avaliações\n"+session.memory.count("interactions")+" carinhos";
+        if(session.decision!=null)display+="\nAção para avaliar: "+session.decision.action;
+        stats.setText(display);message.setText(session.message);learning.setText(session.learning?"Aprendizagem: ligada":"Aprendizagem: congelada");preview.invalidate();ui.postDelayed(this,1000);
+    }};
+    @Override protected void onResume(){super.onResume();session.uiVisible=true;ui.removeCallbacks(refresh);ui.post(refresh);}
+    @Override protected void onPause(){session.uiVisible=false;ui.removeCallbacks(refresh);super.onPause();}
+    @Override protected void onDestroy(){ui.removeCallbacksAndMessages(null);io.shutdown();super.onDestroy();}
+}

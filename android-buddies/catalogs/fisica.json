@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "fisica",
+  "name": "Física",
+  "nickname": "Volt",
+  "color": "#76A5AF",
+  "questions": [
+    {
+      "id": "fisica_0",
+      "skill": "velocidade",
+      "question": "Um móvel percorre 100 m em 20 s. Qual é a velocidade escalar média?",
+      "options": [
+        "5 m/s",
+        "20 m/s",
+        "2 m/s",
+        "50 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Divida a distância total pelo intervalo de tempo: 100/20.",
+      "hint": "Identifique o conceito de velocidade antes de escolher.",
+      "example": "Divida a distância total pelo intervalo de tempo: 100/20.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de velocidade.",
+      "reviewQuestion": "Um móvel percorre 60 m em 10 s. Qual é a velocidade escalar média?",
+      "reviewOptions": [
+        "6 m/s",
+        "60 m/s",
+        "10 m/s",
+        "0,6 m/s"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de velocidade."
+    },
+    {
+      "id": "fisica_1",
+      "skill": "força",
+      "question": "Uma força resultante de 10 N atua em massa de 2 kg. Qual é a aceleração?",
+      "options": [
+        "5 m/s²",
+        "20 m/s²",
+        "2 m/s²",
+        "10 m/s²"
+      ],
+      "answer": 0,
+      "explanation": "Pela segunda lei de Newton, F = ma.",
+      "hint": "Identifique o conceito de força antes de escolher.",
+      "example": "Pela segunda lei de Newton, F = ma.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de força.",
+      "reviewQuestion": "Uma força resultante de 12 N atua em massa de 3 kg. Qual é a aceleração?",
+      "reviewOptions": [
+        "4 m/s²",
+        "36 m/s²",
+        "9 m/s²",
+        "15 m/s²"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de força."
+    },
+    {
+      "id": "fisica_2",
+      "skill": "eletricidade",
+      "question": "Qual é a unidade SI de corrente elétrica?",
+      "options": [
+        "ampere",
+        "volt",
+        "ohm",
+        "watt"
+      ],
+      "answer": 0,
+      "explanation": "Ampere mede corrente; volt mede diferença de potencial.",
+      "hint": "Identifique o conceito de eletricidade antes de escolher.",
+      "example": "Ampere mede corrente; volt mede diferença de potencial.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de eletricidade.",
+      "reviewQuestion": "Qual é a unidade SI de resistência elétrica?",
+      "reviewOptions": [
+        "ohm",
+        "ampere",
+        "volt",
+        "joule"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de eletricidade."
+    }
+  ]
+}

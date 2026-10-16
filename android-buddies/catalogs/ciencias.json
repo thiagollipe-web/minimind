@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "ciencias",
+  "name": "Ciências",
+  "nickname": "Nino",
+  "color": "#B6D7A8",
+  "questions": [
+    {
+      "id": "ciencias_0",
+      "skill": "água",
+      "question": "Como se chama a passagem do líquido ao gasoso?",
+      "options": [
+        "vaporização",
+        "fusão",
+        "solidificação",
+        "condensação"
+      ],
+      "answer": 0,
+      "explanation": "Vaporização é a mudança do estado líquido para o gasoso.",
+      "hint": "Identifique o conceito de água antes de escolher.",
+      "example": "Vaporização é a mudança do estado líquido para o gasoso.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de água.",
+      "reviewQuestion": "Como se chama a passagem do gasoso ao líquido?",
+      "reviewOptions": [
+        "condensação",
+        "fusão",
+        "vaporização",
+        "sublimação"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de água."
+    },
+    {
+      "id": "ciencias_1",
+      "skill": "ecologia",
+      "question": "Em uma cadeia alimentar, quem produz matéria orgânica a partir de fontes inorgânicas?",
+      "options": [
+        "produtores",
+        "consumidores primários",
+        "consumidores secundários",
+        "todos os animais"
+      ],
+      "answer": 0,
+      "explanation": "Produtores, como plantas, sintetizam matéria orgânica.",
+      "hint": "Identifique o conceito de ecologia antes de escolher.",
+      "example": "Produtores, como plantas, sintetizam matéria orgânica.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de ecologia.",
+      "reviewQuestion": "Em uma cadeia simples, o herbívoro ocupa qual posição?",
+      "reviewOptions": [
+        "consumidor primário",
+        "produtor",
+        "consumidor terciário",
+        "fonte de luz"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de ecologia."
+    },
+    {
+      "id": "ciencias_2",
+      "skill": "terra",
+      "question": "Qual movimento da Terra explica a alternância entre dia e noite?",
+      "options": [
+        "rotação",
+        "translação",
+        "precessão",
+        "expansão"
+      ],
+      "answer": 0,
+      "explanation": "A Terra gira em torno de seu eixo.",
+      "hint": "Identifique o conceito de terra antes de escolher.",
+      "example": "A Terra gira em torno de seu eixo.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de terra.",
+      "reviewQuestion": "Qual movimento corresponde à órbita da Terra em torno do Sol?",
+      "reviewOptions": [
+        "translação",
+        "rotação",
+        "erosão",
+        "evaporação"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de terra."
+    }
+  ]
+}

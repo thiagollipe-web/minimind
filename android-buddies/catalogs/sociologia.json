@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "sociologia",
+  "name": "Sociologia",
+  "nickname": "Soci",
+  "color": "#C27BA0",
+  "questions": [
+    {
+      "id": "sociologia_0",
+      "skill": "socialização",
+      "question": "Socialização é o processo de:",
+      "options": [
+        "aprender práticas e normas sociais",
+        "herdar apenas genes",
+        "eliminar diferenças humanas",
+        "medir temperatura"
+      ],
+      "answer": 0,
+      "explanation": "Pessoas aprendem modos de agir e significados nas relações sociais.",
+      "hint": "Identifique o conceito de socialização antes de escolher.",
+      "example": "Pessoas aprendem modos de agir e significados nas relações sociais.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de socialização.",
+      "reviewQuestion": "Qual é um agente de socialização?",
+      "reviewOptions": [
+        "escola",
+        "gravidade",
+        "rotação terrestre",
+        "pressão atmosférica"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de socialização."
+    },
+    {
+      "id": "sociologia_1",
+      "skill": "cultura",
+      "question": "Etnocentrismo consiste em:",
+      "options": [
+        "julgar outras culturas pelos padrões da própria",
+        "compreender todo contexto antes de julgar",
+        "suspender qualquer análise",
+        "negar a própria cultura"
+      ],
+      "answer": 0,
+      "explanation": "O etnocentrismo toma a própria cultura como referência superior ou universal.",
+      "hint": "Identifique o conceito de cultura antes de escolher.",
+      "example": "O etnocentrismo toma a própria cultura como referência superior ou universal.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de cultura.",
+      "reviewQuestion": "Uma abordagem contextual de outra cultura procura:",
+      "reviewOptions": [
+        "compreender práticas em seu contexto",
+        "supor inferioridade desde o início",
+        "ignorar significados",
+        "usar apenas o próprio costume"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de cultura."
+    },
+    {
+      "id": "sociologia_2",
+      "skill": "pesquisa",
+      "question": "Uma amostra enviesada pode:",
+      "options": [
+        "distorcer conclusões sobre a população",
+        "garantir representatividade",
+        "eliminar toda incerteza",
+        "substituir evidências"
+      ],
+      "answer": 0,
+      "explanation": "Selecionar só um grupo pode excluir perspectivas relevantes.",
+      "hint": "Identifique o conceito de pesquisa antes de escolher.",
+      "example": "Selecionar só um grupo pode excluir perspectivas relevantes.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de pesquisa.",
+      "reviewQuestion": "Para generalizar uma pesquisa, é preciso avaliar:",
+      "reviewOptions": [
+        "a seleção da amostra",
+        "apenas a cor do gráfico",
+        "somente o título",
+        "o gosto do pesquisador"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de pesquisa."
+    }
+  ]
+}

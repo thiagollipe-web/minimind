@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "biologia",
+  "name": "Biologia",
+  "nickname": "Bia",
+  "color": "#6AA84F",
+  "questions": [
+    {
+      "id": "biologia_0",
+      "skill": "célula",
+      "question": "Qual estrutura delimita todas as células?",
+      "options": [
+        "membrana plasmática",
+        "parede de celulose",
+        "núcleo",
+        "cloroplasto"
+      ],
+      "answer": 0,
+      "explanation": "Todas as células possuem membrana; nem todas têm núcleo ou parede.",
+      "hint": "Identifique o conceito de célula antes de escolher.",
+      "example": "Todas as células possuem membrana; nem todas têm núcleo ou parede.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de célula.",
+      "reviewQuestion": "Uma célula procariótica não possui:",
+      "reviewOptions": [
+        "núcleo delimitado por membrana",
+        "membrana plasmática",
+        "ribossomos",
+        "material genético"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de célula."
+    },
+    {
+      "id": "biologia_1",
+      "skill": "genética",
+      "question": "Qual molécula é o principal material hereditário dos organismos celulares?",
+      "options": [
+        "DNA",
+        "água",
+        "amido",
+        "glicose"
+      ],
+      "answer": 0,
+      "explanation": "O DNA armazena informação genética nos organismos celulares.",
+      "hint": "Identifique o conceito de genética antes de escolher.",
+      "example": "O DNA armazena informação genética nos organismos celulares.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de genética.",
+      "reviewQuestion": "No DNA, adenina se emparelha usualmente com:",
+      "reviewOptions": [
+        "timina",
+        "uracila",
+        "guanina",
+        "citosina"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de genética."
+    },
+    {
+      "id": "biologia_2",
+      "skill": "fotossíntese",
+      "question": "Na fotossíntese oxigênica, a energia luminosa é usada para:",
+      "options": [
+        "sintetizar matéria orgânica",
+        "criar átomos do nada",
+        "eliminar toda respiração",
+        "transformar luz em DNA diretamente"
+      ],
+      "answer": 0,
+      "explanation": "A fotossíntese converte energia luminosa em energia química.",
+      "hint": "Identifique o conceito de fotossíntese antes de escolher.",
+      "example": "A fotossíntese converte energia luminosa em energia química.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de fotossíntese.",
+      "reviewQuestion": "Qual organela realiza fotossíntese nas células das plantas?",
+      "reviewOptions": [
+        "cloroplasto",
+        "lisossomo",
+        "ribossomo",
+        "centríolo"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de fotossíntese."
+    }
+  ]
+}

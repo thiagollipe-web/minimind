@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "historia",
+  "name": "História",
+  "nickname": "Clio",
+  "color": "#D5A675",
+  "questions": [
+    {
+      "id": "historia_0",
+      "skill": "fontes",
+      "question": "Qual exemplo é uma fonte histórica escrita?",
+      "options": [
+        "carta de época",
+        "rocha sem contexto humano",
+        "previsão imaginária",
+        "opinião sem registro"
+      ],
+      "answer": 0,
+      "explanation": "Cartas podem ser examinadas como registros, considerando autoria e contexto.",
+      "hint": "Identifique o conceito de fontes antes de escolher.",
+      "example": "Cartas podem ser examinadas como registros, considerando autoria e contexto.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de fontes.",
+      "reviewQuestion": "Ao analisar uma carta histórica, o que é necessário considerar?",
+      "reviewOptions": [
+        "autoria e contexto",
+        "apenas o tamanho",
+        "somente a cor",
+        "ignorar o destinatário"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de fontes."
+    },
+    {
+      "id": "historia_1",
+      "skill": "brasil",
+      "question": "Em que ano foi proclamada a República no Brasil?",
+      "options": [
+        "1889",
+        "1822",
+        "1500",
+        "1930"
+      ],
+      "answer": 0,
+      "explanation": "A proclamação da República ocorreu em 15 de novembro de 1889.",
+      "hint": "Identifique o conceito de brasil antes de escolher.",
+      "example": "A proclamação da República ocorreu em 15 de novembro de 1889.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de brasil.",
+      "reviewQuestion": "Em que ano ocorreu a independência política do Brasil, tradicionalmente marcada pelo 7 de setembro?",
+      "reviewOptions": [
+        "1822",
+        "1889",
+        "1500",
+        "1945"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de brasil."
+    },
+    {
+      "id": "historia_2",
+      "skill": "periodização",
+      "question": "A divisão da história em períodos é:",
+      "options": [
+        "uma construção interpretativa",
+        "uma lei física",
+        "igual em todas as culturas",
+        "independente de critérios"
+      ],
+      "answer": 0,
+      "explanation": "Periodizações dependem de critérios e recortes; não são universais.",
+      "hint": "Identifique o conceito de periodização antes de escolher.",
+      "example": "Periodizações dependem de critérios e recortes; não são universais.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de periodização.",
+      "reviewQuestion": "Por que comparar diferentes periodizações?",
+      "reviewOptions": [
+        "para compreender critérios e perspectivas",
+        "para eliminar todas as fontes",
+        "para fixar uma única cultura",
+        "para ignorar mudanças"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de periodização."
+    }
+  ]
+}

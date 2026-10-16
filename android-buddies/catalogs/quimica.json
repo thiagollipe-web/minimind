@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "quimica",
+  "name": "Química",
+  "nickname": "Atom",
+  "color": "#E69138",
+  "questions": [
+    {
+      "id": "quimica_0",
+      "skill": "átomo",
+      "question": "O número atômico corresponde ao número de:",
+      "options": [
+        "prótons",
+        "nêutrons",
+        "prótons mais nêutrons",
+        "ligações"
+      ],
+      "answer": 0,
+      "explanation": "O número de prótons identifica o elemento químico.",
+      "hint": "Identifique o conceito de átomo antes de escolher.",
+      "example": "O número de prótons identifica o elemento químico.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de átomo.",
+      "reviewQuestion": "Átomos do mesmo elemento têm sempre o mesmo número de:",
+      "reviewOptions": [
+        "prótons",
+        "nêutrons",
+        "elétrons em qualquer íon",
+        "massa"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de átomo."
+    },
+    {
+      "id": "quimica_1",
+      "skill": "misturas",
+      "question": "Água e óleo em repouso formam, usualmente:",
+      "options": [
+        "mistura heterogênea",
+        "substância pura",
+        "mistura homogênea",
+        "elemento químico"
+      ],
+      "answer": 0,
+      "explanation": "Duas fases distinguíveis caracterizam a mistura heterogênea neste exemplo.",
+      "hint": "Identifique o conceito de misturas antes de escolher.",
+      "example": "Duas fases distinguíveis caracterizam a mistura heterogênea neste exemplo.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de misturas.",
+      "reviewQuestion": "Sal totalmente dissolvido em água forma:",
+      "reviewOptions": [
+        "mistura homogênea",
+        "elemento puro",
+        "mistura com duas fases sólidas",
+        "composto metálico"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de misturas."
+    },
+    {
+      "id": "quimica_2",
+      "skill": "reações",
+      "question": "Balanceie: __ H₂ + __ O₂ → __ H₂O.",
+      "options": [
+        "2, 1, 2",
+        "1, 1, 1",
+        "1, 2, 1",
+        "2, 2, 1"
+      ],
+      "answer": 0,
+      "explanation": "Conserve a quantidade de átomos de cada elemento nos dois lados.",
+      "hint": "Identifique o conceito de reações antes de escolher.",
+      "example": "Conserve a quantidade de átomos de cada elemento nos dois lados.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de reações.",
+      "reviewQuestion": "Na equação 2 H₂ + O₂ → 2 H₂O, quantos átomos de H aparecem em cada lado?",
+      "reviewOptions": [
+        "4",
+        "2",
+        "1",
+        "8"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de reações."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "geografia",
+  "name": "Geografia",
+  "nickname": "Geo",
+  "color": "#93C47D",
+  "questions": [
+    {
+      "id": "geografia_0",
+      "skill": "coordenadas",
+      "question": "Latitude mede distância angular em relação a qual referência?",
+      "options": [
+        "Equador",
+        "Greenwich",
+        "Trópico de Capricórnio",
+        "polo norte"
+      ],
+      "answer": 0,
+      "explanation": "Latitude varia de 0 a 90 graus ao norte ou sul do Equador.",
+      "hint": "Identifique o conceito de coordenadas antes de escolher.",
+      "example": "Latitude varia de 0 a 90 graus ao norte ou sul do Equador.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de coordenadas.",
+      "reviewQuestion": "Longitude usa como referência principal qual meridiano?",
+      "reviewOptions": [
+        "Greenwich",
+        "Equador",
+        "Câncer",
+        "Capricórnio"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de coordenadas."
+    },
+    {
+      "id": "geografia_1",
+      "skill": "escala",
+      "question": "Em escala 1:100.000, 1 cm representa quanto no terreno?",
+      "options": [
+        "1 km",
+        "100 km",
+        "10 m",
+        "100 m"
+      ],
+      "answer": 0,
+      "explanation": "100.000 cm equivalem a 1.000 m ou 1 km.",
+      "hint": "Identifique o conceito de escala antes de escolher.",
+      "example": "100.000 cm equivalem a 1.000 m ou 1 km.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de escala.",
+      "reviewQuestion": "Em escala 1:50.000, 2 cm representam quanto no terreno?",
+      "reviewOptions": [
+        "1 km",
+        "50 km",
+        "100 m",
+        "10 km"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de escala."
+    },
+    {
+      "id": "geografia_2",
+      "skill": "clima",
+      "question": "Qual alternativa descreve tempo atmosférico?",
+      "options": [
+        "condições atmosféricas de um momento",
+        "média climática de décadas",
+        "tipo de rocha",
+        "movimento das placas"
+      ],
+      "answer": 0,
+      "explanation": "Tempo descreve condições de curto prazo; clima considera padrões de longo prazo.",
+      "hint": "Identifique o conceito de clima antes de escolher.",
+      "example": "Tempo descreve condições de curto prazo; clima considera padrões de longo prazo.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de clima.",
+      "reviewQuestion": "Qual informação é mais adequada para caracterizar o clima?",
+      "reviewOptions": [
+        "série de observações ao longo de décadas",
+        "chuva desta manhã",
+        "temperatura de um minuto",
+        "vento de uma tarde"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de clima."
+    }
+  ]
+}

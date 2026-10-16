@@ -1,0 +1,12 @@
+build-family/
+build-manual/
+dist/
+signing/
+test-classes/
+__pycache__/
+*.apk
+*.idsig
+*.db
+*.db-shm
+*.db-wal
+*.bin

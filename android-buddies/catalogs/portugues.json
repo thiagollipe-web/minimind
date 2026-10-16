@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "portugues",
+  "name": "Português",
+  "nickname": "Lumi",
+  "color": "#D7BDE2",
+  "questions": [
+    {
+      "id": "portugues_0",
+      "skill": "classes",
+      "question": "Na frase “A menina corre”, qual é o verbo?",
+      "options": [
+        "corre",
+        "menina",
+        "A",
+        "A menina"
+      ],
+      "answer": 0,
+      "explanation": "O verbo corre expressa a ação na frase.",
+      "hint": "Identifique o conceito de classes antes de escolher.",
+      "example": "O verbo corre expressa a ação na frase.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de classes.",
+      "reviewQuestion": "Na frase “Pedro leu um livro”, qual é o verbo?",
+      "reviewOptions": [
+        "leu",
+        "Pedro",
+        "livro",
+        "um"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de classes."
+    },
+    {
+      "id": "portugues_1",
+      "skill": "acentuação",
+      "question": "Qual palavra é proparoxítona?",
+      "options": [
+        "médico",
+        "café",
+        "papel",
+        "casa"
+      ],
+      "answer": 0,
+      "explanation": "Em médico, a sílaba tônica é a antepenúltima.",
+      "hint": "Identifique o conceito de acentuação antes de escolher.",
+      "example": "Em médico, a sílaba tônica é a antepenúltima.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de acentuação.",
+      "reviewQuestion": "Qual palavra é oxítona?",
+      "reviewOptions": [
+        "café",
+        "médico",
+        "árvore",
+        "lâmpada"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de acentuação."
+    },
+    {
+      "id": "portugues_2",
+      "skill": "concordância",
+      "question": "Qual frase tem concordância verbal adequada?",
+      "options": [
+        "As crianças brincam.",
+        "As crianças brinca.",
+        "As criança brincam.",
+        "A crianças brinca."
+      ],
+      "answer": 0,
+      "explanation": "Sujeito plural exige verbo no plural neste caso.",
+      "hint": "Identifique o conceito de concordância antes de escolher.",
+      "example": "Sujeito plural exige verbo no plural neste caso.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de concordância.",
+      "reviewQuestion": "Complete: Os alunos ___.",
+      "reviewOptions": [
+        "estudam",
+        "estuda",
+        "estudamos",
+        "estudais"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de concordância."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "filosofia",
+  "name": "Filosofia",
+  "nickname": "Sofia",
+  "color": "#8E7CC3",
+  "questions": [
+    {
+      "id": "filosofia_0",
+      "skill": "argumentação",
+      "question": "Uma conclusão em um argumento é:",
+      "options": [
+        "a afirmação sustentada pelas premissas",
+        "sempre uma pergunta",
+        "qualquer insulto",
+        "uma definição sem contexto"
+      ],
+      "answer": 0,
+      "explanation": "Premissas oferecem razões para aceitar uma conclusão.",
+      "hint": "Identifique o conceito de argumentação antes de escolher.",
+      "example": "Premissas oferecem razões para aceitar uma conclusão.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de argumentação.",
+      "reviewQuestion": "Qual parte oferece razões em um argumento?",
+      "reviewOptions": [
+        "premissas",
+        "apenas a pontuação",
+        "o nome do autor",
+        "o tamanho do texto"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de argumentação."
+    },
+    {
+      "id": "filosofia_1",
+      "skill": "ética",
+      "question": "Ética investiga principalmente:",
+      "options": [
+        "questões sobre agir, valores e justificação moral",
+        "apenas estruturas celulares",
+        "somente órbitas",
+        "apenas ortografia"
+      ],
+      "answer": 0,
+      "explanation": "A reflexão ética examina razões, princípios e consequências das ações.",
+      "hint": "Identifique o conceito de ética antes de escolher.",
+      "example": "A reflexão ética examina razões, princípios e consequências das ações.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de ética.",
+      "reviewQuestion": "Comparar razões morais para uma decisão é uma atividade de:",
+      "reviewOptions": [
+        "reflexão ética",
+        "medição elétrica",
+        "classificação mineral",
+        "conjugação verbal"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de ética."
+    },
+    {
+      "id": "filosofia_2",
+      "skill": "lógica",
+      "question": "Se todo A é B e x é A, o que se segue?",
+      "options": [
+        "x é B",
+        "todo B é A",
+        "x não é B",
+        "nenhum A é B"
+      ],
+      "answer": 0,
+      "explanation": "Aplicamos a afirmação geral ao caso x.",
+      "hint": "Identifique o conceito de lógica antes de escolher.",
+      "example": "Aplicamos a afirmação geral ao caso x.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de lógica.",
+      "reviewQuestion": "Se todo mamífero é vertebrado e uma baleia é mamífero, então:",
+      "reviewOptions": [
+        "a baleia é vertebrada",
+        "todo vertebrado é baleia",
+        "baleia é peixe",
+        "nenhum mamífero é vertebrado"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de lógica."
+    }
+  ]
+}

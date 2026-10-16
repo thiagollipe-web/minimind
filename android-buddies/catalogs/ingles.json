@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "ingles",
+  "name": "Inglês",
+  "nickname": "Pip",
+  "color": "#A7C7E7",
+  "questions": [
+    {
+      "id": "ingles_0",
+      "skill": "verbo be",
+      "question": "Complete: She ___ a teacher.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "Com she, he e it, use is no presente afirmativo.",
+      "hint": "Identifique o conceito de verbo be antes de escolher.",
+      "example": "Com she, he e it, use is no presente afirmativo.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de verbo be.",
+      "reviewQuestion": "Complete: He ___ happy.",
+      "reviewOptions": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de verbo be."
+    },
+    {
+      "id": "ingles_1",
+      "skill": "plural",
+      "question": "Qual é o plural de child?",
+      "options": [
+        "children",
+        "childs",
+        "childes",
+        "childrens"
+      ],
+      "answer": 0,
+      "explanation": "Child tem plural irregular: children.",
+      "hint": "Identifique o conceito de plural antes de escolher.",
+      "example": "Child tem plural irregular: children.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de plural.",
+      "reviewQuestion": "Qual é o singular de children?",
+      "reviewOptions": [
+        "child",
+        "children",
+        "childs",
+        "kidness"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de plural."
+    },
+    {
+      "id": "ingles_2",
+      "skill": "vocabulário",
+      "question": "Qual palavra significa livro?",
+      "options": [
+        "book",
+        "table",
+        "window",
+        "chair"
+      ],
+      "answer": 0,
+      "explanation": "Book significa livro; table significa mesa.",
+      "hint": "Identifique o conceito de vocabulário antes de escolher.",
+      "example": "Book significa livro; table significa mesa.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de vocabulário.",
+      "reviewQuestion": "Qual palavra significa janela?",
+      "reviewOptions": [
+        "window",
+        "book",
+        "table",
+        "chair"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de vocabulário."
+    }
+  ]
+}

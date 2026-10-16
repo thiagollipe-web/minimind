@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "espanhol",
+  "name": "Espanhol",
+  "nickname": "Sol",
+  "color": "#F6B26B",
+  "questions": [
+    {
+      "id": "espanhol_0",
+      "skill": "saudações",
+      "question": "Como se diz bom dia em espanhol?",
+      "options": [
+        "Buenos días",
+        "Buenas noches",
+        "Hasta luego",
+        "Gracias"
+      ],
+      "answer": 0,
+      "explanation": "Buenos días é a saudação da manhã.",
+      "hint": "Identifique o conceito de saudações antes de escolher.",
+      "example": "Buenos días é a saudação da manhã.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de saudações.",
+      "reviewQuestion": "Como se diz boa noite em espanhol?",
+      "reviewOptions": [
+        "Buenas noches",
+        "Buenos días",
+        "Gracias",
+        "Por favor"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de saudações."
+    },
+    {
+      "id": "espanhol_1",
+      "skill": "vocabulário",
+      "question": "O que significa perro?",
+      "options": [
+        "cachorro",
+        "gato",
+        "pássaro",
+        "cavalo"
+      ],
+      "answer": 0,
+      "explanation": "Perro significa cachorro; gato significa gato.",
+      "hint": "Identifique o conceito de vocabulário antes de escolher.",
+      "example": "Perro significa cachorro; gato significa gato.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de vocabulário.",
+      "reviewQuestion": "O que significa gato em espanhol?",
+      "reviewOptions": [
+        "gato",
+        "cachorro",
+        "cavalo",
+        "peixe"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de vocabulário."
+    },
+    {
+      "id": "espanhol_2",
+      "skill": "verbo ser",
+      "question": "Complete: Yo ___ estudiante.",
+      "options": [
+        "soy",
+        "eres",
+        "es",
+        "son"
+      ],
+      "answer": 0,
+      "explanation": "No presente do verbo ser, yo combina com soy.",
+      "hint": "Identifique o conceito de verbo ser antes de escolher.",
+      "example": "No presente do verbo ser, yo combina com soy.",
+      "guide": "Que informação da pergunta permite eliminar uma alternativa?",
+      "prerequisite": "Revise o significado dos termos de verbo ser.",
+      "reviewQuestion": "Complete: Tú ___ estudiante.",
+      "reviewOptions": [
+        "eres",
+        "soy",
+        "es",
+        "somos"
+      ],
+      "reviewAnswer": 0,
+      "teachQuestion": "Explique, com suas palavras e um exemplo, o conceito de verbo ser."
+    }
+  ]
+}
