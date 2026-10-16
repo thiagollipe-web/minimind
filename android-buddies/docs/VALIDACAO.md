@@ -1,0 +1,51 @@
+# Validação — 16/10/2026
+
+Executado neste ambiente com Python 3, JDK 17, plataforma Android 35 e ferramentas Android 35.0.0.
+
+| Verificação executada | Resultado |
+|---|---|
+| Compilação de todas as classes Java Android, geração de Dex e recursos | Passou |
+| Geração dos 12 APKs e verificação criptográfica das assinaturas | Passou |
+| Application IDs distintos e catálogo correto dentro de cada APK | Passou |
+| Ausência de permissão INTERNET em cada APK | Passou |
+| Núcleo STDP: spikes, pesos alterados, congelamento, limites e persistência | Passou; 83 spikes no cenário principal |
+| Gestos, limiar de arraste, bordas e controle de eventos de som | Passou em lógica pura; sem toque em aparelho |
+| Cuidados e missões com recompensa única | Passou em lógica pura |
+| Laboratório visual sintético | 12/12 antes e 12/12 depois; 14.585 pesos alterados, variação média 0,00002290; não comprova ganho de acurácia |
+| Política adaptativa com dados sintéticos | 18.211/20.000 escolhas da ação com melhor média; exploração e propensões verificadas |
+| Esquema e operações SQLite com perfis e recompensa única | Passou em SQLite de desktop; não executa a classe Android |
+| Estrutura dos catálogos | 12 matérias, 36 atividades + 36 revisões |
+| Geração de áudio PCM | Reações distintas; 8.379 amostras, pico 8.188 sem saturação |
+
+Não executados: instalação em dispositivo, testes de UI, audibilidade real, permissões em fabricantes diferentes, balão com teclado, rotação e encerramento do serviço pelo sistema, coordenação com todos os APKs instalados, desempenho/bateria em uso prolongado, restauração após atualização, avaliação pedagógica com estudantes, build remoto do workflow GitHub. O código foi compilado novamente após as mudanças do balão e coordenação.
+
+Para reproduzir os testes principais: `python tools/test_project.py`. Para o áudio, após o build, compile `tests/ChirpTest.java` usando o classpath da plataforma Android e `build-family/classes`, e execute a classe com o mesmo classpath.
+
+A assinatura é de desenvolvimento. Não há publicação na Play Store nem afirmação de prontidão para produção.
+
+## Atualização visual 0.2.0
+
+- Os testes principais foram executados novamente após a alteração e passaram.
+- `BuddyArtTest` verificou 12 geometrias diferentes mesmo ignorando as cores, animação, expressão de carinho/repouso, acessórios por nível, limites de coordenadas e equilíbrio das transformações de desenho.
+- A prévia SVG foi renderizada e os 12 personagens foram inspecionados lado a lado. A prévia usa as mesmas primitivas e coordenadas do desenho no Android; não emula a renderização Android ou a interação em aparelho.
+- Os 12 APKs foram recompilados e tiveram assinatura, application ID, versionCode 2 e versionName 0.2.0 verificados. Os recursos de ícone compilados têm hashes distintos nos 12 APKs.
+- O certificado de cada novo APK foi comparado ao APK 0.1.0 entregue anteriormente: os 12 correspondem. A atualização é instalável por cima daquela edição, sem migração de banco de dados. Isso não cobre instalações oriundas de builds com outras chaves.
+- Não executado nesta atualização: teste em celular real, ciclo de atualização no Android ou desempenho da animação no dispositivo.
+
+## Atualização 0.3.0 — balões BNCC
+
+- Referência consultada: PDF BNCC/MEC completo, com 600 páginas e a etapa do Médio. O índice de 39 códigos e suas páginas está em `curriculum/references.json`, com data e hash do documento consultado. As questões e explicações são originais, não questões oficiais do MEC.
+- Validação estrutural: 42 miniaulas, 42 exercícios e 42 revisões; códigos, anos/etapas, referências, vínculos entre miniaula e questão e permanência dos 36 IDs antigos conferidos.
+- Teste da migração SQLite v1→v2 com esquema legado real: tentativas, textos aprovados e XP preservados; novos registros aceitos. Testadas as consultas reais de elegibilidade da revisão, incluindo intervalo desde a aula, isolamento por perfil e proteção contra repetição da recompensa. Leitura de aula sem dica não conta como exposição à estratégia. Esses testes usam SQLite de desktop, não o framework Android.
+- Núcleo STDP, política adaptativa, necessidades, gestos, personagens e acessórios passaram novamente.
+- Os 12 APKs 0.3.0 foram compilados, assinados e verificados, com códigos de versão incrementados e ícones distintos.
+- Não executados: instalação/atualização real, migração dentro do SQLiteOpenHelper em Android, rolagem/teclado/insets do balão em aparelho e avaliação pedagógica das sequências com alunos. O alinhamento é parcial, com revisão docente recomendada para o plano de aula local; a miniaula não comprova a habilidade inteira.
+
+## Atualização 0.4.0 — toque e repetição
+
+- Reprodução: os 42 anos/séries oferecidos tinham apenas um exercício por miniaula; o sorteio selecionava o primeiro exercício. Um toque no mascote executava somente carinho.
+- Novo catálogo: 168 perguntas de prática, quatro por ano/série, com enunciados e alternativas distintas em cada grupo. IDs anteriores preservados. O banco reduzido de revisões por habilidade é compartilhado entre variantes, sem alegação de itens inéditos.
+- `QuestionDeckTest`: 100 rodadas sem repetição prematura ou na fronteira; reabertura a cada sorteio, continuidade da ordem, mudança de catálogo, recuperação de estado duplicado e caso de um único item.
+- Testes principais de catálogo, SQLite, política, SNN, gestos e personagens executados novamente e aprovados. Os testes de gestos exercem a lógica de arraste; não simulam a nova interação em aparelho.
+- Os 12 APKs foram recompilados e assinados com versão 0.4.0/versionCode 4. A assinatura é a mesma da entrega anterior.
+- Não executados: toque/pressão longa, rolagem, alternativas visíveis e instalação em Android real. A interface nova foi compilada, mas não testada em aparelho ou emulador.

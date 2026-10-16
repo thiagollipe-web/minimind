@@ -1,0 +1,25 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.brittech.minibuddy" android:versionCode="5" android:versionName="0.5.0">
+    <permission android:name="com.brittech.minibuddies.permission.COORDINATE" android:protectionLevel="signature" />
+    <uses-permission android:name="com.brittech.minibuddies.permission.COORDINATE" />
+    <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION" />
+    <application android:allowBackup="false" android:label="Thigas MiniBuddy" android:icon="@drawable/ic_robot" android:theme="@android:style/Theme.Material.NoActionBar" android:supportsRtl="true">
+        <activity android:name="com.brittech.minibuddy.MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.brittech.minibuddy.EducationActivity" android:exported="false" />
+        <activity android:name="com.brittech.minibuddy.MissionsActivity" android:exported="false" />
+        <service android:name="com.brittech.minibuddy.OverlayService" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="User-started interactive floating desktop pet with touch animations and local learning" />
+        </service>
+        <service android:name="com.brittech.minibuddy.CaptureService" android:exported="false" android:foregroundServiceType="mediaProjection" />
+    <receiver android:name="com.brittech.minibuddy.FamilyCoordinator" android:exported="true" android:permission="com.brittech.minibuddies.permission.COORDINATE"><intent-filter><action android:name="com.brittech.minibuddies.ACTIVATE" /></intent-filter></receiver>
+    </application>
+</manifest>
