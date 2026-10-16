@@ -6,14 +6,14 @@ from pathlib import Path
 def run(*args):subprocess.run([str(x) for x in args],check=True)
 def main():
  p=argparse.ArgumentParser();p.add_argument('--sdk',type=Path,default=Path(os.environ.get('ANDROID_HOME','android-sdk')));args=p.parse_args();sdk=args.sdk.resolve();base=Path(__file__).resolve().parent
- tools=sorted((sdk/'build-tools').glob('*/aapt2*'));assert tools,'Instale Android SDK build-tools';tool=tools[-1].parent;jar=sdk/'platforms/android-35/android.jar';assert jar.exists(),'Instale a plataforma android-35'
+ tools=sorted((sdk/'build-tools').glob('*/aapt2*'));assert tools,'Instale Android SDK build-tools';preferred=sdk/'build-tools/35.0.0';tool=preferred if preferred.exists() else tools[-1].parent;jar=sdk/'platforms/android-35/android.jar';assert jar.exists(),'Instale a plataforma android-35'
  suffix='.exe' if os.name=='nt' else '';build=base/'build-family';build.mkdir(exist_ok=True);out=base/'dist';out.mkdir(exist_ok=True)
  for d in ['gen','classes','dex']:
   path=build/d
   if path.exists():shutil.rmtree(path)
   path.mkdir()
  for n in ['aapt2','zipalign']:
-  if os.name!='nt':(tool/n).chmod(0o755)
+  if os.name!='nt' and not os.access(tool/n,os.X_OK):(tool/n).chmod(0o755)
  run(tool/('aapt2'+suffix),'compile','--dir',base/'app/src/main/res','-o',build/'resources.zip')
  key=base/'signing/debug.keystore';key.parent.mkdir(exist_ok=True)
  if not key.exists():run('keytool','-genkeypair','-keystore',key,'-storepass','android','-keypass','android','-alias','androiddebugkey','-keyalg','RSA','-keysize','2048','-validity','10000','-dname','CN=MiniBuddies Debug,O=Brittech,C=BR','-noprompt')
