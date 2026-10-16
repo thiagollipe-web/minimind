@@ -36,7 +36,7 @@ assert db.execute('SELECT SUM(xp) FROM rewards').fetchone()[0]==25
 assert '&&assisted==1' in code
 print('SQLite: separação entre perfis e proteção contra dupla recompensa OK (sem executar APIs Android)')
 with tempfile.TemporaryDirectory() as out:
- files=[src/(n+'.java') for n in ['Brain','TextTools','InteractionLogic','PetState','MissionLab','PedagogyPolicy']]
- tests=[base/'tests'/(n+'.java') for n in ['CoreTest','InteractionTest','MissionsTest','PolicyTest']]
+ files=[src/(n+'.java') for n in ['Brain','TextTools','InteractionLogic','PetState','MissionLab','PedagogyPolicy','BuddyArt']]
+ tests=[base/'tests'/(n+'.java') for n in ['CoreTest','InteractionTest','MissionsTest','PolicyTest','BuddyArtTest']]
  subprocess.run(['java','-m','jdk.compiler/com.sun.tools.javac.Main','-encoding','UTF-8','-d',out,*map(str,files+tests)],check=True)
  for test in tests:subprocess.run(['java','-cp',out,test.stem],check=True,cwd=out)

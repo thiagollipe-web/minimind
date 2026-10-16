@@ -22,3 +22,12 @@ Não executados: instalação em dispositivo, testes de UI, audibilidade real, p
 Para reproduzir os testes principais: `python tools/test_project.py`. Para o áudio, após o build, compile `tests/ChirpTest.java` usando o classpath da plataforma Android e `build-family/classes`, e execute a classe com o mesmo classpath.
 
 A assinatura é de desenvolvimento. Não há publicação na Play Store nem afirmação de prontidão para produção.
+
+## Atualização visual 0.2.0
+
+- Os testes principais foram executados novamente após a alteração e passaram.
+- `BuddyArtTest` verificou 12 geometrias diferentes mesmo ignorando as cores, animação, expressão de carinho/repouso, acessórios por nível, limites de coordenadas e equilíbrio das transformações de desenho.
+- A prévia SVG foi renderizada e os 12 personagens foram inspecionados lado a lado. A prévia usa as mesmas primitivas e coordenadas do desenho no Android; não emula a renderização Android ou a interação em aparelho.
+- Os 12 APKs foram recompilados e tiveram assinatura, application ID, versionCode 2 e versionName 0.2.0 verificados. Os recursos de ícone compilados têm hashes distintos nos 12 APKs.
+- O certificado de cada novo APK foi comparado ao APK 0.1.0 entregue anteriormente: os 12 correspondem. A atualização é instalável por cima daquela edição, sem migração de banco de dados. Isso não cobre instalações oriundas de builds com outras chaves.
+- Não executado nesta atualização: teste em celular real, ciclo de atualização no Android ou desempenho da animação no dispositivo.

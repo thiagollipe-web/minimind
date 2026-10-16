@@ -1,4 +1,4 @@
-# MiniBuddies Educacionais — piloto Android 0.1.0
+# MiniBuddies Educacionais — piloto Android 0.2.0
 
 Doze bichinhos virtuais instaláveis separadamente, com código compartilhado em Java e conteúdo local em JSON. Android 8.0 ou superior. Aplicativos sem permissão de Internet, publicidade ou chave de API.
 
@@ -17,11 +17,11 @@ Doze bichinhos virtuais instaláveis separadamente, com código compartilhado em
 | Química | Atom | MiniBuddy_quimica.apk |
 | Biologia | Bia | MiniBuddy_biologia.apk |
 
-Cada matéria começa com **3 atividades objetivas e 3 perguntas diferentes de revisão**. O catálogo é uma amostra para testar o mecanismo, não uma cobertura curricular. Os personagens usam o mesmo desenho original, com nome e cor próprios; não são reproduções de personagens comerciais.
+Cada matéria começa com **3 atividades objetivas e 3 perguntas diferentes de revisão**. O catálogo é uma amostra para testar o mecanismo, não uma cobertura curricular. Cada personagem tem silhueta, rosto, acessórios, movimentos e ícone próprios. Os desenhos são originais. Veja a [família de personagens](docs/PERSONAGENS.md).
 
 ## Instalar e experimentar
 
-1. Baixe e extraia o pacote dos APKs. Escolha uma matéria e instale seu APK. Autorize a instalação pelo aplicativo que abriu o arquivo, se solicitado pelo Android.
+1. Baixe e extraia o pacote dos APKs. Se já instalou a edição 0.1.0 entregue nesta conversa, instale o novo APK por cima, sem desinstalar; a versão 0.2.0 usa os mesmos IDs e a mesma assinatura, preservando a memória local. Escolha uma matéria e instale seu APK. Autorize a instalação pelo aplicativo que abriu o arquivo, se solicitado pelo Android.
 2. Abra o app e toque em **Estudar, ensinar e ver aprendizagem**. Faça uma atividade, com ou sem dica.
 3. Em **Modo aprendiz**, explique um conceito com um exemplo. O texto fica pendente. Em **Revisar, editar ou aprovar**, revise a exatidão antes de aprovar. Essa é uma revisão humana local, sem autenticação de professor.
 4. Após 30 minutos, faça uma **Revisão sem ajuda**. Não precisa manter o app aberto durante a espera. O resultado fica associado à atividade original.

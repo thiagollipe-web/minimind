@@ -12,6 +12,7 @@ O neurônio LIF acumula corrente e perde potencial por vazamento; ao cruzar o li
 
 - `MainActivity`: painel do pet, permissão de sobreposição, consentimento de captura, som, posição, tamanho, memória geral e perguntas opcionais.
 - `EducationActivity`: atividades com alternativas embaralhadas, revisão após 30 minutos, escolha de perfil e estratégia, ensino, aprovação humana, consultas e exportação.
+- `BuddyArt`: doze personagens vetoriais com silhuetas e animações próprias. O mesmo código de desenho gera o mascote Android, os ícones de instalação e a prévia SVG.
 - `OverlayService` + `RobotView`: pet arrastável, carinho, animações e som. Um laço no serviço verifica perguntas opcionais; sem alarmes exatos ou execução garantida em segundo plano.
 - `StudyBubble`: janela pequena com campo de resposta, botão salvar pendente e atalho ao estudo. A captura ignora quadros enquanto o balão ou a interface estão visíveis, para não treinar com a própria UI.
 - `CaptureService`: serviço de projeção somente com autorização, redução da imagem e mascaramento do pet. Não persiste screenshots completos.
