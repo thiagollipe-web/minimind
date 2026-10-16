@@ -24,6 +24,7 @@ public final class BuddyArtTest {
             if(normal.equals(draw(id,1.1,false,false,1)))throw new AssertionError("No animation: "+id);
             if(normal.equals(draw(id,.7,true,false,1)))throw new AssertionError("No pet reaction: "+id);
             if(normal.equals(draw(id,.7,false,true,1)))throw new AssertionError("No resting expression: "+id);
+            if(!draw(id,.7,false,true,1).equals(draw(id,1.1,false,true,1)))throw new AssertionError("Resting animation did not stop: "+id);
             if(normal.equals(draw(id,.7,false,false,3)))throw new AssertionError("Lost level accessories: "+id);
             for(double t:new double[]{0,.2,2.7,10,100})for(int level:new int[]{1,2,3})draw(id,t,true,false,level);
         }

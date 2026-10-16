@@ -131,7 +131,7 @@ public final class BuddyArt {
     }
     // Volt: pointed rocket, fins, electric badge and pulsing exhaust.
     private static void rocket(Painter p,double t,boolean h,boolean c,float d){
-        float flame=4+Math.abs(wave(t,6))*10;p.polygon(0xffffba58,67,130,80,144+flame,93,130);p.polygon(0xffffe6a5,73,130,80,143,87,130);
+        float flame=4+Math.abs(wave(t,6))*10;p.polygon(0xffffba58,67,130,80,137+flame,93,130);p.polygon(0xffffe6a5,73,130,80,143,87,130);
         p.polygon(0xff5582a8,51,83,29,113,28,139,56,124);p.polygon(0xff5582a8,109,83,131,113,132,139,104,124);
         p.rect(50,51,60,82,20,0xffb6d5df);p.polygon(0xffe98188,50,56,60,32,80,8,100,32,110,56);p.rect(57,126,46,10,4,0xff476b8b);
         p.ellipse(80,78,25,25,0xff527d9e);p.ellipse(80,78,20,20,WHITE);eye(p,72,76,4,h,c,d*.5f);eye(p,88,76,4,h,c,d*.5f);p.line(77,88,83,88,2,INK);

@@ -31,7 +31,7 @@ public final class RobotView extends View {
     @Override protected void onDraw(Canvas c){
         super.onDraw(c);c.save();c.scale(getWidth()/160f,getHeight()/178f);art.canvas=c;
         double time=SystemClock.elapsedRealtime()/1000.;boolean happy=SystemClock.elapsedRealtime()<session.happyUntil;
-        String mood=session.mood();boolean resting=mood.equals("Repouso")||mood.equals("Pausado");
+        boolean resting=session.care.state.resting;
         float direction=session.result==null?0:session.result.direction*3;
         BuddyArt.draw(art,buddyId,time,happy,resting,direction,session.care.state.level());
         paint.setColor(0xffd8d5ed);paint.setStyle(Paint.Style.FILL);paint.setTextAlign(Paint.Align.CENTER);
