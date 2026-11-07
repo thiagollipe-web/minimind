@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Storyboard — Skills & Plugins em Claude e GPT</title>
+<style>
+  :root { --bg:#0a0d14; --card:#121826; --line:#22304a; --cy:#00e5ff; --mg:#ff2e93; --tx:#e6ecf5; --mu:#8a97ad; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--tx); font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif; }
+  header { padding:32px 24px 8px; max-width:1200px; margin:0 auto; }
+  h1 { margin:0 0 4px; font-size:28px; }
+  h1 span { color:var(--cy); }
+  .sub { color:var(--mu); }
+  .timeline { max-width:1200px; margin:20px auto 0; padding:0 24px; display:flex; height:28px; gap:2px; }
+  .timeline a { display:flex; align-items:center; justify-content:center; font-size:11px; color:#001; font-weight:600;
+    text-decoration:none; border-radius:4px; min-width:0; overflow:hidden; }
+  .legend { max-width:1200px; margin:6px auto 0; padding:0 24px; display:flex; gap:16px; flex-wrap:wrap; font-size:12px; color:var(--mu); }
+  .legend i { display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:4px; }
+  main { max-width:1200px; margin:0 auto; padding:16px 24px 64px; }
+  h2 { margin:32px 0 12px; font-size:13px; letter-spacing:.12em; text-transform:uppercase; color:var(--mu);
+    border-bottom:1px solid var(--line); padding-bottom:6px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; }
+  .frame { aspect-ratio:16/9; position:relative; display:flex; align-items:flex-end; padding:10px; overflow:hidden; }
+  .frame::after { content:""; position:absolute; inset:0; background:
+     repeating-linear-gradient(0deg,rgba(255,255,255,.03) 0 1px,transparent 1px 3px); pointer-events:none; }
+  .num { position:absolute; top:8px; left:10px; font-weight:700; font-size:12px; background:rgba(0,0,0,.55); padding:2px 8px; border-radius:99px; }
+  .time { position:absolute; top:8px; right:10px; font-size:12px; background:rgba(0,0,0,.55); padding:2px 8px; border-radius:99px; font-variant-numeric:tabular-nums; }
+  .onscreen { position:relative; z-index:1; font:600 14px ui-monospace,Menlo,monospace; color:#fff; text-shadow:0 2px 8px #000; }
+  .body { padding:12px 14px 14px; display:flex; flex-direction:column; gap:10px; }
+  .lbl { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--cy); margin-bottom:2px; }
+  .vo { font-style:italic; }
+  .shot { color:var(--mu); font-size:13px; }
+  .tag { align-self:flex-start; font-size:11px; padding:2px 8px; border-radius:99px; border:1px solid var(--line); color:var(--mu); }
+  footer { text-align:center; color:var(--mu); font-size:12px; padding:0 0 40px; }
+  @media print { body { background:#fff; color:#000; } .card { break-inside:avoid; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Storyboard — <span>Skills &amp; Plugins</span> em Claude e GPT</h1>
+  <div class="sub">14 cenas · ~3:30 · 16:9 · Clique na linha do tempo para pular para a cena. Painéis são placeholders de cor; substitua pelos clipes gerados.</div>
+</header>
+<div class="timeline" id="timeline"></div>
+<div class="legend" id="legend"></div>
+<main id="main"></main>
+<footer>Fonte: docs/video/skills-plugins-script.md · números de tokens da Cena 11 são ilustrativos</footer>
+
+<script>
+const sections = {
+  hook:   { name:"Hook",                 color:"#00e5ff", bg:"linear-gradient(135deg,#031a2a,#0a4b63)" },
+  claude: { name:"Claude (Seção 1)",     color:"#ff9d5c", bg:"linear-gradient(135deg,#2a1206,#6b3513)" },
+  gpt:    { name:"GPT (Seção 2)",        color:"#4ade80", bg:"linear-gradient(135deg,#04210f,#0f5a2d)" },
+  comp:   { name:"Comparação (Seção 3)", color:"#ff2e93", bg:"linear-gradient(135deg,#2a0618,#6b1346)" },
+  outro:  { name:"Outro",                color:"#a78bfa", bg:"linear-gradient(135deg,#150a2e,#3b2370)" }
+};
+
+// [section, start, end, label, shot, vo, onscreen]
+const scenes = [
+ ["hook",0,7,"Cursor → caixa se fragmenta",
+  "Macro do cursor piscando; dolly para trás; caixa de chat se parte em tiles flutuantes. Luz ciano, névoa volumétrica, anamórfica 35mm.",
+  "Há dois anos, a IA era uma caixa de texto. Você digitava. Ela respondia. Só isso.",
+  "▍ 2023 — Chat"],
+ ["hook",7,15,"Agente se monta",
+  "Whip-pan pelos tiles; silhueta de luz se monta e encaixa cartuchos como cinto de ferramentas. Neon magenta/ciano, push-in rápido.",
+  "Hoje, é um agente — com memória, ferramentas e skills sob seu controle. Veja como carregá-las no Claude e no GPT.",
+  "SKILLS & PLUGINS · 01 Claude / 02 GPT / 03 Comparação"],
+ ["claude",15,30,"Anatomia do SKILL.md",
+  "Over-the-shoulder, três monitores, órbita lenta até o terminal. Árvore de pastas holográfica sobre o teclado, rack focus.",
+  "No Claude, uma skill é uma pasta com um arquivo SKILL.md: nome, descrição e instruções. O Claude só carrega quando a tarefa combina — contexto limpo.",
+  "~/.claude/skills/caveman/SKILL.md"],
+ ["claude",30,48,"Instalação",
+  "Macro dos dedos no teclado mecânico, glow ciano; UI screen overlay tracking com comandos sendo digitados e caixas de destaque.",
+  "Skills pessoais ficam na home. Skills de projeto ficam no repositório. Para mais, adicione um marketplace e instale com /plugin.",
+  "/plugin marketplace add · /plugin install"],
+ ["claude",48,65,"Caveman mode",
+  "Split: parede de texto cinza vs. pintura rupestre neon que vira UI minimalista. Morph suave, fogo quente → ciano frio.",
+  "Exemplo um: modo Caveman. Sem rodeios, sem repetir a pergunta. Mesmos fatos, menos tokens, resposta mais rápida.",
+  "/caveman — Antes: “Certamente! Terei prazer…” → Depois: “Bug linha 42. Falta null check.”"],
+ ["claude",65,80,"REA + memória do app",
+  "Macro de placa de circuito; câmera atravessa o chip até wireframe 3D de código dissecado por laser magenta; transição para painel de configurações.",
+  "Exemplo dois: REA, engenharia reversa — mapear, rastrear, documentar. No app, envie a skill nas configurações ou use as instruções do Projeto.",
+  "/rea · Terminal = Claude Code · App = Skills / Projetos"],
+ ["gpt",80,95,"Plugins → GPTs",
+  "Corte duro para paleta branco/verde; cartão holográfico sobe de mesa de vidro preta; órbita 360° com reflexos.",
+  "No mundo GPT, a loja de Plugins acabou. O caminho hoje: GPTs personalizados com instruções, arquivos e Actions.",
+  "Plugins (descontinuado) → GPTs + Actions"],
+ ["gpt",95,115,"Actions e OpenAPI",
+  "Painel do construtor com abas; schema JSON rolando; pulsos magenta viajam por fibra até rack de servidores azulado; macro de LED.",
+  "Uma Action é um schema OpenAPI. Cole, escolha a autenticação — chave de API ou OAuth — e o GPT chama o endpoint.",
+  "Configure → Actions · openapi: 3.1 · Auth: API Key / OAuth"],
+ ["gpt",115,140,"Webhooks",
+  "Plano zenital de grafo de nós: GPT → automação → 3 serviços; pulsos de luz e retorno como webhook; match-cut para celular vibrando.",
+  "Webhooks fecham o ciclo. O GPT chama uma Action, o fluxo roda e um webhook avisa seu sistema. O GPT não recebe webhook direto: seu servidor fica no meio.",
+  "GPT → Action → Zapier/Make/API → Webhook → Slack/DB"],
+ ["comp",140,155,"O teste",
+  "Split-screen com costura neon: terminal ciano (Claude Code) vs. chat verde (GPT). Push-in na costura, partículas viram fluxos de tokens.",
+  "Mesma tarefa nos dois. Vamos medir o que importa: tokens gastos e quanto trabalho acontece sem você.",
+  "THE TEST · Tokens: 0 | Tokens: 0"],
+ ["comp",155,175,"Tokens e autonomia",
+  "Dashboard de vidro com barras neon; barra Caveman despenca; slider lateral com parallax; wipe de luz.",
+  "Com Caveman, a saída cai pela metade na nossa execução, com o conteúdo técnico intacto. No Claude Code, skills e ferramentas rodam em vários passos. As Actions do GPT são passos definidos por você.",
+  "1.000 tokens → ~500 (ilustrativo) · tabela comparativa"],
+ ["comp",175,185,"Regra de ouro",
+  "Montagem rápida: cronômetro macro, terminal com check verde, resposta GPT com ping. Whip-pans no beat drop.",
+  "Regra prática: skills para trabalho profundo e local. Actions para ligar o mundo externo. O melhor setup usa os dois.",
+  "Skills → profundidade · Actions → alcance"],
+ ["outro",185,200,"Futuro híbrido",
+  "Aérea épica descendo pelas nuvens sobre cidade na hora azul; linhas de dados ligam servidores a um laptop na varanda; grua para baixo.",
+  "O futuro é híbrido. Modelos locais para privacidade e velocidade. Nuvem para escala. E skills e plugins como a camada portátil que leva sua expertise entre eles.",
+  "Local · Nuvem · Seu"],
+ ["outro",200,210,"Chamada final",
+  "Mão clica num tile “próximo vídeo”; câmera recua para grade de end screens sobre grid neon pulsante; sting de logo.",
+  "Pegue os templates na descrição, escolha um fluxo e construa hoje. Inscreva-se — no próximo, escrevemos uma skill do zero.",
+  "Inscreva-se · /caveman /rea /plugin"]
+];
+
+const fmt = s => Math.floor(s/60) + ":" + String(s%60).padStart(2,"0");
+const total = scenes[scenes.length-1][2];
+
+// timeline
+const tl = document.getElementById("timeline");
+scenes.forEach((s,i) => {
+  const a = document.createElement("a");
+  a.href = "#s"+(i+1);
+  a.style.flex = (s[2]-s[1]);
+  a.style.background = sections[s[0]].color;
+  a.title = `Cena ${i+1}: ${s[3]} (${fmt(s[1])}–${fmt(s[2])})`;
+  a.textContent = i+1;
+  tl.appendChild(a);
+});
+document.getElementById("legend").innerHTML = Object.values(sections)
+  .map(v => `<span><i style="background:${v.color}"></i>${v.name}</span>`).join("");
+
+// cards, grouped by section
+const main = document.getElementById("main");
+let last = null, grid = null;
+scenes.forEach((s,i) => {
+  if (s[0] !== last) {
+    const h = document.createElement("h2");
+    h.textContent = sections[s[0]].name;
+    grid = document.createElement("div"); grid.className = "grid";
+    main.append(h, grid); last = s[0];
+  }
+  const sec = sections[s[0]];
+  const c = document.createElement("article");
+  c.className = "card"; c.id = "s"+(i+1);
+  const esc = t => t.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+  c.innerHTML = `
+    <div class="frame" style="background:${sec.bg}">
+      <span class="num">Cena ${i+1}</span>
+      <span class="time">${fmt(s[1])} – ${fmt(s[2])} · ${s[2]-s[1]}s</span>
+      <div class="onscreen">${esc(s[6])}</div>
+    </div>
+    <div class="body">
+      <strong>${esc(s[3])}</strong>
+      <div><div class="lbl">Visual / prompt</div><div class="shot">${esc(s[4])}</div></div>
+      <div><div class="lbl">Locução</div><div class="vo">“${esc(s[5])}”</div></div>
+      <span class="tag">${sec.name}</span>
+    </div>`;
+  grid.appendChild(c);
+});
+console.assert(total === 210, "duração total esperada: 3:30");
+</script>
+</body>
+</html>
