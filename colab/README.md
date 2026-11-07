@@ -7,3 +7,5 @@
 O notebook valida os presets LoRA do app, treina o preset MiniMind (SmolLM2-135M como substituto) e imprime um relatório PASS/FAIL. A última célula falha (`assert`) se algum teste falhar.
 
 Nota: o notebook não foi executado no ambiente de desenvolvimento (sem acesso ao Hugging Face); apenas a sintaxe foi validada.
+
+Limitações conhecidas: o treino roda em fp32 (os presets do app declaram QLoRA 4-bit, não exercitado aqui) e os presets estão copiados de `LoraViewModel.kt`; mantenha os dois sincronizados.
