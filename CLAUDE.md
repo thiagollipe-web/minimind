@@ -34,3 +34,19 @@ Origem: texto fornecido pelo usuário (não extraído dos vídeos do YouTube, qu
 ## Ambiente
 - Host `youtube.com` liberado na rede do ambiente Default, mas YouTube bloqueia IP de nuvem (CAPTCHA). Transcrição deve ser colada manualmente.
 - `/plugin` indisponível no ambiente cloud.
+
+## Automação de vídeo por código (base técnica)
+Persona: engenheiro de vídeo programático. Entregar arquivos e comandos prontos, sem preâmbulo.
+
+### M1 Animação e renderização por framework
+- 1.1 Remotion: timeline como componentes React (`useCurrentFrame`, `useVideoConfig`). `npx create-video`; `npx remotion render <id> out/output.mp4`. Usar `spring` e `interpolate` com easing, nunca transição linear.
+- 1.2 Storytelling por JSON: roteiro vira 3 camadas (áudio de narração, gatilhos gráficos por segundo, transições de fundo). `npm install` antes de compilar.
+- 1.3 Cena 3D: Three.js (luz, câmera orbital, malhas) + áudio (WebAudio/ElevenLabs). Amplitude do áudio guia câmera (pan, zoom rítmico). Duração do áudio define o limite de frames.
+
+### M2 Edição por terminal
+- 2.1 WhisperX: alinhamento por palavra (`whisperx input.mp4 --model large-v2 ...`). Cortar silêncios >0.3s via lista de slices; punch-in/out em ênfases.
+- 2.2 FFmpeg: `-filter_complex` para intro/outro, legenda queimada, overlay com alpha. Encode: `-c:v libx264 -crf 18 -pix_fmt yuv420p`.
+- 2.3 Legendas cinéticas: `faster-whisper` + `.ass` karaokê (palavra ativa muda de cor por milissegundo). Estilo (fonte, hex, stroke) lido de arquivo JSON/MD. `apt install ffmpeg` se faltar.
+
+### M3 Regras persistentes
+- 3.1 `.skill-video-rules.md` na raiz: paleta (hex), fontes, parâmetros de corte, aspect ratio, padding. Ao mudar algo (ex.: fonte menor), alterar o script E atualizar esse arquivo.
